@@ -40,6 +40,19 @@ def members() -> list:
     return sorted(ids)
 
 
+def readme_has_member(title: str, member: str) -> bool:
+    """Cho phép mã 3 chữ số khớp duy nhất đuôi MSHV đầy đủ trên README.
+
+    Nhóm DucTung dùng 178/144 trong assignment, giữ 2A202603xxx ở tiêu đề.
+    Không thay đổi yêu cầu có nhãn, guideline hay bất kỳ ngưỡng QC nào.
+    """
+    ids = re.findall(r"(?<![A-Za-z0-9_])([A-Za-z0-9]+)\s*-\s*\S", title)
+    matches = [sid for sid in ids if sid == member or
+               (len(member) == 3 and member.isdigit() and len(sid) > 3
+                and sid.endswith(member))]
+    return len(matches) == 1
+
+
 def main() -> int:
     team = members()
     print(f"Thành viên (theo assignment.csv): {', '.join(team) or '(chưa có)'}")
@@ -58,7 +71,7 @@ def main() -> int:
         if "<" in title and ">" in title:
             err("Tiêu đề README còn placeholder `<...>`: hãy điền tên nhóm và danh sách MSHV - Họ tên.")
         for m in team:
-            if not re.search(rf"\b{re.escape(m)}\s*-\s*\S", title):
+            if not readme_has_member(title, m):
                 err(f"Tiêu đề README thiếu `{m} - Họ và tên`.")
 
     # guideline cá nhân
