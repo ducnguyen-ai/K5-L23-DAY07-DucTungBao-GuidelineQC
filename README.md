@@ -3,14 +3,16 @@
 ## Setup nhóm sau khi cập nhật đề
 
 - Repo: `K5-L23-DAY07-DucTungBao-GuidelineQC`; lớp **L2**, 3 thành viên, mỗi ảnh **K = 2 người gán độc lập**.
-- Đã cài môi trường và có assignment. Chưa có guideline cá nhân, v1.0 đã khóa, nhãn, IAA hoặc kết quả QC.
+- Đã có assignment và guideline chung v1.0 được chốt. Đang gán/rà nhãn; chưa có kết quả IAA, calibration hoặc QC bàn giao.
 - Bản đề mới chỉ dùng mã trong tên file, Task và nhật ký. Không đưa họ tên, MSHV đầy đủ hay email vào artifact nộp; bảng đối chiếu gửi riêng qua kênh lớp.
 - Fork này vẫn public. Gửi guideline/nhãn cá nhân riêng cho đến khi cả nhóm hoàn thành pha độc lập; không push sớm lên repo chung. Nộp cuối qua repo private có quyền coach hoặc ZIP qua LMS theo [SUBMISSION.md](SUBMISSION.md).
 - Lịch sử fork có thông tin thành viên từ setup trước; việc sửa nội dung hiện tại không xóa lịch sử đó. Không dùng link fork public thay cho kênh nộp riêng tư mới.
 
-## Guideline tổng hợp đang chờ nhóm xác nhận
+## Guideline chung đã chốt
 
-[Bản chung v1.0-proposed](submission/guidelines/guideline_v1.0_proposed.md) đối chiếu ba nguồn 138/144/178, có bảng sửa mâu thuẫn và các mục cần chốt. [Taxonomy đề xuất](submission/guidelines/taxonomy_v1.0_proposed.json) gồm 7 lớp đối tượng và ignore_region, chưa thay taxonomy active. Nguồn 178 là nháp có AI hỗ trợ, chưa có xác nhận đã review; nguồn 144 lấy từ branch cá nhân, không nhập nhãn của branch đó vào main. Chưa tạo bản agreed hoặc tuyên bố nhóm đã khóa v1.0.
+Áp dụng [guideline v1.0](submission/guidelines/guideline_v1.0_agreed.md) cho cả nhóm. [Taxonomy v1.0](submission/taxonomy.json) và [cấu hình CVAT](cvat/labels_generated.json) có 7 lớp đối tượng (`car`, `truck`, `van`, `bus`, `tuk_tuk`, `motorcycle`, `person`) cùng `ignore_region`. Ngưỡng QC giữ nguyên theo đề.
+
+[Bản áp dụng của 178](submission/guidelines/individual/guideline_178.md) theo đủ 5 phần của mẫu. Các nguồn cá nhân 138/144 giữ nguyên để đối chiếu. Ghi chú sử dụng công cụ và tiến độ của 178 nằm trong [ghi chú cá nhân](submission/individual_notes/178.md).
 
 ## Cài và tái lập phân công
 
