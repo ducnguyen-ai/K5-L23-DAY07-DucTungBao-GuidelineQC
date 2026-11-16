@@ -31,7 +31,10 @@ def main() -> None:
                     "mutable": False,
                     "input_type": a["type"],
                     "default_value": str(a.get("default", "")),
-                    "values": [str(v) for v in a.get("values", [])] if a["type"] == "select" else [],
+                    # CVAT requires a non-empty values list for a checkbox, too.
+                    # The lab taxonomy stores checkbox values=[]; adapt only the CVAT payload.
+                    "values": ([str(v) for v in a.get("values", [])]
+                               if a["type"] == "select" else [str(a.get("default", "false")).lower()]),
                 })
         labels.append({"name": name, "color": "#808080" if name == tax.ignore else COLORS[i % len(COLORS)],
                        "attributes": attrs})
