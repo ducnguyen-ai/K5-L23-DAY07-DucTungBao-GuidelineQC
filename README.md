@@ -1,37 +1,42 @@
-# Day 07 Lab — Nhóm DucTung: 2A202603178 - Nguyễn Cao Ngọc Đức, 2A202603144 - Nguyễn Khánh Tùng
+# Day 07 Lab — Nhóm DucTungBao: 2A202603178 - Nguyễn Cao Ngọc Đức, 2A202603144 - Nguyễn Khánh Tùng, 2A202603138 - Hoàng Gia Bảo
 
 ## Nhóm và trạng thái setup
 
-- Repo public: https://github.com/ducnguyen-ai/DucTung
-- Lớp: **L2**; nhóm **2 người**, mỗi ảnh **K = 2 người gán độc lập**.
+- Repo public: https://github.com/ducnguyen-ai/K5-L23-DAY07-DucTungBao-GuidelineQC
+- Tên nhóm: **DucTungBao**; tên repo đúng mẫu SUBMISSION: **K5-L23-DAY07-DucTungBao-GuidelineQC**.
+- Lớp: **L2**; nhóm **3 người**, mỗi ảnh **K = 2 người gán độc lập**.
 - Nguyễn Cao Ngọc Đức: **178**, GitHub [ducnguyen-ai](https://github.com/ducnguyen-ai), email Git `26ai.ducncn@vinuni.edu.vn`.
-- Nguyễn Khánh Tùng: **144**, GitHub [sfpcshch](https://github.com/sfpcshch). Tùng tự cấu hình Git bằng tên và email của mình.
-- Dùng MSHV đầy đủ trên tiêu đề README; dùng **178/144** trong TEAM, assignment và tên file cá nhân.
-- Đã chuẩn bị môi trường Python và chia 40 ảnh cho mỗi người. **Chưa hoàn thành guideline cá nhân, chưa chốt v1.0, chưa gán nhãn hoặc đo IAA.**
-
-Tên repo **DucTung** theo yêu cầu của nhóm, khác mẫu `K5-L23-DAY07-[TenNhom]-GuidelineQC` trong đề; cần đối chiếu yêu cầu tên khi nộp. Fork và lịch sử đề gốc được giữ nguyên.
+- Nguyễn Khánh Tùng: **144**, GitHub [sfpcshch](https://github.com/sfpcshch).
+- Hoàng Gia Bảo: **138**, GitHub [GBao294](https://github.com/GBao294).
+- Mỗi thành viên tự cấu hình Git bằng tên/email của mình. Dùng MSHV đầy đủ trên tiêu đề README; dùng **178/144/138** trong TEAM, assignment và tên file cá nhân.
+- Đã chuẩn bị môi trường Python và chia ảnh. **Chưa hoàn thành guideline cá nhân, chưa chốt v1.0, chưa gán nhãn hoặc đo IAA.** Fork và lịch sử đề gốc được giữ nguyên.
 
 ## Bắt đầu trên máy mỗi thành viên
 
 ```powershell
-git clone https://github.com/ducnguyen-ai/DucTung.git
-cd DucTung
+git clone https://github.com/ducnguyen-ai/K5-L23-DAY07-DucTungBao-GuidelineQC.git
+cd K5-L23-DAY07-DucTungBao-GuidelineQC
 python -m venv .venv
 .venv/Scripts/python.exe -m pip install -r requirements.txt
-.venv/Scripts/python.exe scripts/split_assign.py --members 178,144 --seed 42 --copy-images
+.venv/Scripts/python.exe scripts/split_assign.py --members 178,144,138 --seed 42 --copy-images
 ```
 
-- Đức mở `work/178/images/`; Tùng mở `work/144/images/`. Mỗi thư mục có đúng 40 ảnh; cùng ảnh nhưng làm độc lập, không xem guideline hoặc nhãn của nhau trong Pha 1/Pha 3.
-- **Việc đầu tiên:** mỗi người tự xem 40 ảnh, đọc `guideline/guideline_v0_starter.md`, dùng `guideline/TEMPLATE_guideline.md` để tự viết bản cá nhân. Chưa bắt đầu gán box.
-- File Đức: `submission/guidelines/individual/guideline_178_NguyenCaoNgocDuc.md`; file Tùng: `submission/guidelines/individual/guideline_144_NguyenKhanhTung.md`.
-- Sau khi mỗi người đã commit bản cá nhân, họp chốt `guideline_v1.0_agreed.md` và `submission/taxonomy.json`, rồi chạy `scripts/make_cvat_labels.py` và tạo CVAT task riêng.
-- Tên task đề xuất: `Day07-DucTung-178` và `Day07-DucTung-144`. Mỗi người giữ nhãn riêng đến hết pha gán độc lập.
-- Export COCO 1.0: `submission/labels/178_NguyenCaoNgocDuc.json` hoặc `submission/labels/144_NguyenKhanhTung.json`.
+| Thành viên | Ảnh được giao | Thư mục upload CVAT | File guideline cá nhân |
+|---|---:|---|---|
+| 178 - Nguyễn Cao Ngọc Đức | 27 | `work/178/images/` | `guideline_178_NguyenCaoNgocDuc.md` |
+| 144 - Nguyễn Khánh Tùng | 27 | `work/144/images/` | `guideline_144_NguyenKhanhTung.md` |
+| 138 - Hoàng Gia Bảo | 26 | `work/138/images/` | `guideline_138_HoangGiaBao.md` |
+
+- **Pha 1:** cả ba tự xem đủ 40 ảnh gốc để tìm điểm mơ hồ trong v0, dùng `guideline/TEMPLATE_guideline.md` để tự viết bản cá nhân vào `submission/guidelines/individual/`. Không xem bản của nhau trong pha độc lập.
+- Sau khi từng người tự commit bản cá nhân, họp chốt `guideline_v1.0_agreed.md` và `submission/taxonomy.json`, rồi chạy `scripts/make_cvat_labels.py` và tạo task CVAT riêng.
+- **Pha 3:** chỉ gán ảnh được giao trong bảng/danh sách `submission/qc/assignments/`; không phải mỗi người gán cả 40 ảnh. Mỗi ảnh vẫn có đúng hai bộ nhãn độc lập.
+- Tên task đề xuất: `Day07-DucTungBao-178`, `Day07-DucTungBao-144`, `Day07-DucTungBao-138`.
+- Export COCO 1.0 tương ứng: `submission/labels/178_NguyenCaoNgocDuc.json`, `144_NguyenKhanhTung.json`, `138_HoangGiaBao.json`.
 - Theo RULES.md, AI được hỗ trợ giải thích/script/chính tả; không gán box hoặc quyết định ca ảnh thay người làm. Không tạo kết quả QC khi chưa thực hiện.
 
 ### Tương thích ID rút gọn
 
-`check_submission.py` được điều chỉnh riêng bước kiểm tiêu đề: chấp nhận mã 3 chữ số khi khớp duy nhất đuôi MSHV đầy đủ trên README. Lý do: TEAM/assignment dùng 178/144 nhưng README giữ 2A202603178/2A202603144 theo yêu cầu nhóm. Các kiểm tra nội dung bắt buộc, script nhãn và toàn bộ ngưỡng QC vẫn giữ nguyên. Ghi chú thay đổi này vào báo cáo QC cuối bài.
+`check_submission.py` được điều chỉnh riêng bước kiểm tiêu đề: chấp nhận mã 3 chữ số khi khớp duy nhất đuôi MSHV đầy đủ trên README. TEAM/assignment dùng 178/144/138, README giữ 2A202603178/2A202603144/2A202603138 theo yêu cầu nhóm. Các kiểm tra sản phẩm bắt buộc, script nhãn và toàn bộ ngưỡng QC giữ nguyên. Ghi chú thay đổi này vào báo cáo QC cuối bài.
 
 ---
 

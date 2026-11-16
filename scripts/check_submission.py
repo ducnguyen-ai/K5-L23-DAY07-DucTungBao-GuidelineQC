@@ -43,7 +43,7 @@ def members() -> list:
 def readme_has_member(title: str, member: str) -> bool:
     """Cho phép mã 3 chữ số khớp duy nhất đuôi MSHV đầy đủ trên README.
 
-    Nhóm DucTung dùng 178/144 trong assignment, giữ 2A202603xxx ở tiêu đề.
+    Nhóm DucTungBao dùng 178/144/138 trong assignment, giữ 2A202603xxx ở tiêu đề.
     Không thay đổi yêu cầu có nhãn, guideline hay bất kỳ ngưỡng QC nào.
     """
     ids = re.findall(r"(?<![A-Za-z0-9_])([A-Za-z0-9]+)\s*-\s*\S", title)
