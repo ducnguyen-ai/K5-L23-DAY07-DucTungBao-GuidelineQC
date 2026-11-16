@@ -1,54 +1,53 @@
-# Day 07 Lab — Nhóm DucTungBao: 2A202603178 - Nguyễn Cao Ngọc Đức, 2A202603144 - Nguyễn Khánh Tùng, 2A202603138 - Hoàng Gia Bảo
+# Day 07 Lab — Nhóm DucTungBao — mã 178, 144, 138
 
-## Nhóm và trạng thái setup
+## Setup nhóm sau khi cập nhật đề
 
-- Repo public: https://github.com/ducnguyen-ai/K5-L23-DAY07-DucTungBao-GuidelineQC
-- Tên nhóm: **DucTungBao**; tên repo đúng mẫu SUBMISSION: **K5-L23-DAY07-DucTungBao-GuidelineQC**.
-- Lớp: **L2**; nhóm **3 người**, mỗi ảnh **K = 2 người gán độc lập**.
-- Nguyễn Cao Ngọc Đức: **178**, GitHub [ducnguyen-ai](https://github.com/ducnguyen-ai), email Git `26ai.ducncn@vinuni.edu.vn`.
-- Nguyễn Khánh Tùng: **144**, GitHub [sfpcshch](https://github.com/sfpcshch).
-- Hoàng Gia Bảo: **138**, GitHub [GBao294](https://github.com/GBao294).
-- Mỗi thành viên tự cấu hình Git bằng tên/email của mình. Dùng MSHV đầy đủ trên tiêu đề README; dùng **178/144/138** trong TEAM, assignment và tên file cá nhân.
-- Đã chuẩn bị môi trường Python và chia ảnh. **Chưa hoàn thành guideline cá nhân, chưa chốt v1.0, chưa gán nhãn hoặc đo IAA.** Fork và lịch sử đề gốc được giữ nguyên.
+- Repo: `K5-L23-DAY07-DucTungBao-GuidelineQC`; lớp **L2**, 3 thành viên, mỗi ảnh **K = 2 người gán độc lập**.
+- Đã cài môi trường và có assignment. Chưa có guideline cá nhân, v1.0 đã khóa, nhãn, IAA hoặc kết quả QC.
+- Bản đề mới chỉ dùng mã trong tên file, Task và nhật ký. Không đưa họ tên, MSHV đầy đủ hay email vào artifact nộp; bảng đối chiếu gửi riêng qua kênh lớp.
+- Fork này vẫn public. Gửi guideline/nhãn cá nhân riêng cho đến khi cả nhóm hoàn thành pha độc lập; không push sớm lên repo chung. Nộp cuối qua repo private có quyền coach hoặc ZIP qua LMS theo [SUBMISSION.md](SUBMISSION.md).
+- Lịch sử fork có thông tin thành viên từ setup trước; việc sửa nội dung hiện tại không xóa lịch sử đó. Không dùng link fork public thay cho kênh nộp riêng tư mới.
 
-## Bắt đầu trên máy mỗi thành viên
+## Cài và tái lập phân công
 
 ```powershell
-git clone https://github.com/ducnguyen-ai/K5-L23-DAY07-DucTungBao-GuidelineQC.git
-cd K5-L23-DAY07-DucTungBao-GuidelineQC
 python -m venv .venv
 .venv/Scripts/python.exe -m pip install -r requirements.txt
 .venv/Scripts/python.exe scripts/split_assign.py --members 178,144,138 --seed 42 --copy-images
 ```
 
-| Thành viên | Ảnh được giao | Thư mục upload CVAT | File guideline cá nhân |
-|---|---:|---|---|
-| 178 - Nguyễn Cao Ngọc Đức | 27 | `work/178/images/` | `guideline_178_NguyenCaoNgocDuc.md` |
-| 144 - Nguyễn Khánh Tùng | 27 | `work/144/images/` | `guideline_144_NguyenKhanhTung.md` |
-| 138 - Hoàng Gia Bảo | 26 | `work/138/images/` | `guideline_138_HoangGiaBao.md` |
+| Mã | Số ảnh gán | Thư mục ảnh | Guideline cá nhân | Nhãn COCO 1.0 |
+|---|---:|---|---|---|
+| 178 | 27 | `work/178/images/` | `guideline_178.md` | `178.json` |
+| 144 | 27 | `work/144/images/` | `guideline_144.md` | `144.json` |
+| 138 | 26 | `work/138/images/` | `guideline_138.md` | `138.json` |
 
-- **Pha 1:** cả ba tự xem đủ 40 ảnh gốc để tìm điểm mơ hồ trong v0, dùng `guideline/TEMPLATE_guideline.md` để tự viết bản cá nhân vào `submission/guidelines/individual/`. Không xem bản của nhau trong pha độc lập.
-- Sau khi từng người tự commit bản cá nhân, họp chốt `guideline_v1.0_agreed.md` và `submission/taxonomy.json`, rồi chạy `scripts/make_cvat_labels.py` và tạo task CVAT riêng.
-- **Pha 3:** chỉ gán ảnh được giao trong bảng/danh sách `submission/qc/assignments/`; không phải mỗi người gán cả 40 ảnh. Mỗi ảnh vẫn có đúng hai bộ nhãn độc lập.
-- Tên task đề xuất: `Day07-DucTungBao-178`, `Day07-DucTungBao-144`, `Day07-DucTungBao-138`.
-- Export COCO 1.0 tương ứng: `submission/labels/178_NguyenCaoNgocDuc.json`, `144_NguyenKhanhTung.json`, `138_HoangGiaBao.json`.
-- Theo RULES.md, AI được hỗ trợ giải thích/script/chính tả; không gán box hoặc quyết định ca ảnh thay người làm. Không tạo kết quả QC khi chưa thực hiện.
+- Pha 1: mỗi người xem đủ 40 ảnh gốc, tự viết guideline theo `guideline/TEMPLATE_guideline.md`, gửi riêng. Sau khi tất cả nộp, mới mở bản của nhau để họp.
+- Pha 2: nhóm khóa `guideline_v1.0_agreed.md` và taxonomy v1.0; giữ nguyên mục `rules`; chạy `scripts/make_cvat_labels.py` trước tạo task.
+- Pha 3: chỉ upload ảnh được giao theo `submission/qc/assignments/<mã>.txt`; task tên `Day07-178`, `Day07-144`, `Day07-138`. Gán độc lập, export và gửi riêng trước khi tổng hợp.
+- File guideline đặt ở `submission/guidelines/individual/`; nhãn ở `submission/labels/`; ghi chú cá nhân ở `submission/individual_notes/178.md`, `144.md`, `138.md`.
+- Các bước calibration, manifest và QC theo vòng dùng nguyên script mới; chưa tạo artifact đánh giá khi chưa review thật.
 
-### Tương thích ID rút gọn
+## Kiểm tra môi trường / script
 
-`check_submission.py` được điều chỉnh riêng bước kiểm tiêu đề: chấp nhận mã 3 chữ số khi khớp duy nhất đuôi MSHV đầy đủ trên README. TEAM/assignment dùng 178/144/138, README giữ 2A202603178/2A202603144/2A202603138 theo yêu cầu nhóm. Các kiểm tra sản phẩm bắt buộc, script nhãn và toàn bộ ngưỡng QC giữ nguyên. Ghi chú thay đổi này vào báo cáo QC cuối bài.
+```powershell
+$env:PYTHONUTF8 = "1"
+.venv/Scripts/python.exe -m unittest discover -s tests -v
+```
+
+Bộ test dùng dữ liệu tạm, không phải nhãn thực tế của nhóm. `check_submission.py --round 1` chỉ kiểm bài hoàn chỉnh khi có đầy đủ đầu vào; setup xong chưa đồng nghĩa bài đã hoàn thành.
 
 ---
 
-**Nhóm 2–5 người · 4 giờ · 40 ảnh đường phố châu Á · gán box bằng CVAT**
+**Nhóm 2–5 người · 4 giờ · 40 ảnh đường phố · gán box bằng CVAT**
 
-Bạn nhận một guideline gán nhãn **sơ sài** và 40 ảnh chứa nhiều tình huống mà nó không nói tới.
-Việc của nhóm: **viết lại guideline cho đủ dùng**, chia việc, gán nhãn độc lập, đo độ đồng thuận, họp calibration,
-rồi quyết định **Release / Hold / Rework** cho lô nhãn.
+Bạn nhận một guideline **sơ sài** và 40 ảnh chứa nhiều tình huống mà nó không nói tới.
+Nhóm **viết lại guideline cho đủ dùng**, gán nhãn độc lập, đo độ đồng thuận, họp calibration,
+rồi bàn giao nhãn kèm quyết định **Release / Hold / Rework**.
 
 ![Mẫu ảnh trong bộ dữ liệu](docs/assets/sample_grid.jpg)
 
-*Có gì lạ trong ảnh? Tuk-tuk, xe chở xe, tượng, xe giả tưởng, tượng pickup, ma-nơ-canh… Guideline của bạn phải xử lý được chúng.*
+*Tuk-tuk, xe chở xe, tượng, xe giả tưởng, tượng pickup, ma-nơ-canh… Guideline của bạn phải xử lý được chúng.*
 
 ## Quy trình
 
@@ -58,18 +57,16 @@ flowchart LR
   B --> C[3. Chia ảnh<br/>và gán nhãn]
   C --> D[4. So sánh<br/>đo IAA]
   D --> E[5. Calibration]
-  E --> F[6. QC mẫu<br/>và báo cáo]
+  E --> F[6. QC<br/>và bàn giao]
 ```
 
 Trọng tâm là **guideline**: nhãn chỉ tốt khi mọi người hiểu quy tắc giống nhau.
 
 ## Bắt đầu
 
-1. **Fork** repo thành repo **public** của nhóm, mời các bạn làm collaborator, mỗi người `git clone`.
-2. Đọc **[GUIDE.md](GUIDE.md)** (từng pha, lệnh chạy) và **[RULES.md](RULES.md)**.
-3. `pip install -r requirements.txt` (Python 3.9+).
-
-> Tiêu đề đã điền đủ hai thành viên. Trước khi nộp, đối chiếu [SUBMISSION.md](SUBMISSION.md).
+1. Clone [repo lab](https://github.com/VinUni-AI20k/K5-L23-Day07-Guideline-Taxonomy-QC). Nộp bài bằng repo riêng tư hoặc gói nén theo hướng dẫn của coach.
+2. Cài Python 3.9+ và `python -m pip install -r requirements.txt`. Dùng tài khoản CVAT của lớp.
+3. Mỗi người nhận một **mã thành viên** ba chữ số (ví dụ `101`). Đọc **[GUIDE.md](GUIDE.md)** rồi **[RULES.md](RULES.md)**.
 
 ## Tài liệu
 
@@ -79,11 +76,12 @@ Trọng tâm là **guideline**: nhãn chỉ tốt khi mọi người hiểu quy 
 | Mốc tiến độ 4 giờ | [CHECKPOINTS.md](CHECKPOINTS.md) |
 | Quy tắc làm bài | [RULES.md](RULES.md) |
 | Chấm điểm (100 điểm) | [RUBRIC.md](RUBRIC.md) |
-| Sản phẩm phải nộp, tên repo, checklist | [SUBMISSION.md](SUBMISSION.md) |
-| Thông tin nhóm và kết quả tóm tắt | [TEAM.md](TEAM.md) |
-| Cài và dùng CVAT | [docs/CVAT_SETUP.md](docs/CVAT_SETUP.md) |
+| Gói phải nộp, cách nộp, checklist | [SUBMISSION.md](SUBMISSION.md) |
+| Thông tin nhóm, kết quả tóm tắt | [TEAM.md](TEAM.md) |
+| Dùng CVAT và COCO | [docs/CVAT_SETUP.md](docs/CVAT_SETUP.md) |
 | Công thức, ngưỡng, cây quyết định QC | [docs/QC_CHEATSHEET.md](docs/QC_CHEATSHEET.md) |
 | Mẫu báo cáo QC, ghi chú cá nhân | [docs/QC_REPORT_TEMPLATE.md](docs/QC_REPORT_TEMPLATE.md), [docs/INDIVIDUAL_NOTE_TEMPLATE.md](docs/INDIVIDUAL_NOTE_TEMPLATE.md) |
-| Các script | [scripts/README.md](scripts/README.md) |
+| Các lệnh và file đầu ra | [scripts/README.md](scripts/README.md) |
 | Guideline khởi đầu (v0), khung viết guideline | [guideline/](guideline/) |
-| Nguồn và giấy phép ảnh | [data/README.md](data/README.md), [data/ATTRIBUTION.csv](data/ATTRIBUTION.csv) |
+| Nguồn và giấy phép ảnh | [data/README.md](data/README.md) |
+| **Coach:** chuẩn bị lớp, ma trận kiểm thử | [docs/COACH_GUIDE.md](docs/COACH_GUIDE.md), [docs/TEST_MATRIX.md](docs/TEST_MATRIX.md) |

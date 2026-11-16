@@ -1,32 +1,25 @@
 # Thông tin nhóm
 
 - Tên nhóm: **DucTungBao**
-- Repo bài nộp (URL): https://github.com/ducnguyen-ai/K5-L23-DAY07-DucTungBao-GuidelineQC
-- Commit chốt bài (hash): Chưa chốt; hiện mới setup.
-- Số thành viên: **3** → số người gán mỗi ảnh (K): **2**.
+- Lớp: **L2**
+- Mã thành viên (ba chữ số): **178, 144, 138**
+- Người điều phối: **178** (đề xuất, nhóm xác nhận khi bắt đầu).
+- Người review bản cuối: **Chưa chốt**; phân công theo mức tham gia gán và xác nhận trước vòng QC.
+- Commit chốt bài (điền ở kênh nộp sau khi commit): **Chưa chốt; hiện mới setup**.
 
-| STT | MSHV | Họ và tên | Lớp (L2 / L3 / khác) | Tài khoản GitHub |
-|---|---|---|---|---|
-| 1 | 178 | Nguyễn Cao Ngọc Đức | L2 | [ducnguyen-ai](https://github.com/ducnguyen-ai) |
-| 2 | 144 | Nguyễn Khánh Tùng | L2 | [sfpcshch](https://github.com/sfpcshch) |
-| 3 | 138 | Hoàng Gia Bảo | L2 | [GBao294](https://github.com/GBao294) |
+| Mã thành viên | Số ảnh được giao | Lớp | Vai trò thêm (đề xuất) |
+|---|---:|---|---|
+| 178 | 27 | L2 | Điều phối checkpoint, hỗ trợ chạy script và tổng hợp artifact sau pha độc lập. |
+| 144 | 27 | L2 | Phối hợp tổng hợp guideline và ghi quyết định calibration. |
+| 138 | 26 | L2 | Phối hợp review QC và kiểm tra gói bàn giao. |
 
-MSHV trong bảng, assignment và tên file cá nhân dùng 3 chữ số cuối; tiêu đề README giữ MSHV đầy đủ. Lệnh chia: `python scripts/split_assign.py --members 178,144,138 --seed 42 --copy-images`.
-
-## Phân công (đề xuất, cả nhóm xác nhận khi bắt đầu)
-
-| MSHV | Số ảnh gán độc lập | Phụ trách thêm |
-|---|---:|---|
-| 178 | 27 | Setup repo/môi trường; tổng hợp assignment; hỗ trợ chạy script IAA sau khi đủ nhãn. |
-| 144 | 27 | Phối hợp review cấu trúc guideline và ghi nhận quyết định calibration sau pha độc lập. |
-| 138 | 26 | Phối hợp kiểm mẫu QC và đối chiếu báo cáo sau calibration. |
-
-Pha 1: mỗi người tự xem đủ 40 ảnh và viết guideline cá nhân. Pha 3: mỗi người chỉ gán số ảnh được giao; 40 ảnh có tổng 80 lượt gán độc lập, mỗi ảnh 2 người. Mỗi người tự viết ghi chú và commit sản phẩm của mình. Không khai commit hộ thành đóng góp của teammate. Guideline v1.0/calibration phải do nhóm thảo luận trước khi ghi quyết định.
+Mỗi ảnh có đúng 2 người gán độc lập, tổng 80 lượt gán trên 40 ảnh. Pha 1 mỗi người tự xem đủ 40 ảnh; Pha 3 chỉ gán ảnh trong danh sách riêng. Guideline và nhãn cá nhân gửi riêng trước khi cả nhóm nộp xong. Bảng đối chiếu mã với danh tính gửi qua kênh lớp có giới hạn quyền.
 
 ## Kết quả tóm tắt (điền cuối bài)
 
-- Số thành viên / số lần gán mỗi ảnh (K): **3 / 2**.
-- IAA trước calibration: **Chưa đo**.
-- Số ảnh phải calibration: **Chưa xác định** / 40.
-- Tỉ lệ lỗi sau calibration: **Chưa đo**, cần ghi cả mẫu số theo ảnh và theo đối tượng.
-- **Quyết định:** Chưa đánh giá Release / Hold / Rework; chưa có nhãn và kết quả QC.
+- Lượt gán hoàn tất / được giao: **Chưa gán / 80** (178: 27, 144: 27, 138: 26).
+- IAA trước calibration (kèm mẫu số): **Chưa đo**.
+- Số ảnh phải calibration: **Chưa xác định / 40**.
+- Vòng QC và số ảnh đã duyệt / cả lô: **Chưa review**.
+- Tỉ lệ lỗi theo ảnh và theo đối tượng: **Chưa đo**; ghi cả mẫu số khi thực hiện.
+- **Quyết định** (Release / Hold / Rework) và lý do một dòng: **Chưa đánh giá**, chưa có nhãn và bằng chứng QC.
