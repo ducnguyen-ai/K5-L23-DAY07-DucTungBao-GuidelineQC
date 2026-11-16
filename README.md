@@ -8,6 +8,10 @@
 - Fork này vẫn public. Gửi guideline/nhãn cá nhân riêng cho đến khi cả nhóm hoàn thành pha độc lập; không push sớm lên repo chung. Nộp cuối qua repo private có quyền coach hoặc ZIP qua LMS theo [SUBMISSION.md](SUBMISSION.md).
 - Lịch sử fork có thông tin thành viên từ setup trước; việc sửa nội dung hiện tại không xóa lịch sử đó. Không dùng link fork public thay cho kênh nộp riêng tư mới.
 
+## Guideline tổng hợp đang chờ nhóm xác nhận
+
+[Bản chung v1.0-proposed](submission/guidelines/guideline_v1.0_proposed.md) đối chiếu ba nguồn 138/144/178, có bảng sửa mâu thuẫn và các mục cần chốt. [Taxonomy đề xuất](submission/guidelines/taxonomy_v1.0_proposed.json) gồm 7 lớp đối tượng và ignore_region, chưa thay taxonomy active. Nguồn 178 là nháp có AI hỗ trợ, chưa có xác nhận đã review; nguồn 144 lấy từ branch cá nhân, không nhập nhãn của branch đó vào main. Chưa tạo bản agreed hoặc tuyên bố nhóm đã khóa v1.0.
+
 ## Cài và tái lập phân công
 
 ```powershell
