@@ -58,6 +58,26 @@ class WorkflowTest(unittest.TestCase):
             writer.writerow(header)
             writer.writerows(rows)
 
+    def test_cvat_labels_include_shape_type_and_valid_checkbox_values(self):
+        # Regression: CVAT Raw rejected missing type and empty checkbox values.
+        taxonomy_before = self.tax.read_bytes()
+        self.run_script("make_cvat_labels")
+        labels = json.loads((self.root / "cvat" / "labels_generated.json").read_text(encoding="utf-8"))
+        taxonomy = json.loads(taxonomy_before)
+        self.assertEqual([label["name"] for label in labels], [c["name"] for c in taxonomy["classes"]])
+        for label in labels:
+            self.assertEqual(label["type"], "rectangle")
+            if label["name"] == taxonomy["ignore_class"]:
+                self.assertEqual(label["attributes"], [])
+            for attribute in label["attributes"]:
+                self.assertTrue(attribute["values"])
+                if attribute["input_type"] == "checkbox":
+                    self.assertIn(attribute["default_value"], ("true", "false"))
+                    self.assertEqual(attribute["values"], [attribute["default_value"]])
+                else:
+                    self.assertIn(attribute["default_value"], attribute["values"])
+        self.assertEqual(self.tax.read_bytes(), taxonomy_before)
+
     def coco(self, path, names=None, label="car", additional=None, bbox=None):
         names = self.names if names is None else names
         data = {
