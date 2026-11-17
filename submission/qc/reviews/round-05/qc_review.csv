@@ -1,0 +1,41 @@
+image,object_id,error_type,reviewer,rule_id,region,note
+img_001.jpg,,khong,178,,,Trợ lý theo ủy quyền 178 đã sửa/đối chiếu overlay ảnh theo R-02/R-03/R-08/R-14; không còn lỗi đã xác định ở vòng 2. Xem calibration_patch.json và calibration_applied.csv.
+img_002.jpg,,khong,178,,,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; không báo thêm lỗi. Giữ annotation sau sửa đã có; không ghi là review mới của 144.
+img_003.jpg,,khong,178,,,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; không báo thêm lỗi. Giữ annotation sau sửa đã có; không ghi là review mới của 144.
+img_004.jpg,,khong,178,,,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; không báo thêm lỗi. Giữ annotation sau sửa đã có; không ghi là review mới của 144.
+img_005.jpg,,khong,178,,,Trợ lý theo ủy quyền 178 đã sửa/đối chiếu overlay ảnh theo R-02/R-03/R-08/R-14; không còn lỗi đã xác định ở vòng 2. Xem calibration_patch.json và calibration_applied.csv.
+img_006.jpg,,khong,178,,,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; không báo thêm lỗi. Giữ annotation sau sửa đã có; không ghi là review mới của 144.
+img_007.jpg,,khong,178,,,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; không báo thêm lỗi. Giữ annotation sau sửa đã có; không ghi là review mới của 144.
+img_008.jpg,,khong,178,,,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; không báo thêm lỗi. Giữ annotation sau sửa đã có; không ghi là review mới của 144.
+img_009.jpg,,khong,178,,,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; không báo thêm lỗi. Giữ annotation sau sửa đã có; không ghi là review mới của 144.
+img_010.jpg,,khong,178,,,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; không báo thêm lỗi. Giữ annotation sau sửa đã có; không ghi là review mới của 144.
+img_011.jpg,,khong,178,,,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; không báo thêm lỗi. Giữ annotation sau sửa đã có; không ghi là review mới của 144.
+img_012.jpg,,khong,178,,,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; không báo thêm lỗi. Giữ annotation sau sửa đã có; không ghi là review mới của 144.
+img_013.jpg,,khong,178,,,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; không báo thêm lỗi. Giữ annotation sau sửa đã có; không ghi là review mới của 144.
+img_014.jpg,,khong,178,,,Trợ lý theo ủy quyền 178 đã sửa/đối chiếu overlay ảnh theo R-02/R-03/R-08/R-14; không còn lỗi đã xác định ở vòng 2. Xem calibration_patch.json và calibration_applied.csv.
+img_015.jpg,,khong,178,,,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; không báo thêm lỗi. Giữ annotation sau sửa đã có; không ghi là review mới của 144.
+img_016.jpg,,khong,178,,,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; không báo thêm lỗi. Giữ annotation sau sửa đã có; không ghi là review mới của 144.
+img_017.jpg,,khong,178,,,"Trợ lý theo ủy quyền 178 đã kiểm ảnh âm tính: chỉ có tượng, mannequin, đồ chơi hoặc reflection/ego ngoài phạm vi theo R-12/R-13/R-15."
+img_018.jpg,,khong,178,,,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; không báo thêm lỗi. Giữ annotation sau sửa đã có; không ghi là review mới của 144.
+img_019.jpg,,khong,178,,,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; không báo thêm lỗi. Giữ annotation sau sửa đã có; không ghi là review mới của 144.
+img_020.jpg,,khong,178,,,"Trợ lý theo ủy quyền 178 đã kiểm ảnh âm tính: chỉ có tượng, mannequin, đồ chơi hoặc reflection/ego ngoài phạm vi theo R-12/R-13/R-15."
+img_021.jpg,,khong,178,,,Trợ lý theo ủy quyền 178 đã sửa/đối chiếu overlay ảnh theo R-02/R-03/R-08/R-14; không còn lỗi đã xác định ở vòng 2. Xem calibration_patch.json và calibration_applied.csv.
+img_022.jpg,,khong,178,,,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; không báo thêm lỗi. Giữ annotation sau sửa đã có; không ghi là review mới của 144.
+img_023.jpg,,khong,178,,,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; không báo thêm lỗi. Giữ annotation sau sửa đã có; không ghi là review mới của 144.
+img_024.jpg,,khong,178,,,Trợ lý theo ủy quyền 178 đã sửa/đối chiếu overlay ảnh theo R-02/R-03/R-08/R-14; không còn lỗi đã xác định ở vòng 2. Xem calibration_patch.json và calibration_applied.csv.
+img_025.jpg,,khong,178,,,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; không báo thêm lỗi. Giữ annotation sau sửa đã có; không ghi là review mới của 144.
+img_026.jpg,,khong,178,,,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; không báo thêm lỗi. Giữ annotation sau sửa đã có; không ghi là review mới của 144.
+img_027.jpg,,khong,178,,,"Trợ lý theo ủy quyền 178 đã kiểm ảnh âm tính: chỉ có tượng, mannequin, đồ chơi hoặc reflection/ego ngoài phạm vi theo R-12/R-13/R-15."
+img_028.jpg,,khong,178,,,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; không báo thêm lỗi. Giữ annotation sau sửa đã có; không ghi là review mới của 144.
+img_029.jpg,,khong,178,,,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; không báo thêm lỗi. Giữ annotation sau sửa đã có; không ghi là review mới của 144.
+img_030.jpg,,khong,178,,,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; không báo thêm lỗi. Giữ annotation sau sửa đã có; không ghi là review mới của 144.
+img_031.jpg,,khong,178,,,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; không báo thêm lỗi. Giữ annotation sau sửa đã có; không ghi là review mới của 144.
+img_032.jpg,,khong,178,,,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; không báo thêm lỗi. Giữ annotation sau sửa đã có; không ghi là review mới của 144.
+img_033.jpg,,khong,178,,,"Trợ lý theo ủy quyền 178 đã kiểm ảnh âm tính: chỉ có tượng, mannequin, đồ chơi hoặc reflection/ego ngoài phạm vi theo R-12/R-13/R-15."
+img_034.jpg,,khong,178,,,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; không báo thêm lỗi. Giữ annotation sau sửa đã có; không ghi là review mới của 144.
+img_035.jpg,,khong,178,,,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; không báo thêm lỗi. Giữ annotation sau sửa đã có; không ghi là review mới của 144.
+img_036.jpg,,khong,178,,,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; không báo thêm lỗi. Giữ annotation sau sửa đã có; không ghi là review mới của 144.
+img_037.jpg,,khong,178,,,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; không báo thêm lỗi. Giữ annotation sau sửa đã có; không ghi là review mới của 144.
+img_038.jpg,,khong,178,,,"Trợ lý theo ủy quyền 178 đã kiểm ảnh âm tính: chỉ có tượng, mannequin, đồ chơi hoặc reflection/ego ngoài phạm vi theo R-12/R-13/R-15."
+img_039.jpg,,khong,178,,,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; không báo thêm lỗi. Giữ annotation sau sửa đã có; không ghi là review mới của 144.
+img_040.jpg,,khong,178,,,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; không báo thêm lỗi. Giữ annotation sau sửa đã có; không ghi là review mới của 144.

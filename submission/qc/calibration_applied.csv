@@ -1,464 +1,488 @@
 image,source,source_id,action,final_id,reason
-img_001.jpg,138,1,retain,1,Truck bị người/cảnh quán che; cần kiểm lại extent bên trái và thuộc tính person.
-img_001.jpg,138,2,retain,2,Truck bị người/cảnh quán che; cần kiểm lại extent bên trái và thuộc tính person.
-img_001.jpg,138,3,retain,3,Truck bị người/cảnh quán che; cần kiểm lại extent bên trái và thuộc tính person.
-img_001.jpg,138,4,retain,4,Truck bị người/cảnh quán che; cần kiểm lại extent bên trái và thuộc tính person.
-img_001.jpg,138,5,retain,5,Truck bị người/cảnh quán che; cần kiểm lại extent bên trái và thuộc tính person.
-img_001.jpg,138,6,retain,6,Truck bị người/cảnh quán che; cần kiểm lại extent bên trái và thuộc tính person.
-img_001.jpg,138,7,retain,7,Truck bị người/cảnh quán che; cần kiểm lại extent bên trái và thuộc tính person.
-img_002.jpg,178,1,retain,8,Carrier một truck; các xe chở trên carrier là car riêng. Không lấy các box lưới đều của bản 144.
-img_002.jpg,178,2,retain,9,Carrier một truck; các xe chở trên carrier là car riêng. Không lấy các box lưới đều của bản 144.
-img_002.jpg,178,3,retain,10,Carrier một truck; các xe chở trên carrier là car riêng. Không lấy các box lưới đều của bản 144.
-img_002.jpg,178,4,retain,11,Carrier một truck; các xe chở trên carrier là car riêng. Không lấy các box lưới đều của bản 144.
-img_002.jpg,178,5,retain,12,Carrier một truck; các xe chở trên carrier là car riêng. Không lấy các box lưới đều của bản 144.
-img_002.jpg,178,6,retain,13,Carrier một truck; các xe chở trên carrier là car riêng. Không lấy các box lưới đều của bản 144.
-img_002.jpg,178,7,retain,14,Carrier một truck; các xe chở trên carrier là car riêng. Không lấy các box lưới đều của bản 144.
-img_002.jpg,178,8,retain,15,Carrier một truck; các xe chở trên carrier là car riêng. Không lấy các box lưới đều của bản 144.
-img_002.jpg,178,9,retain,16,Carrier một truck; các xe chở trên carrier là car riêng. Không lấy các box lưới đều của bản 144.
-img_002.jpg,178,10,retain,17,Carrier một truck; các xe chở trên carrier là car riêng. Không lấy các box lưới đều của bản 144.
-img_003.jpg,178,11,retain,18,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,12,retain,19,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,13,retain,20,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,14,retain,21,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,15,retain,22,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,16,retain,23,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,17,retain,24,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,18,retain,25,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,19,retain,26,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,20,retain,27,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,21,retain,28,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,22,retain,29,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,23,update,30,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,24,delete,,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,25,retain,31,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,26,retain,32,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,27,retain,33,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,28,retain,34,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,29,retain,35,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,30,retain,36,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,31,retain,37,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,32,delete,,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,33,retain,38,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,34,retain,39,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,35,retain,40,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,36,retain,41,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,37,retain,42,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,38,retain,43,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,39,retain,44,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,40,retain,45,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,41,retain,46,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,42,retain,47,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,43,retain,48,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,44,retain,49,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,45,retain,50,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,46,retain,51,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,47,retain,52,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,48,retain,53,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_003.jpg,178,49,retain,54,"Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
-img_004.jpg,178,50,retain,55,"Hai tuk_tuk và hai người lái riêng, box phương tiện không gộp người."
-img_004.jpg,178,51,retain,56,"Hai tuk_tuk và hai người lái riêng, box phương tiện không gộp người."
-img_004.jpg,178,52,retain,57,"Hai tuk_tuk và hai người lái riêng, box phương tiện không gộp người."
-img_004.jpg,178,53,retain,58,"Hai tuk_tuk và hai người lái riêng, box phương tiện không gộp người."
-img_005.jpg,138,31,retain,59,Bổ sung van và các rider bị bỏ sót. Vùng motorcycle chỉ lộ mảnh chồng nhau còn cần tách và review.
-img_005.jpg,138,32,retain,60,Bổ sung van và các rider bị bỏ sót. Vùng motorcycle chỉ lộ mảnh chồng nhau còn cần tách và review.
-img_005.jpg,138,33,retain,61,Bổ sung van và các rider bị bỏ sót. Vùng motorcycle chỉ lộ mảnh chồng nhau còn cần tách và review.
-img_005.jpg,138,34,retain,62,Bổ sung van và các rider bị bỏ sót. Vùng motorcycle chỉ lộ mảnh chồng nhau còn cần tách và review.
-img_005.jpg,new,,add,63,Bổ sung van và các rider bị bỏ sót. Vùng motorcycle chỉ lộ mảnh chồng nhau còn cần tách và review.
-img_005.jpg,new,,add,64,Bổ sung van và các rider bị bỏ sót. Vùng motorcycle chỉ lộ mảnh chồng nhau còn cần tách và review.
-img_005.jpg,new,,add,65,Bổ sung van và các rider bị bỏ sót. Vùng motorcycle chỉ lộ mảnh chồng nhau còn cần tách và review.
-img_005.jpg,new,,add,66,Bổ sung van và các rider bị bỏ sót. Vùng motorcycle chỉ lộ mảnh chồng nhau còn cần tách và review.
-img_005.jpg,new,,add,67,Bổ sung van và các rider bị bỏ sót. Vùng motorcycle chỉ lộ mảnh chồng nhau còn cần tách và review.
-img_006.jpg,178,54,retain,68,"Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
-img_006.jpg,178,55,retain,69,"Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
-img_006.jpg,178,56,retain,70,"Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
-img_006.jpg,178,57,retain,71,"Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
-img_006.jpg,178,58,retain,72,"Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
-img_006.jpg,178,59,retain,73,"Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
-img_006.jpg,178,60,retain,74,"Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
-img_006.jpg,178,61,retain,75,"Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
-img_006.jpg,178,62,retain,76,"Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
-img_006.jpg,178,63,retain,77,"Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
-img_006.jpg,178,64,retain,78,"Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
-img_006.jpg,178,65,retain,79,"Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
-img_006.jpg,178,66,retain,80,"Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
-img_006.jpg,178,67,retain,81,"Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
-img_006.jpg,178,68,retain,82,"Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
-img_006.jpg,178,69,retain,83,"Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
-img_006.jpg,178,70,retain,84,"Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
-img_006.jpg,178,71,retain,85,"Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
-img_006.jpg,178,72,retain,86,"Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
-img_006.jpg,178,73,retain,87,"Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
-img_006.jpg,178,74,retain,88,"Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
-img_006.jpg,178,75,retain,89,"Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
-img_006.jpg,178,76,retain,90,"Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
-img_006.jpg,178,77,retain,91,"Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
-img_007.jpg,178,78,retain,92,Pickup gắn thùng cao và truck phải riêng; xóa box cabin pickup bị lặp trong box toàn xe.
-img_007.jpg,178,79,delete,,Pickup gắn thùng cao và truck phải riêng; xóa box cabin pickup bị lặp trong box toàn xe.
-img_007.jpg,178,80,retain,93,Pickup gắn thùng cao và truck phải riêng; xóa box cabin pickup bị lặp trong box toàn xe.
-img_008.jpg,138,49,retain,94,"Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
-img_008.jpg,138,50,retain,95,"Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
-img_008.jpg,138,51,retain,96,"Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
-img_008.jpg,138,52,retain,97,"Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
-img_008.jpg,138,53,retain,98,"Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
-img_008.jpg,138,54,retain,99,"Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
-img_008.jpg,138,55,retain,100,"Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
-img_008.jpg,138,56,retain,101,"Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
-img_008.jpg,138,57,retain,102,"Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
-img_008.jpg,138,58,retain,103,"Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
-img_008.jpg,138,59,retain,104,"Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
-img_008.jpg,138,60,retain,105,"Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
-img_008.jpg,138,61,retain,106,"Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
-img_008.jpg,138,62,retain,107,"Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
-img_008.jpg,138,63,retain,108,"Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
-img_008.jpg,138,64,retain,109,"Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
-img_008.jpg,138,65,retain,110,"Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
-img_008.jpg,138,66,retain,111,"Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
-img_009.jpg,178,81,retain,112,Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
-img_009.jpg,178,82,retain,113,Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
-img_009.jpg,178,83,retain,114,Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
-img_009.jpg,178,84,retain,115,Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
-img_009.jpg,178,85,retain,116,Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
-img_009.jpg,178,86,retain,117,Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
-img_009.jpg,178,87,retain,118,Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
-img_009.jpg,178,88,retain,119,Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
-img_009.jpg,178,89,retain,120,Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
-img_009.jpg,178,90,retain,121,Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
-img_009.jpg,178,91,retain,122,Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
-img_009.jpg,178,92,retain,123,Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
-img_009.jpg,178,93,retain,124,Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
-img_009.jpg,178,94,retain,125,Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
-img_009.jpg,178,95,retain,126,Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
-img_009.jpg,178,96,retain,127,Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
-img_009.jpg,178,97,retain,128,Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
-img_010.jpg,138,78,update,129,Tách người đội mũ trắng/áo nâu khỏi passenger mũ đỏ; không gộp người trên cùng xe. Kiểm lại motorcycle che khuất và chân chồng nhau.
-img_010.jpg,138,79,update,130,Tách người đội mũ trắng/áo nâu khỏi passenger mũ đỏ; không gộp người trên cùng xe. Kiểm lại motorcycle che khuất và chân chồng nhau.
-img_010.jpg,138,80,retain,131,Tách người đội mũ trắng/áo nâu khỏi passenger mũ đỏ; không gộp người trên cùng xe. Kiểm lại motorcycle che khuất và chân chồng nhau.
-img_010.jpg,138,81,retain,132,Tách người đội mũ trắng/áo nâu khỏi passenger mũ đỏ; không gộp người trên cùng xe. Kiểm lại motorcycle che khuất và chân chồng nhau.
-img_010.jpg,138,82,retain,133,Tách người đội mũ trắng/áo nâu khỏi passenger mũ đỏ; không gộp người trên cùng xe. Kiểm lại motorcycle che khuất và chân chồng nhau.
-img_010.jpg,138,83,retain,134,Tách người đội mũ trắng/áo nâu khỏi passenger mũ đỏ; không gộp người trên cùng xe. Kiểm lại motorcycle che khuất và chân chồng nhau.
-img_010.jpg,138,84,retain,135,Tách người đội mũ trắng/áo nâu khỏi passenger mũ đỏ; không gộp người trên cùng xe. Kiểm lại motorcycle che khuất và chân chồng nhau.
-img_010.jpg,new,,add,136,Tách người đội mũ trắng/áo nâu khỏi passenger mũ đỏ; không gộp người trên cùng xe. Kiểm lại motorcycle che khuất và chân chồng nhau.
-img_011.jpg,178,98,delete,,"Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
-img_011.jpg,178,99,retain,137,"Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
-img_011.jpg,178,100,retain,138,"Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
-img_011.jpg,178,101,retain,139,"Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
-img_011.jpg,178,102,retain,140,"Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
-img_011.jpg,178,103,retain,141,"Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
-img_011.jpg,178,104,retain,142,"Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
-img_011.jpg,178,105,retain,143,"Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
-img_011.jpg,178,106,retain,144,"Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
-img_011.jpg,178,107,retain,145,"Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
-img_011.jpg,178,108,retain,146,"Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
-img_011.jpg,178,109,retain,147,"Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
-img_011.jpg,178,110,retain,148,"Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
-img_011.jpg,178,111,retain,149,"Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
-img_011.jpg,178,112,retain,150,"Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
-img_011.jpg,178,113,retain,151,"Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
-img_011.jpg,178,114,retain,152,"Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
-img_011.jpg,178,115,retain,153,"Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
-img_011.jpg,178,116,delete,,"Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
-img_011.jpg,178,117,retain,154,"Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
-img_011.jpg,178,118,retain,155,"Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
-img_011.jpg,new,,add,156,"Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
-img_012.jpg,178,119,delete,,"Hai box cùng pickup trước: giữ box có cả thùng và cabin; SUV trái là car, truck giữa là truck."
-img_012.jpg,178,120,retain,157,"Hai box cùng pickup trước: giữ box có cả thùng và cabin; SUV trái là car, truck giữa là truck."
-img_012.jpg,178,121,retain,158,"Hai box cùng pickup trước: giữ box có cả thùng và cabin; SUV trái là car, truck giữa là truck."
-img_012.jpg,178,122,retain,159,"Hai box cùng pickup trước: giữ box có cả thùng và cabin; SUV trái là car, truck giữa là truck."
-img_012.jpg,178,123,retain,160,"Hai box cùng pickup trước: giữ box có cả thùng và cabin; SUV trái là car, truck giữa là truck."
-img_013.jpg,138,102,retain,161,"Ảnh đêm còn rider gần quán và người rất nhỏ, cần rà thiếu/ignore theo kích thước gốc."
-img_013.jpg,138,103,retain,162,"Ảnh đêm còn rider gần quán và người rất nhỏ, cần rà thiếu/ignore theo kích thước gốc."
-img_013.jpg,138,104,retain,163,"Ảnh đêm còn rider gần quán và người rất nhỏ, cần rà thiếu/ignore theo kích thước gốc."
-img_013.jpg,138,105,retain,164,"Ảnh đêm còn rider gần quán và người rất nhỏ, cần rà thiếu/ignore theo kích thước gốc."
-img_014.jpg,178,124,retain,165,"Hai pedestrian trước rõ; rider và motorcycle nhòe nền chưa được bao phủ, cần giải quyết không mặc định ảnh sạch."
-img_014.jpg,178,125,retain,166,"Hai pedestrian trước rõ; rider và motorcycle nhòe nền chưa được bao phủ, cần giải quyết không mặc định ảnh sạch."
-img_015.jpg,178,126,retain,167,"Sáu car thật, không gán phản chiếu mặt đường; mép ảnh và nhòe được xét riêng."
-img_015.jpg,178,127,retain,168,"Sáu car thật, không gán phản chiếu mặt đường; mép ảnh và nhòe được xét riêng."
-img_015.jpg,178,128,retain,169,"Sáu car thật, không gán phản chiếu mặt đường; mép ảnh và nhòe được xét riêng."
-img_015.jpg,178,129,retain,170,"Sáu car thật, không gán phản chiếu mặt đường; mép ảnh và nhòe được xét riêng."
-img_015.jpg,178,130,retain,171,"Sáu car thật, không gán phản chiếu mặt đường; mép ảnh và nhòe được xét riêng."
-img_015.jpg,178,131,retain,172,"Sáu car thật, không gán phản chiếu mặt đường; mép ảnh và nhòe được xét riêng."
-img_016.jpg,178,132,retain,173,"Không giữ hai box chồng đầu cùng người tiền cảnh. Van thân kín, pickup nền và hai tuk_tuk giữ lớp kết cấu; cần kiểm rider sau khung kính."
-img_016.jpg,178,133,retain,174,"Không giữ hai box chồng đầu cùng người tiền cảnh. Van thân kín, pickup nền và hai tuk_tuk giữ lớp kết cấu; cần kiểm rider sau khung kính."
-img_016.jpg,178,134,retain,175,"Không giữ hai box chồng đầu cùng người tiền cảnh. Van thân kín, pickup nền và hai tuk_tuk giữ lớp kết cấu; cần kiểm rider sau khung kính."
-img_016.jpg,178,135,retain,176,"Không giữ hai box chồng đầu cùng người tiền cảnh. Van thân kín, pickup nền và hai tuk_tuk giữ lớp kết cấu; cần kiểm rider sau khung kính."
-img_016.jpg,178,136,retain,177,"Không giữ hai box chồng đầu cùng người tiền cảnh. Van thân kín, pickup nền và hai tuk_tuk giữ lớp kết cấu; cần kiểm rider sau khung kính."
-img_016.jpg,178,137,retain,178,"Không giữ hai box chồng đầu cùng người tiền cảnh. Van thân kín, pickup nền và hai tuk_tuk giữ lớp kết cấu; cần kiểm rider sau khung kính."
-img_016.jpg,178,138,retain,179,"Không giữ hai box chồng đầu cùng người tiền cảnh. Van thân kín, pickup nền và hai tuk_tuk giữ lớp kết cấu; cần kiểm rider sau khung kính."
-img_016.jpg,178,139,retain,180,"Không giữ hai box chồng đầu cùng người tiền cảnh. Van thân kín, pickup nền và hai tuk_tuk giữ lớp kết cấu; cần kiểm rider sau khung kính."
-img_016.jpg,178,140,delete,,"Không giữ hai box chồng đầu cùng người tiền cảnh. Van thân kín, pickup nền và hai tuk_tuk giữ lớp kết cấu; cần kiểm rider sau khung kính."
-img_018.jpg,138,114,retain,181,"Không gán người in billboard; xe thật sau hàng rào cần rà mức che, box không ôm bảng/cột."
-img_018.jpg,138,115,retain,182,"Không gán người in billboard; xe thật sau hàng rào cần rà mức che, box không ôm bảng/cột."
-img_018.jpg,138,116,retain,183,"Không gán người in billboard; xe thật sau hàng rào cần rà mức che, box không ôm bảng/cột."
-img_018.jpg,138,117,retain,184,"Không gán người in billboard; xe thật sau hàng rào cần rà mức che, box không ôm bảng/cột."
-img_018.jpg,138,118,retain,185,"Không gán người in billboard; xe thật sau hàng rào cần rà mức che, box không ôm bảng/cột."
-img_019.jpg,178,141,retain,186,Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
-img_019.jpg,178,142,retain,187,Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
-img_019.jpg,178,143,retain,188,Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
-img_019.jpg,178,144,retain,189,Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
-img_019.jpg,178,145,retain,190,Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
-img_019.jpg,178,146,retain,191,Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
-img_019.jpg,178,147,retain,192,Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
-img_019.jpg,178,148,retain,193,Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
-img_019.jpg,178,149,retain,194,Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
-img_019.jpg,178,150,retain,195,Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
-img_019.jpg,178,151,retain,196,Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
-img_019.jpg,178,152,retain,197,Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
-img_019.jpg,178,153,retain,198,Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
-img_019.jpg,178,154,retain,199,Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
-img_019.jpg,178,155,retain,200,Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
-img_019.jpg,178,156,retain,201,Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
-img_019.jpg,178,157,retain,202,Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
-img_019.jpg,178,158,retain,203,Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
-img_019.jpg,178,159,retain,204,Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
-img_019.jpg,178,160,retain,205,Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
-img_019.jpg,178,161,retain,206,Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
-img_019.jpg,178,162,retain,207,Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
-img_019.jpg,178,163,retain,208,Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
-img_019.jpg,178,164,retain,209,Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
-img_019.jpg,178,165,retain,210,Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
-img_019.jpg,178,166,retain,211,Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
-img_021.jpg,138,119,retain,212,"Cảnh đông rider: nhiều motorcycle chưa có box và người nhỏ chưa tách; cần kiểm cả lô ảnh, không dùng ignore lớn để che người rõ."
-img_021.jpg,138,120,retain,213,"Cảnh đông rider: nhiều motorcycle chưa có box và người nhỏ chưa tách; cần kiểm cả lô ảnh, không dùng ignore lớn để che người rõ."
-img_021.jpg,138,121,retain,214,"Cảnh đông rider: nhiều motorcycle chưa có box và người nhỏ chưa tách; cần kiểm cả lô ảnh, không dùng ignore lớn để che người rõ."
-img_021.jpg,138,122,retain,215,"Cảnh đông rider: nhiều motorcycle chưa có box và người nhỏ chưa tách; cần kiểm cả lô ảnh, không dùng ignore lớn để che người rõ."
-img_021.jpg,138,123,retain,216,"Cảnh đông rider: nhiều motorcycle chưa có box và người nhỏ chưa tách; cần kiểm cả lô ảnh, không dùng ignore lớn để che người rõ."
-img_021.jpg,138,124,retain,217,"Cảnh đông rider: nhiều motorcycle chưa có box và người nhỏ chưa tách; cần kiểm cả lô ảnh, không dùng ignore lớn để che người rõ."
-img_021.jpg,138,125,retain,218,"Cảnh đông rider: nhiều motorcycle chưa có box và người nhỏ chưa tách; cần kiểm cả lô ảnh, không dùng ignore lớn để che người rõ."
-img_021.jpg,138,126,retain,219,"Cảnh đông rider: nhiều motorcycle chưa có box và người nhỏ chưa tách; cần kiểm cả lô ảnh, không dùng ignore lớn để che người rõ."
-img_021.jpg,138,127,retain,220,"Cảnh đông rider: nhiều motorcycle chưa có box và người nhỏ chưa tách; cần kiểm cả lô ảnh, không dùng ignore lớn để che người rõ."
-img_021.jpg,138,128,retain,221,"Cảnh đông rider: nhiều motorcycle chưa có box và người nhỏ chưa tách; cần kiểm cả lô ảnh, không dùng ignore lớn để che người rõ."
-img_021.jpg,138,129,retain,222,"Cảnh đông rider: nhiều motorcycle chưa có box và người nhỏ chưa tách; cần kiểm cả lô ảnh, không dùng ignore lớn để che người rõ."
-img_021.jpg,138,130,retain,223,"Cảnh đông rider: nhiều motorcycle chưa có box và người nhỏ chưa tách; cần kiểm cả lô ảnh, không dùng ignore lớn để che người rõ."
-img_021.jpg,138,131,retain,224,"Cảnh đông rider: nhiều motorcycle chưa có box và người nhỏ chưa tách; cần kiểm cả lô ảnh, không dùng ignore lớn để che người rõ."
-img_021.jpg,138,132,retain,225,"Cảnh đông rider: nhiều motorcycle chưa có box và người nhỏ chưa tách; cần kiểm cả lô ảnh, không dùng ignore lớn để che người rõ."
-img_021.jpg,138,133,retain,226,"Cảnh đông rider: nhiều motorcycle chưa có box và người nhỏ chưa tách; cần kiểm cả lô ảnh, không dùng ignore lớn để che người rõ."
-img_021.jpg,138,134,retain,227,"Cảnh đông rider: nhiều motorcycle chưa có box và người nhỏ chưa tách; cần kiểm cả lô ảnh, không dùng ignore lớn để che người rõ."
-img_021.jpg,138,135,retain,228,"Cảnh đông rider: nhiều motorcycle chưa có box và người nhỏ chưa tách; cần kiểm cả lô ảnh, không dùng ignore lớn để che người rõ."
-img_021.jpg,138,136,retain,229,"Cảnh đông rider: nhiều motorcycle chưa có box và người nhỏ chưa tách; cần kiểm cả lô ảnh, không dùng ignore lớn để che người rõ."
-img_021.jpg,138,137,retain,230,"Cảnh đông rider: nhiều motorcycle chưa có box và người nhỏ chưa tách; cần kiểm cả lô ảnh, không dùng ignore lớn để che người rõ."
-img_021.jpg,138,138,retain,231,"Cảnh đông rider: nhiều motorcycle chưa có box và người nhỏ chưa tách; cần kiểm cả lô ảnh, không dùng ignore lớn để che người rõ."
-img_021.jpg,138,139,retain,232,"Cảnh đông rider: nhiều motorcycle chưa có box và người nhỏ chưa tách; cần kiểm cả lô ảnh, không dùng ignore lớn để che người rõ."
-img_021.jpg,138,140,retain,233,"Cảnh đông rider: nhiều motorcycle chưa có box và người nhỏ chưa tách; cần kiểm cả lô ảnh, không dùng ignore lớn để che người rõ."
-img_021.jpg,138,141,retain,234,"Cảnh đông rider: nhiều motorcycle chưa có box và người nhỏ chưa tách; cần kiểm cả lô ảnh, không dùng ignore lớn để che người rõ."
-img_021.jpg,138,142,retain,235,"Cảnh đông rider: nhiều motorcycle chưa có box và người nhỏ chưa tách; cần kiểm cả lô ảnh, không dùng ignore lớn để che người rõ."
-img_021.jpg,138,143,retain,236,"Cảnh đông rider: nhiều motorcycle chưa có box và người nhỏ chưa tách; cần kiểm cả lô ảnh, không dùng ignore lớn để che người rõ."
-img_021.jpg,138,144,retain,237,"Cảnh đông rider: nhiều motorcycle chưa có box và người nhỏ chưa tách; cần kiểm cả lô ảnh, không dùng ignore lớn để che người rõ."
-img_021.jpg,138,145,retain,238,"Cảnh đông rider: nhiều motorcycle chưa có box và người nhỏ chưa tách; cần kiểm cả lô ảnh, không dùng ignore lớn để che người rõ."
-img_021.jpg,138,146,retain,239,"Cảnh đông rider: nhiều motorcycle chưa có box và người nhỏ chưa tách; cần kiểm cả lô ảnh, không dùng ignore lớn để che người rõ."
-img_021.jpg,138,147,retain,240,"Cảnh đông rider: nhiều motorcycle chưa có box và người nhỏ chưa tách; cần kiểm cả lô ảnh, không dùng ignore lớn để che người rõ."
-img_021.jpg,138,148,retain,241,"Cảnh đông rider: nhiều motorcycle chưa có box và người nhỏ chưa tách; cần kiểm cả lô ảnh, không dùng ignore lớn để che người rõ."
-img_021.jpg,138,149,retain,242,"Cảnh đông rider: nhiều motorcycle chưa có box và người nhỏ chưa tách; cần kiểm cả lô ảnh, không dùng ignore lớn để che người rõ."
-img_022.jpg,178,167,retain,243,"Một motorcycle bao cả sidecar gắn liền, không tách thành xe thứ hai."
-img_023.jpg,138,150,retain,244,Người trên xe đạp/xích lô vẫn person; không gán phương tiện đạp chân. Còn người và xe nền cần kiểm.
-img_023.jpg,138,151,retain,245,Người trên xe đạp/xích lô vẫn person; không gán phương tiện đạp chân. Còn người và xe nền cần kiểm.
-img_023.jpg,138,152,retain,246,Người trên xe đạp/xích lô vẫn person; không gán phương tiện đạp chân. Còn người và xe nền cần kiểm.
-img_023.jpg,138,153,retain,247,Người trên xe đạp/xích lô vẫn person; không gán phương tiện đạp chân. Còn người và xe nền cần kiểm.
-img_023.jpg,138,154,retain,248,Người trên xe đạp/xích lô vẫn person; không gán phương tiện đạp chân. Còn người và xe nền cần kiểm.
-img_023.jpg,138,155,retain,249,Người trên xe đạp/xích lô vẫn person; không gán phương tiện đạp chân. Còn người và xe nền cần kiểm.
-img_023.jpg,138,156,retain,250,Người trên xe đạp/xích lô vẫn person; không gán phương tiện đạp chân. Còn người và xe nền cần kiểm.
-img_023.jpg,138,157,retain,251,Người trên xe đạp/xích lô vẫn person; không gán phương tiện đạp chân. Còn người và xe nền cần kiểm.
-img_023.jpg,138,158,retain,252,Người trên xe đạp/xích lô vẫn person; không gán phương tiện đạp chân. Còn người và xe nền cần kiểm.
-img_023.jpg,138,159,retain,253,Người trên xe đạp/xích lô vẫn person; không gán phương tiện đạp chân. Còn người và xe nền cần kiểm.
-img_024.jpg,178,168,retain,254,"Giữ rooftop car cần review theo R-14 vì vỏ trưng bày chưa đủ bằng chứng xe hoàn chỉnh; car cam ở mép là xe khác, không xóa nhầm."
-img_024.jpg,178,169,retain,255,"Giữ rooftop car cần review theo R-14 vì vỏ trưng bày chưa đủ bằng chứng xe hoàn chỉnh; car cam ở mép là xe khác, không xóa nhầm."
-img_024.jpg,178,170,retain,256,"Giữ rooftop car cần review theo R-14 vì vỏ trưng bày chưa đủ bằng chứng xe hoàn chỉnh; car cam ở mép là xe khác, không xóa nhầm."
-img_024.jpg,178,171,retain,257,"Giữ rooftop car cần review theo R-14 vì vỏ trưng bày chưa đủ bằng chứng xe hoàn chỉnh; car cam ở mép là xe khác, không xóa nhầm."
-img_024.jpg,178,172,retain,258,"Giữ rooftop car cần review theo R-14 vì vỏ trưng bày chưa đủ bằng chứng xe hoàn chỉnh; car cam ở mép là xe khác, không xóa nhầm."
-img_024.jpg,178,173,retain,259,"Giữ rooftop car cần review theo R-14 vì vỏ trưng bày chưa đủ bằng chứng xe hoàn chỉnh; car cam ở mép là xe khác, không xóa nhầm."
-img_024.jpg,178,174,retain,260,"Giữ rooftop car cần review theo R-14 vì vỏ trưng bày chưa đủ bằng chứng xe hoàn chỉnh; car cam ở mép là xe khác, không xóa nhầm."
-img_024.jpg,178,175,retain,261,"Giữ rooftop car cần review theo R-14 vì vỏ trưng bày chưa đủ bằng chứng xe hoàn chỉnh; car cam ở mép là xe khác, không xóa nhầm."
-img_025.jpg,138,166,retain,262,Người/xe bãi biển cần kiểm vật nhỏ và người nằm/được ghế che; không loại cả ảnh vì có tượng.
-img_025.jpg,138,167,retain,263,Người/xe bãi biển cần kiểm vật nhỏ và người nằm/được ghế che; không loại cả ảnh vì có tượng.
-img_025.jpg,138,168,retain,264,Người/xe bãi biển cần kiểm vật nhỏ và người nằm/được ghế che; không loại cả ảnh vì có tượng.
-img_025.jpg,138,169,retain,265,Người/xe bãi biển cần kiểm vật nhỏ và người nằm/được ghế che; không loại cả ảnh vì có tượng.
-img_025.jpg,138,170,retain,266,Người/xe bãi biển cần kiểm vật nhỏ và người nằm/được ghế che; không loại cả ảnh vì có tượng.
-img_025.jpg,138,171,retain,267,Người/xe bãi biển cần kiểm vật nhỏ và người nằm/được ghế che; không loại cả ảnh vì có tượng.
-img_025.jpg,138,172,retain,268,Người/xe bãi biển cần kiểm vật nhỏ và người nằm/được ghế che; không loại cả ảnh vì có tượng.
-img_025.jpg,138,173,retain,269,Người/xe bãi biển cần kiểm vật nhỏ và người nằm/được ghế che; không loại cả ảnh vì có tượng.
-img_025.jpg,138,174,retain,270,Người/xe bãi biển cần kiểm vật nhỏ và người nằm/được ghế che; không loại cả ảnh vì có tượng.
-img_025.jpg,138,175,retain,271,Người/xe bãi biển cần kiểm vật nhỏ và người nằm/được ghế che; không loại cả ảnh vì có tượng.
-img_025.jpg,138,176,retain,272,Người/xe bãi biển cần kiểm vật nhỏ và người nằm/được ghế che; không loại cả ảnh vì có tượng.
-img_025.jpg,138,177,retain,273,Người/xe bãi biển cần kiểm vật nhỏ và người nằm/được ghế che; không loại cả ảnh vì có tượng.
-img_025.jpg,138,178,retain,274,Người/xe bãi biển cần kiểm vật nhỏ và người nằm/được ghế che; không loại cả ảnh vì có tượng.
-img_025.jpg,138,179,retain,275,Người/xe bãi biển cần kiểm vật nhỏ và người nằm/được ghế che; không loại cả ảnh vì có tượng.
-img_026.jpg,178,176,retain,276,Hai người và một motorcycle; không gộp rider/passenger.
-img_026.jpg,178,177,retain,277,Hai người và một motorcycle; không gộp rider/passenger.
-img_026.jpg,178,178,retain,278,Hai người và một motorcycle; không gộp rider/passenger.
-img_028.jpg,138,182,update,279,Pickup thật đổi car→truck; ngựa trên thùng là mô hình không gán; car đỏ riêng.
-img_028.jpg,138,183,retain,280,Pickup thật đổi car→truck; ngựa trên thùng là mô hình không gán; car đỏ riêng.
-img_029.jpg,178,179,retain,281,Người đi bicycle vẫn person; chỉ phương tiện có động cơ là motorcycle. Còn cụm người xa cần rà.
-img_029.jpg,178,180,retain,282,Người đi bicycle vẫn person; chỉ phương tiện có động cơ là motorcycle. Còn cụm người xa cần rà.
-img_029.jpg,178,181,retain,283,Người đi bicycle vẫn person; chỉ phương tiện có động cơ là motorcycle. Còn cụm người xa cần rà.
-img_029.jpg,178,182,retain,284,Người đi bicycle vẫn person; chỉ phương tiện có động cơ là motorcycle. Còn cụm người xa cần rà.
-img_029.jpg,178,183,retain,285,Người đi bicycle vẫn person; chỉ phương tiện có động cơ là motorcycle. Còn cụm người xa cần rà.
-img_029.jpg,178,184,retain,286,Người đi bicycle vẫn person; chỉ phương tiện có động cơ là motorcycle. Còn cụm người xa cần rà.
-img_029.jpg,178,185,retain,287,Người đi bicycle vẫn person; chỉ phương tiện có động cơ là motorcycle. Còn cụm người xa cần rà.
-img_029.jpg,178,186,retain,288,Người đi bicycle vẫn person; chỉ phương tiện có động cơ là motorcycle. Còn cụm người xa cần rà.
-img_029.jpg,178,187,retain,289,Người đi bicycle vẫn person; chỉ phương tiện có động cơ là motorcycle. Còn cụm người xa cần rà.
-img_029.jpg,178,188,retain,290,Người đi bicycle vẫn person; chỉ phương tiện có động cơ là motorcycle. Còn cụm người xa cần rà.
-img_029.jpg,178,189,retain,291,Người đi bicycle vẫn person; chỉ phương tiện có động cơ là motorcycle. Còn cụm người xa cần rà.
-img_029.jpg,178,190,retain,292,Người đi bicycle vẫn person; chỉ phương tiện có động cơ là motorcycle. Còn cụm người xa cần rà.
-img_030.jpg,178,191,retain,293,Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
-img_030.jpg,178,192,retain,294,Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
-img_030.jpg,178,193,retain,295,Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
-img_030.jpg,178,194,retain,296,Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
-img_030.jpg,178,195,retain,297,Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
-img_030.jpg,178,196,retain,298,Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
-img_030.jpg,178,197,retain,299,Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
-img_030.jpg,178,198,retain,300,Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
-img_030.jpg,178,199,retain,301,Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
-img_030.jpg,178,200,retain,302,Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
-img_030.jpg,178,201,retain,303,Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
-img_030.jpg,178,202,retain,304,Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
-img_030.jpg,178,203,retain,305,Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
-img_030.jpg,178,204,retain,306,Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
-img_030.jpg,178,205,retain,307,Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
-img_030.jpg,178,206,retain,308,Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
-img_030.jpg,178,207,retain,309,Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
-img_030.jpg,178,208,retain,310,Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
-img_030.jpg,178,209,retain,311,Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
-img_030.jpg,178,210,retain,312,Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
-img_031.jpg,178,211,retain,313,Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
-img_031.jpg,178,212,retain,314,Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
-img_031.jpg,178,213,retain,315,Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
-img_031.jpg,178,214,retain,316,Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
-img_031.jpg,178,215,retain,317,Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
-img_031.jpg,178,216,retain,318,Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
-img_031.jpg,178,217,retain,319,Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
-img_031.jpg,178,218,retain,320,Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
-img_031.jpg,178,219,retain,321,Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
-img_031.jpg,178,220,retain,322,Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
-img_031.jpg,178,221,retain,323,Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
-img_031.jpg,178,222,retain,324,Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
-img_031.jpg,178,223,retain,325,Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
-img_031.jpg,178,224,retain,326,Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
-img_031.jpg,178,225,retain,327,Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
-img_031.jpg,178,226,retain,328,Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
-img_031.jpg,178,227,retain,329,Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
-img_031.jpg,178,228,retain,330,Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
-img_031.jpg,178,229,retain,331,Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
-img_032.jpg,178,230,retain,332,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,231,retain,333,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,232,retain,334,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,233,retain,335,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,234,retain,336,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,235,retain,337,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,236,retain,338,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,237,retain,339,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,238,retain,340,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,239,retain,341,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,240,retain,342,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,241,retain,343,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,242,retain,344,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,243,retain,345,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,244,retain,346,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,245,retain,347,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,246,retain,348,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,247,retain,349,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,248,retain,350,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,249,retain,351,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,250,retain,352,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,251,retain,353,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,252,retain,354,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,253,retain,355,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,254,retain,356,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,255,retain,357,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,256,retain,358,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,257,retain,359,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,258,retain,360,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,259,retain,361,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,260,retain,362,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,261,retain,363,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,262,retain,364,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,263,retain,365,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,264,retain,366,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,265,retain,367,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,266,retain,368,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,267,retain,369,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,268,retain,370,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,269,retain,371,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_032.jpg,178,270,retain,372,Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
-img_034.jpg,178,271,retain,373,"Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
-img_034.jpg,178,272,retain,374,"Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
-img_034.jpg,178,273,delete,,"Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
-img_034.jpg,178,274,delete,,"Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
-img_034.jpg,178,275,retain,375,"Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
-img_034.jpg,178,276,retain,376,"Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
-img_034.jpg,178,277,retain,377,"Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
-img_034.jpg,178,278,retain,378,"Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
-img_034.jpg,178,279,retain,379,"Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
-img_034.jpg,178,280,retain,380,"Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
-img_034.jpg,178,281,retain,381,"Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
-img_034.jpg,178,282,retain,382,"Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
-img_034.jpg,178,283,retain,383,"Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
-img_034.jpg,178,284,retain,384,"Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
-img_034.jpg,178,285,retain,385,"Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
-img_034.jpg,178,286,retain,386,"Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
-img_034.jpg,178,287,retain,387,"Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
-img_034.jpg,178,288,retain,388,"Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
-img_034.jpg,178,289,retain,389,"Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
-img_034.jpg,178,290,retain,390,"Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
-img_034.jpg,178,291,retain,391,"Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
-img_034.jpg,178,292,delete,,"Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
-img_034.jpg,178,293,retain,392,"Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
-img_034.jpg,178,294,retain,393,"Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
-img_034.jpg,178,295,retain,394,"Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
-img_034.jpg,178,296,retain,395,"Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
-img_034.jpg,178,297,delete,,"Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
-img_035.jpg,178,298,retain,396,Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.
-img_035.jpg,178,299,retain,397,Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.
-img_035.jpg,178,300,retain,398,Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.
-img_035.jpg,178,301,retain,399,Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.
-img_035.jpg,178,302,retain,400,Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.
-img_035.jpg,178,303,retain,401,Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.
-img_035.jpg,178,304,retain,402,Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.
-img_035.jpg,178,305,retain,403,Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.
-img_035.jpg,178,306,retain,404,Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.
-img_035.jpg,178,307,retain,405,Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.
-img_035.jpg,178,308,retain,406,Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.
-img_035.jpg,178,309,retain,407,Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.
-img_035.jpg,178,310,retain,408,Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.
-img_035.jpg,178,311,retain,409,Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.
-img_035.jpg,178,312,retain,410,Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.
-img_035.jpg,178,313,retain,411,Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.
-img_036.jpg,138,223,retain,412,"Truck cabin/thùng riêng; các motorcycle mép ảnh có thể box chi tiết trùng, cần kiểm extent và truncate."
-img_036.jpg,138,224,retain,413,"Truck cabin/thùng riêng; các motorcycle mép ảnh có thể box chi tiết trùng, cần kiểm extent và truncate."
-img_036.jpg,138,225,retain,414,"Truck cabin/thùng riêng; các motorcycle mép ảnh có thể box chi tiết trùng, cần kiểm extent và truncate."
-img_036.jpg,138,226,retain,415,"Truck cabin/thùng riêng; các motorcycle mép ảnh có thể box chi tiết trùng, cần kiểm extent và truncate."
-img_036.jpg,138,227,retain,416,"Truck cabin/thùng riêng; các motorcycle mép ảnh có thể box chi tiết trùng, cần kiểm extent và truncate."
-img_036.jpg,138,228,retain,417,"Truck cabin/thùng riêng; các motorcycle mép ảnh có thể box chi tiết trùng, cần kiểm extent và truncate."
-img_037.jpg,138,229,retain,418,"Pickup gắn cap giữ truck, bus và person riêng; cấu trúc cap không đổi thành van."
-img_037.jpg,138,230,retain,419,"Pickup gắn cap giữ truck, bus và person riêng; cấu trúc cap không đổi thành van."
-img_037.jpg,138,231,retain,420,"Pickup gắn cap giữ truck, bus và person riêng; cấu trúc cap không đổi thành van."
-img_039.jpg,178,314,retain,421,Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
-img_039.jpg,178,315,retain,422,Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
-img_039.jpg,178,316,retain,423,Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
-img_039.jpg,178,317,retain,424,Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
-img_039.jpg,178,318,retain,425,Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
-img_039.jpg,178,319,retain,426,Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
-img_039.jpg,178,320,retain,427,Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
-img_039.jpg,178,321,retain,428,Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
-img_039.jpg,178,322,retain,429,Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
-img_039.jpg,178,323,retain,430,Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
-img_039.jpg,178,324,retain,431,Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
-img_039.jpg,178,325,retain,432,Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
-img_039.jpg,178,326,retain,433,Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
-img_039.jpg,178,327,delete,,Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
-img_039.jpg,178,328,retain,434,Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
-img_039.jpg,178,329,retain,435,Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
-img_039.jpg,178,330,retain,436,Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
-img_039.jpg,178,331,retain,437,Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
-img_039.jpg,178,332,retain,438,Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
-img_039.jpg,178,333,retain,439,Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
-img_039.jpg,178,334,retain,440,Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
-img_039.jpg,178,335,retain,441,Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
-img_039.jpg,178,336,retain,442,Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
-img_040.jpg,178,337,retain,443,"Xóa ego motorcycle chỉ gồm gương; taxi xanh rebox theo thân xe, giữ bus/tuk_tuk và người riêng. Mức che/extent tuk_tuk sau taxi cần review."
-img_040.jpg,178,338,delete,,"Xóa ego motorcycle chỉ gồm gương; taxi xanh rebox theo thân xe, giữ bus/tuk_tuk và người riêng. Mức che/extent tuk_tuk sau taxi cần review."
-img_040.jpg,178,339,retain,444,"Xóa ego motorcycle chỉ gồm gương; taxi xanh rebox theo thân xe, giữ bus/tuk_tuk và người riêng. Mức che/extent tuk_tuk sau taxi cần review."
-img_040.jpg,178,340,update,445,"Xóa ego motorcycle chỉ gồm gương; taxi xanh rebox theo thân xe, giữ bus/tuk_tuk và người riêng. Mức che/extent tuk_tuk sau taxi cần review."
-img_040.jpg,178,341,retain,446,"Xóa ego motorcycle chỉ gồm gương; taxi xanh rebox theo thân xe, giữ bus/tuk_tuk và người riêng. Mức che/extent tuk_tuk sau taxi cần review."
-img_040.jpg,178,342,retain,447,"Xóa ego motorcycle chỉ gồm gương; taxi xanh rebox theo thân xe, giữ bus/tuk_tuk và người riêng. Mức che/extent tuk_tuk sau taxi cần review."
-img_040.jpg,178,343,retain,448,"Xóa ego motorcycle chỉ gồm gương; taxi xanh rebox theo thân xe, giữ bus/tuk_tuk và người riêng. Mức che/extent tuk_tuk sau taxi cần review."
-img_040.jpg,178,344,retain,449,"Xóa ego motorcycle chỉ gồm gương; taxi xanh rebox theo thân xe, giữ bus/tuk_tuk và người riêng. Mức che/extent tuk_tuk sau taxi cần review."
-img_040.jpg,178,345,retain,450,"Xóa ego motorcycle chỉ gồm gương; taxi xanh rebox theo thân xe, giữ bus/tuk_tuk và người riêng. Mức che/extent tuk_tuk sau taxi cần review."
+img_001.jpg,138,1,retain,1,"Sửa box truck theo hợp phần thấy được, x=338 thay vì ôm cảnh quán bên trái; xe bị người che và cắt ở biên phải/dưới."
+img_001.jpg,138,2,retain,2,"Sửa box truck theo hợp phần thấy được, x=338 thay vì ôm cảnh quán bên trái; xe bị người che và cắt ở biên phải/dưới."
+img_001.jpg,138,3,retain,3,"Sửa box truck theo hợp phần thấy được, x=338 thay vì ôm cảnh quán bên trái; xe bị người che và cắt ở biên phải/dưới."
+img_001.jpg,138,4,retain,4,"Sửa box truck theo hợp phần thấy được, x=338 thay vì ôm cảnh quán bên trái; xe bị người che và cắt ở biên phải/dưới."
+img_001.jpg,138,5,retain,5,"Sửa box truck theo hợp phần thấy được, x=338 thay vì ôm cảnh quán bên trái; xe bị người che và cắt ở biên phải/dưới."
+img_001.jpg,138,6,retain,6,"Sửa box truck theo hợp phần thấy được, x=338 thay vì ôm cảnh quán bên trái; xe bị người che và cắt ở biên phải/dưới."
+img_001.jpg,138,7,update,7,"Sửa box truck theo hợp phần thấy được, x=338 thay vì ôm cảnh quán bên trái; xe bị người che và cắt ở biên phải/dưới."
+img_002.jpg,178,1,retain,8,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Carrier một truck; các xe chở trên carrier là car riêng. Không lấy các box lưới đều của bản 144.
+img_002.jpg,178,2,retain,9,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Carrier một truck; các xe chở trên carrier là car riêng. Không lấy các box lưới đều của bản 144.
+img_002.jpg,178,3,retain,10,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Carrier một truck; các xe chở trên carrier là car riêng. Không lấy các box lưới đều của bản 144.
+img_002.jpg,178,4,retain,11,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Carrier một truck; các xe chở trên carrier là car riêng. Không lấy các box lưới đều của bản 144.
+img_002.jpg,178,5,retain,12,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Carrier một truck; các xe chở trên carrier là car riêng. Không lấy các box lưới đều của bản 144.
+img_002.jpg,178,6,retain,13,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Carrier một truck; các xe chở trên carrier là car riêng. Không lấy các box lưới đều của bản 144.
+img_002.jpg,178,7,retain,14,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Carrier một truck; các xe chở trên carrier là car riêng. Không lấy các box lưới đều của bản 144.
+img_002.jpg,178,8,retain,15,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Carrier một truck; các xe chở trên carrier là car riêng. Không lấy các box lưới đều của bản 144.
+img_002.jpg,178,9,retain,16,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Carrier một truck; các xe chở trên carrier là car riêng. Không lấy các box lưới đều của bản 144.
+img_002.jpg,178,10,retain,17,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Carrier một truck; các xe chở trên carrier là car riêng. Không lấy các box lưới đều của bản 144.
+img_003.jpg,178,11,retain,18,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,12,retain,19,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,13,retain,20,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,14,retain,21,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,15,retain,22,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,16,retain,23,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,17,retain,24,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,18,retain,25,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,19,retain,26,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,20,retain,27,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,21,retain,28,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,22,retain,29,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,23,update,30,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,24,delete,,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,25,retain,31,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,26,retain,32,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,27,retain,33,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,28,retain,34,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,29,retain,35,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,30,retain,36,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,31,retain,37,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,32,delete,,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,33,retain,38,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,34,retain,39,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,35,retain,40,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,36,retain,41,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,37,retain,42,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,38,retain,43,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,39,retain,44,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,40,retain,45,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,41,retain,46,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,42,retain,47,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,43,retain,48,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,44,retain,49,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,45,retain,50,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,46,retain,51,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,47,retain,52,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,48,retain,53,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_003.jpg,178,49,retain,54,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán."
+img_004.jpg,178,50,retain,55,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hai tuk_tuk và hai người lái riêng, box phương tiện không gộp người."
+img_004.jpg,178,51,retain,56,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hai tuk_tuk và hai người lái riêng, box phương tiện không gộp người."
+img_004.jpg,178,52,retain,57,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hai tuk_tuk và hai người lái riêng, box phương tiện không gộp người."
+img_004.jpg,178,53,retain,58,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hai tuk_tuk và hai người lái riêng, box phương tiện không gộp người."
+img_005.jpg,138,31,retain,59,"Bổ sung motorcycle góc dưới phải và motorcycle mép trái theo phần cơ khí thấy được; rider vẫn là person riêng. Các rider/van thêm ở lượt trước được giữ. Kiểm overlay phát hiện box person áo xanh bị thiếu phần dưới; sửa tới biên dưới và bao mũ trắng, không dùng box của người áo sọc thay thế."
+img_005.jpg,138,32,retain,60,"Bổ sung motorcycle góc dưới phải và motorcycle mép trái theo phần cơ khí thấy được; rider vẫn là person riêng. Các rider/van thêm ở lượt trước được giữ. Kiểm overlay phát hiện box person áo xanh bị thiếu phần dưới; sửa tới biên dưới và bao mũ trắng, không dùng box của người áo sọc thay thế."
+img_005.jpg,138,33,update,61,"Bổ sung motorcycle góc dưới phải và motorcycle mép trái theo phần cơ khí thấy được; rider vẫn là person riêng. Các rider/van thêm ở lượt trước được giữ. Kiểm overlay phát hiện box person áo xanh bị thiếu phần dưới; sửa tới biên dưới và bao mũ trắng, không dùng box của người áo sọc thay thế."
+img_005.jpg,138,34,retain,62,"Bổ sung motorcycle góc dưới phải và motorcycle mép trái theo phần cơ khí thấy được; rider vẫn là person riêng. Các rider/van thêm ở lượt trước được giữ. Kiểm overlay phát hiện box person áo xanh bị thiếu phần dưới; sửa tới biên dưới và bao mũ trắng, không dùng box của người áo sọc thay thế."
+img_005.jpg,new,,add,63,"Bổ sung motorcycle góc dưới phải và motorcycle mép trái theo phần cơ khí thấy được; rider vẫn là person riêng. Các rider/van thêm ở lượt trước được giữ. Kiểm overlay phát hiện box person áo xanh bị thiếu phần dưới; sửa tới biên dưới và bao mũ trắng, không dùng box của người áo sọc thay thế."
+img_005.jpg,new,,add,64,"Bổ sung motorcycle góc dưới phải và motorcycle mép trái theo phần cơ khí thấy được; rider vẫn là person riêng. Các rider/van thêm ở lượt trước được giữ. Kiểm overlay phát hiện box person áo xanh bị thiếu phần dưới; sửa tới biên dưới và bao mũ trắng, không dùng box của người áo sọc thay thế."
+img_005.jpg,new,,add,65,"Bổ sung motorcycle góc dưới phải và motorcycle mép trái theo phần cơ khí thấy được; rider vẫn là person riêng. Các rider/van thêm ở lượt trước được giữ. Kiểm overlay phát hiện box person áo xanh bị thiếu phần dưới; sửa tới biên dưới và bao mũ trắng, không dùng box của người áo sọc thay thế."
+img_005.jpg,new,,add,66,"Bổ sung motorcycle góc dưới phải và motorcycle mép trái theo phần cơ khí thấy được; rider vẫn là person riêng. Các rider/van thêm ở lượt trước được giữ. Kiểm overlay phát hiện box person áo xanh bị thiếu phần dưới; sửa tới biên dưới và bao mũ trắng, không dùng box của người áo sọc thay thế."
+img_005.jpg,new,,add,67,"Bổ sung motorcycle góc dưới phải và motorcycle mép trái theo phần cơ khí thấy được; rider vẫn là person riêng. Các rider/van thêm ở lượt trước được giữ. Kiểm overlay phát hiện box person áo xanh bị thiếu phần dưới; sửa tới biên dưới và bao mũ trắng, không dùng box của người áo sọc thay thế."
+img_005.jpg,new,,add,68,"Bổ sung motorcycle góc dưới phải và motorcycle mép trái theo phần cơ khí thấy được; rider vẫn là person riêng. Các rider/van thêm ở lượt trước được giữ. Kiểm overlay phát hiện box person áo xanh bị thiếu phần dưới; sửa tới biên dưới và bao mũ trắng, không dùng box của người áo sọc thay thế."
+img_005.jpg,new,,add,69,"Bổ sung motorcycle góc dưới phải và motorcycle mép trái theo phần cơ khí thấy được; rider vẫn là person riêng. Các rider/van thêm ở lượt trước được giữ. Kiểm overlay phát hiện box person áo xanh bị thiếu phần dưới; sửa tới biên dưới và bao mũ trắng, không dùng box của người áo sọc thay thế."
+img_006.jpg,178,54,retain,70,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
+img_006.jpg,178,55,retain,71,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
+img_006.jpg,178,56,retain,72,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
+img_006.jpg,178,57,retain,73,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
+img_006.jpg,178,58,retain,74,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
+img_006.jpg,178,59,retain,75,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
+img_006.jpg,178,60,retain,76,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
+img_006.jpg,178,61,retain,77,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
+img_006.jpg,178,62,retain,78,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
+img_006.jpg,178,63,retain,79,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
+img_006.jpg,178,64,retain,80,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
+img_006.jpg,178,65,retain,81,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
+img_006.jpg,178,66,retain,82,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
+img_006.jpg,178,67,retain,83,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
+img_006.jpg,178,68,retain,84,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
+img_006.jpg,178,69,retain,85,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
+img_006.jpg,178,70,retain,86,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
+img_006.jpg,178,71,retain,87,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
+img_006.jpg,178,72,retain,88,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
+img_006.jpg,178,73,retain,89,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
+img_006.jpg,178,74,retain,90,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
+img_006.jpg,178,75,retain,91,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
+img_006.jpg,178,76,retain,92,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
+img_006.jpg,178,77,retain,93,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính."
+img_007.jpg,178,78,retain,94,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Pickup gắn thùng cao và truck phải riêng; xóa box cabin pickup bị lặp trong box toàn xe.
+img_007.jpg,178,79,delete,,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Pickup gắn thùng cao và truck phải riêng; xóa box cabin pickup bị lặp trong box toàn xe.
+img_007.jpg,178,80,retain,95,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Pickup gắn thùng cao và truck phải riêng; xóa box cabin pickup bị lặp trong box toàn xe.
+img_008.jpg,138,49,retain,96,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
+img_008.jpg,138,50,retain,97,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
+img_008.jpg,138,51,retain,98,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
+img_008.jpg,138,52,retain,99,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
+img_008.jpg,138,53,retain,100,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
+img_008.jpg,138,54,retain,101,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
+img_008.jpg,138,55,retain,102,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
+img_008.jpg,138,56,retain,103,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
+img_008.jpg,138,57,retain,104,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
+img_008.jpg,138,58,retain,105,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
+img_008.jpg,138,59,retain,106,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
+img_008.jpg,138,60,retain,107,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
+img_008.jpg,138,61,retain,108,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
+img_008.jpg,138,62,retain,109,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
+img_008.jpg,138,63,retain,110,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
+img_008.jpg,138,64,retain,111,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
+img_008.jpg,138,65,retain,112,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
+img_008.jpg,138,66,retain,113,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance."
+img_009.jpg,178,81,retain,114,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
+img_009.jpg,178,82,retain,115,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
+img_009.jpg,178,83,retain,116,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
+img_009.jpg,178,84,retain,117,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
+img_009.jpg,178,85,retain,118,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
+img_009.jpg,178,86,retain,119,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
+img_009.jpg,178,87,retain,120,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
+img_009.jpg,178,88,retain,121,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
+img_009.jpg,178,89,retain,122,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
+img_009.jpg,178,90,retain,123,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
+img_009.jpg,178,91,retain,124,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
+img_009.jpg,178,92,retain,125,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
+img_009.jpg,178,93,retain,126,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
+img_009.jpg,178,94,retain,127,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
+img_009.jpg,178,95,retain,128,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
+img_009.jpg,178,96,retain,129,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
+img_009.jpg,178,97,retain,130,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
+img_010.jpg,138,78,update,131,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Tách người đội mũ trắng/áo nâu khỏi passenger mũ đỏ; không gộp người trên cùng xe. Kiểm lại motorcycle che khuất và chân chồng nhau.
+img_010.jpg,138,79,update,132,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Tách người đội mũ trắng/áo nâu khỏi passenger mũ đỏ; không gộp người trên cùng xe. Kiểm lại motorcycle che khuất và chân chồng nhau.
+img_010.jpg,138,80,retain,133,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Tách người đội mũ trắng/áo nâu khỏi passenger mũ đỏ; không gộp người trên cùng xe. Kiểm lại motorcycle che khuất và chân chồng nhau.
+img_010.jpg,138,81,retain,134,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Tách người đội mũ trắng/áo nâu khỏi passenger mũ đỏ; không gộp người trên cùng xe. Kiểm lại motorcycle che khuất và chân chồng nhau.
+img_010.jpg,138,82,retain,135,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Tách người đội mũ trắng/áo nâu khỏi passenger mũ đỏ; không gộp người trên cùng xe. Kiểm lại motorcycle che khuất và chân chồng nhau.
+img_010.jpg,138,83,retain,136,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Tách người đội mũ trắng/áo nâu khỏi passenger mũ đỏ; không gộp người trên cùng xe. Kiểm lại motorcycle che khuất và chân chồng nhau.
+img_010.jpg,138,84,retain,137,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Tách người đội mũ trắng/áo nâu khỏi passenger mũ đỏ; không gộp người trên cùng xe. Kiểm lại motorcycle che khuất và chân chồng nhau.
+img_010.jpg,new,,add,138,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Tách người đội mũ trắng/áo nâu khỏi passenger mũ đỏ; không gộp người trên cùng xe. Kiểm lại motorcycle che khuất và chân chồng nhau.
+img_011.jpg,178,98,delete,,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
+img_011.jpg,178,99,retain,139,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
+img_011.jpg,178,100,retain,140,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
+img_011.jpg,178,101,retain,141,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
+img_011.jpg,178,102,retain,142,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
+img_011.jpg,178,103,retain,143,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
+img_011.jpg,178,104,retain,144,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
+img_011.jpg,178,105,retain,145,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
+img_011.jpg,178,106,retain,146,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
+img_011.jpg,178,107,retain,147,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
+img_011.jpg,178,108,retain,148,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
+img_011.jpg,178,109,retain,149,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
+img_011.jpg,178,110,retain,150,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
+img_011.jpg,178,111,retain,151,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
+img_011.jpg,178,112,retain,152,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
+img_011.jpg,178,113,retain,153,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
+img_011.jpg,178,114,retain,154,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
+img_011.jpg,178,115,retain,155,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
+img_011.jpg,178,116,delete,,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
+img_011.jpg,178,117,retain,156,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
+img_011.jpg,178,118,retain,157,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
+img_011.jpg,new,,add,158,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance."
+img_012.jpg,178,119,delete,,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hai box cùng pickup trước: giữ box có cả thùng và cabin; SUV trái là car, truck giữa là truck."
+img_012.jpg,178,120,retain,159,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hai box cùng pickup trước: giữ box có cả thùng và cabin; SUV trái là car, truck giữa là truck."
+img_012.jpg,178,121,retain,160,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hai box cùng pickup trước: giữ box có cả thùng và cabin; SUV trái là car, truck giữa là truck."
+img_012.jpg,178,122,retain,161,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hai box cùng pickup trước: giữ box có cả thùng và cabin; SUV trái là car, truck giữa là truck."
+img_012.jpg,178,123,retain,162,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hai box cùng pickup trước: giữ box có cả thùng và cabin; SUV trái là car, truck giữa là truck."
+img_013.jpg,138,102,retain,163,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Ảnh đêm còn rider gần quán và người rất nhỏ, cần rà thiếu/ignore theo kích thước gốc."
+img_013.jpg,138,103,retain,164,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Ảnh đêm còn rider gần quán và người rất nhỏ, cần rà thiếu/ignore theo kích thước gốc."
+img_013.jpg,138,104,retain,165,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Ảnh đêm còn rider gần quán và người rất nhỏ, cần rà thiếu/ignore theo kích thước gốc."
+img_013.jpg,138,105,retain,166,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Ảnh đêm còn rider gần quán và người rất nhỏ, cần rà thiếu/ignore theo kích thước gốc."
+img_014.jpg,178,124,retain,167,"Bổ sung rider/motorcycle nhòe ở trái, giữa và phải. Box chỉ ôm dấu vết thấy được, không suy đoán vật hoàn toàn sau pedestrian."
+img_014.jpg,178,125,retain,168,"Bổ sung rider/motorcycle nhòe ở trái, giữa và phải. Box chỉ ôm dấu vết thấy được, không suy đoán vật hoàn toàn sau pedestrian."
+img_014.jpg,new,,add,169,"Bổ sung rider/motorcycle nhòe ở trái, giữa và phải. Box chỉ ôm dấu vết thấy được, không suy đoán vật hoàn toàn sau pedestrian."
+img_014.jpg,new,,add,170,"Bổ sung rider/motorcycle nhòe ở trái, giữa và phải. Box chỉ ôm dấu vết thấy được, không suy đoán vật hoàn toàn sau pedestrian."
+img_014.jpg,new,,add,171,"Bổ sung rider/motorcycle nhòe ở trái, giữa và phải. Box chỉ ôm dấu vết thấy được, không suy đoán vật hoàn toàn sau pedestrian."
+img_014.jpg,new,,add,172,"Bổ sung rider/motorcycle nhòe ở trái, giữa và phải. Box chỉ ôm dấu vết thấy được, không suy đoán vật hoàn toàn sau pedestrian."
+img_014.jpg,new,,add,173,"Bổ sung rider/motorcycle nhòe ở trái, giữa và phải. Box chỉ ôm dấu vết thấy được, không suy đoán vật hoàn toàn sau pedestrian."
+img_014.jpg,new,,add,174,"Bổ sung rider/motorcycle nhòe ở trái, giữa và phải. Box chỉ ôm dấu vết thấy được, không suy đoán vật hoàn toàn sau pedestrian."
+img_015.jpg,178,126,retain,175,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Sáu car thật, không gán phản chiếu mặt đường; mép ảnh và nhòe được xét riêng."
+img_015.jpg,178,127,retain,176,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Sáu car thật, không gán phản chiếu mặt đường; mép ảnh và nhòe được xét riêng."
+img_015.jpg,178,128,retain,177,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Sáu car thật, không gán phản chiếu mặt đường; mép ảnh và nhòe được xét riêng."
+img_015.jpg,178,129,retain,178,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Sáu car thật, không gán phản chiếu mặt đường; mép ảnh và nhòe được xét riêng."
+img_015.jpg,178,130,retain,179,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Sáu car thật, không gán phản chiếu mặt đường; mép ảnh và nhòe được xét riêng."
+img_015.jpg,178,131,retain,180,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Sáu car thật, không gán phản chiếu mặt đường; mép ảnh và nhòe được xét riêng."
+img_016.jpg,178,132,retain,181,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Không giữ hai box chồng đầu cùng người tiền cảnh. Van thân kín, pickup nền và hai tuk_tuk giữ lớp kết cấu; cần kiểm rider sau khung kính."
+img_016.jpg,178,133,retain,182,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Không giữ hai box chồng đầu cùng người tiền cảnh. Van thân kín, pickup nền và hai tuk_tuk giữ lớp kết cấu; cần kiểm rider sau khung kính."
+img_016.jpg,178,134,retain,183,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Không giữ hai box chồng đầu cùng người tiền cảnh. Van thân kín, pickup nền và hai tuk_tuk giữ lớp kết cấu; cần kiểm rider sau khung kính."
+img_016.jpg,178,135,retain,184,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Không giữ hai box chồng đầu cùng người tiền cảnh. Van thân kín, pickup nền và hai tuk_tuk giữ lớp kết cấu; cần kiểm rider sau khung kính."
+img_016.jpg,178,136,retain,185,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Không giữ hai box chồng đầu cùng người tiền cảnh. Van thân kín, pickup nền và hai tuk_tuk giữ lớp kết cấu; cần kiểm rider sau khung kính."
+img_016.jpg,178,137,retain,186,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Không giữ hai box chồng đầu cùng người tiền cảnh. Van thân kín, pickup nền và hai tuk_tuk giữ lớp kết cấu; cần kiểm rider sau khung kính."
+img_016.jpg,178,138,retain,187,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Không giữ hai box chồng đầu cùng người tiền cảnh. Van thân kín, pickup nền và hai tuk_tuk giữ lớp kết cấu; cần kiểm rider sau khung kính."
+img_016.jpg,178,139,retain,188,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Không giữ hai box chồng đầu cùng người tiền cảnh. Van thân kín, pickup nền và hai tuk_tuk giữ lớp kết cấu; cần kiểm rider sau khung kính."
+img_016.jpg,178,140,delete,,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Không giữ hai box chồng đầu cùng người tiền cảnh. Van thân kín, pickup nền và hai tuk_tuk giữ lớp kết cấu; cần kiểm rider sau khung kính."
+img_018.jpg,138,114,retain,189,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Không gán người in billboard; xe thật sau hàng rào cần rà mức che, box không ôm bảng/cột."
+img_018.jpg,138,115,retain,190,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Không gán người in billboard; xe thật sau hàng rào cần rà mức che, box không ôm bảng/cột."
+img_018.jpg,138,116,retain,191,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Không gán người in billboard; xe thật sau hàng rào cần rà mức che, box không ôm bảng/cột."
+img_018.jpg,138,117,retain,192,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Không gán người in billboard; xe thật sau hàng rào cần rà mức che, box không ôm bảng/cột."
+img_018.jpg,138,118,retain,193,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Không gán người in billboard; xe thật sau hàng rào cần rà mức che, box không ôm bảng/cột."
+img_019.jpg,178,141,retain,194,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
+img_019.jpg,178,142,retain,195,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
+img_019.jpg,178,143,retain,196,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
+img_019.jpg,178,144,retain,197,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
+img_019.jpg,178,145,retain,198,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
+img_019.jpg,178,146,retain,199,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
+img_019.jpg,178,147,retain,200,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
+img_019.jpg,178,148,retain,201,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
+img_019.jpg,178,149,retain,202,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
+img_019.jpg,178,150,retain,203,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
+img_019.jpg,178,151,retain,204,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
+img_019.jpg,178,152,retain,205,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
+img_019.jpg,178,153,retain,206,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
+img_019.jpg,178,154,retain,207,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
+img_019.jpg,178,155,retain,208,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
+img_019.jpg,178,156,retain,209,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
+img_019.jpg,178,157,retain,210,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
+img_019.jpg,178,158,retain,211,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
+img_019.jpg,178,159,retain,212,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
+img_019.jpg,178,160,retain,213,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
+img_019.jpg,178,161,retain,214,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
+img_019.jpg,178,162,retain,215,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
+img_019.jpg,178,163,retain,216,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
+img_019.jpg,178,164,retain,217,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
+img_019.jpg,178,165,retain,218,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
+img_019.jpg,178,166,retain,219,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
+img_021.jpg,138,119,retain,220,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,138,120,retain,221,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,138,121,retain,222,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,138,122,retain,223,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,138,123,retain,224,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,138,124,retain,225,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,138,125,retain,226,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,138,126,retain,227,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,138,127,retain,228,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,138,128,retain,229,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,138,129,retain,230,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,138,130,retain,231,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,138,131,retain,232,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,138,132,retain,233,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,138,133,retain,234,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,138,134,retain,235,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,138,135,retain,236,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,138,136,retain,237,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,138,137,retain,238,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,138,138,retain,239,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,138,139,retain,240,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,138,140,retain,241,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,138,141,retain,242,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,138,142,retain,243,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,138,143,retain,244,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,138,144,retain,245,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,138,145,retain,246,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,138,146,retain,247,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,138,147,retain,248,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,138,148,retain,249,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,138,149,update,250,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,new,,add,251,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,new,,add,252,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,new,,add,253,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,new,,add,254,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,new,,add,255,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,new,,add,256,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,new,,add,257,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,new,,add,258,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,new,,add,259,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,new,,add,260,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,new,,add,261,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,new,,add,262,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,new,,add,263,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,new,,add,264,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,new,,add,265,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_021.jpg,new,,add,266,"Đã kiểm overlay sau sửa: bổ sung các motorcycle theo phần cơ khí thấy được, person mũ trắng giữa ảnh và sửa box person 31 bao đầu. Người và xe riêng. Đám đông xa chỉ gán phần thấy đủ ngưỡng, không suy đoán thân bị che."
+img_022.jpg,178,167,retain,267,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Một motorcycle bao cả sidecar gắn liền, không tách thành xe thứ hai."
+img_023.jpg,138,150,retain,268,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người trên xe đạp/xích lô vẫn person; không gán phương tiện đạp chân. Còn người và xe nền cần kiểm.
+img_023.jpg,138,151,retain,269,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người trên xe đạp/xích lô vẫn person; không gán phương tiện đạp chân. Còn người và xe nền cần kiểm.
+img_023.jpg,138,152,retain,270,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người trên xe đạp/xích lô vẫn person; không gán phương tiện đạp chân. Còn người và xe nền cần kiểm.
+img_023.jpg,138,153,retain,271,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người trên xe đạp/xích lô vẫn person; không gán phương tiện đạp chân. Còn người và xe nền cần kiểm.
+img_023.jpg,138,154,retain,272,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người trên xe đạp/xích lô vẫn person; không gán phương tiện đạp chân. Còn người và xe nền cần kiểm.
+img_023.jpg,138,155,retain,273,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người trên xe đạp/xích lô vẫn person; không gán phương tiện đạp chân. Còn người và xe nền cần kiểm.
+img_023.jpg,138,156,retain,274,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người trên xe đạp/xích lô vẫn person; không gán phương tiện đạp chân. Còn người và xe nền cần kiểm.
+img_023.jpg,138,157,retain,275,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người trên xe đạp/xích lô vẫn person; không gán phương tiện đạp chân. Còn người và xe nền cần kiểm.
+img_023.jpg,138,158,retain,276,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người trên xe đạp/xích lô vẫn person; không gán phương tiện đạp chân. Còn người và xe nền cần kiểm.
+img_023.jpg,138,159,retain,277,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người trên xe đạp/xích lô vẫn person; không gán phương tiện đạp chân. Còn người và xe nền cần kiểm.
+img_024.jpg,178,168,retain,278,"Giữ rooftop car: nhìn thấy kết cấu thân ô tô và bốn vị trí bánh, là xe/vỏ xe độ trưng bày theo R-14; không yêu cầu chứng minh động cơ vận hành. Không loại chỉ vì khoang/cửa kính đã cắt. Giữ các xe thật khác riêng."
+img_024.jpg,178,169,retain,279,"Giữ rooftop car: nhìn thấy kết cấu thân ô tô và bốn vị trí bánh, là xe/vỏ xe độ trưng bày theo R-14; không yêu cầu chứng minh động cơ vận hành. Không loại chỉ vì khoang/cửa kính đã cắt. Giữ các xe thật khác riêng."
+img_024.jpg,178,170,retain,280,"Giữ rooftop car: nhìn thấy kết cấu thân ô tô và bốn vị trí bánh, là xe/vỏ xe độ trưng bày theo R-14; không yêu cầu chứng minh động cơ vận hành. Không loại chỉ vì khoang/cửa kính đã cắt. Giữ các xe thật khác riêng."
+img_024.jpg,178,171,retain,281,"Giữ rooftop car: nhìn thấy kết cấu thân ô tô và bốn vị trí bánh, là xe/vỏ xe độ trưng bày theo R-14; không yêu cầu chứng minh động cơ vận hành. Không loại chỉ vì khoang/cửa kính đã cắt. Giữ các xe thật khác riêng."
+img_024.jpg,178,172,retain,282,"Giữ rooftop car: nhìn thấy kết cấu thân ô tô và bốn vị trí bánh, là xe/vỏ xe độ trưng bày theo R-14; không yêu cầu chứng minh động cơ vận hành. Không loại chỉ vì khoang/cửa kính đã cắt. Giữ các xe thật khác riêng."
+img_024.jpg,178,173,retain,283,"Giữ rooftop car: nhìn thấy kết cấu thân ô tô và bốn vị trí bánh, là xe/vỏ xe độ trưng bày theo R-14; không yêu cầu chứng minh động cơ vận hành. Không loại chỉ vì khoang/cửa kính đã cắt. Giữ các xe thật khác riêng."
+img_024.jpg,178,174,retain,284,"Giữ rooftop car: nhìn thấy kết cấu thân ô tô và bốn vị trí bánh, là xe/vỏ xe độ trưng bày theo R-14; không yêu cầu chứng minh động cơ vận hành. Không loại chỉ vì khoang/cửa kính đã cắt. Giữ các xe thật khác riêng."
+img_024.jpg,178,175,retain,285,"Giữ rooftop car: nhìn thấy kết cấu thân ô tô và bốn vị trí bánh, là xe/vỏ xe độ trưng bày theo R-14; không yêu cầu chứng minh động cơ vận hành. Không loại chỉ vì khoang/cửa kính đã cắt. Giữ các xe thật khác riêng."
+img_025.jpg,138,166,retain,286,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người/xe bãi biển cần kiểm vật nhỏ và người nằm/được ghế che; không loại cả ảnh vì có tượng.
+img_025.jpg,138,167,retain,287,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người/xe bãi biển cần kiểm vật nhỏ và người nằm/được ghế che; không loại cả ảnh vì có tượng.
+img_025.jpg,138,168,retain,288,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người/xe bãi biển cần kiểm vật nhỏ và người nằm/được ghế che; không loại cả ảnh vì có tượng.
+img_025.jpg,138,169,retain,289,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người/xe bãi biển cần kiểm vật nhỏ và người nằm/được ghế che; không loại cả ảnh vì có tượng.
+img_025.jpg,138,170,retain,290,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người/xe bãi biển cần kiểm vật nhỏ và người nằm/được ghế che; không loại cả ảnh vì có tượng.
+img_025.jpg,138,171,retain,291,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người/xe bãi biển cần kiểm vật nhỏ và người nằm/được ghế che; không loại cả ảnh vì có tượng.
+img_025.jpg,138,172,retain,292,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người/xe bãi biển cần kiểm vật nhỏ và người nằm/được ghế che; không loại cả ảnh vì có tượng.
+img_025.jpg,138,173,retain,293,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người/xe bãi biển cần kiểm vật nhỏ và người nằm/được ghế che; không loại cả ảnh vì có tượng.
+img_025.jpg,138,174,retain,294,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người/xe bãi biển cần kiểm vật nhỏ và người nằm/được ghế che; không loại cả ảnh vì có tượng.
+img_025.jpg,138,175,retain,295,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người/xe bãi biển cần kiểm vật nhỏ và người nằm/được ghế che; không loại cả ảnh vì có tượng.
+img_025.jpg,138,176,retain,296,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người/xe bãi biển cần kiểm vật nhỏ và người nằm/được ghế che; không loại cả ảnh vì có tượng.
+img_025.jpg,138,177,retain,297,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người/xe bãi biển cần kiểm vật nhỏ và người nằm/được ghế che; không loại cả ảnh vì có tượng.
+img_025.jpg,138,178,retain,298,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người/xe bãi biển cần kiểm vật nhỏ và người nằm/được ghế che; không loại cả ảnh vì có tượng.
+img_025.jpg,138,179,retain,299,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người/xe bãi biển cần kiểm vật nhỏ và người nằm/được ghế che; không loại cả ảnh vì có tượng.
+img_026.jpg,178,176,retain,300,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hai người và một motorcycle; không gộp rider/passenger.
+img_026.jpg,178,177,retain,301,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hai người và một motorcycle; không gộp rider/passenger.
+img_026.jpg,178,178,retain,302,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hai người và một motorcycle; không gộp rider/passenger.
+img_028.jpg,138,182,update,303,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Pickup thật đổi car→truck; ngựa trên thùng là mô hình không gán; car đỏ riêng.
+img_028.jpg,138,183,retain,304,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Pickup thật đổi car→truck; ngựa trên thùng là mô hình không gán; car đỏ riêng.
+img_029.jpg,178,179,retain,305,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người đi bicycle vẫn person; chỉ phương tiện có động cơ là motorcycle. Còn cụm người xa cần rà.
+img_029.jpg,178,180,retain,306,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người đi bicycle vẫn person; chỉ phương tiện có động cơ là motorcycle. Còn cụm người xa cần rà.
+img_029.jpg,178,181,retain,307,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người đi bicycle vẫn person; chỉ phương tiện có động cơ là motorcycle. Còn cụm người xa cần rà.
+img_029.jpg,178,182,retain,308,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người đi bicycle vẫn person; chỉ phương tiện có động cơ là motorcycle. Còn cụm người xa cần rà.
+img_029.jpg,178,183,retain,309,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người đi bicycle vẫn person; chỉ phương tiện có động cơ là motorcycle. Còn cụm người xa cần rà.
+img_029.jpg,178,184,retain,310,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người đi bicycle vẫn person; chỉ phương tiện có động cơ là motorcycle. Còn cụm người xa cần rà.
+img_029.jpg,178,185,retain,311,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người đi bicycle vẫn person; chỉ phương tiện có động cơ là motorcycle. Còn cụm người xa cần rà.
+img_029.jpg,178,186,retain,312,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người đi bicycle vẫn person; chỉ phương tiện có động cơ là motorcycle. Còn cụm người xa cần rà.
+img_029.jpg,178,187,retain,313,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người đi bicycle vẫn person; chỉ phương tiện có động cơ là motorcycle. Còn cụm người xa cần rà.
+img_029.jpg,178,188,retain,314,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người đi bicycle vẫn person; chỉ phương tiện có động cơ là motorcycle. Còn cụm người xa cần rà.
+img_029.jpg,178,189,retain,315,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người đi bicycle vẫn person; chỉ phương tiện có động cơ là motorcycle. Còn cụm người xa cần rà.
+img_029.jpg,178,190,retain,316,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Người đi bicycle vẫn person; chỉ phương tiện có động cơ là motorcycle. Còn cụm người xa cần rà.
+img_030.jpg,178,191,retain,317,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
+img_030.jpg,178,192,retain,318,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
+img_030.jpg,178,193,retain,319,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
+img_030.jpg,178,194,retain,320,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
+img_030.jpg,178,195,retain,321,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
+img_030.jpg,178,196,retain,322,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
+img_030.jpg,178,197,retain,323,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
+img_030.jpg,178,198,retain,324,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
+img_030.jpg,178,199,retain,325,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
+img_030.jpg,178,200,retain,326,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
+img_030.jpg,178,201,retain,327,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
+img_030.jpg,178,202,retain,328,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
+img_030.jpg,178,203,retain,329,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
+img_030.jpg,178,204,retain,330,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
+img_030.jpg,178,205,retain,331,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
+img_030.jpg,178,206,retain,332,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
+img_030.jpg,178,207,retain,333,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
+img_030.jpg,178,208,retain,334,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
+img_030.jpg,178,209,retain,335,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
+img_030.jpg,178,210,retain,336,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
+img_031.jpg,178,211,retain,337,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
+img_031.jpg,178,212,retain,338,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
+img_031.jpg,178,213,retain,339,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
+img_031.jpg,178,214,retain,340,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
+img_031.jpg,178,215,retain,341,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
+img_031.jpg,178,216,retain,342,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
+img_031.jpg,178,217,retain,343,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
+img_031.jpg,178,218,retain,344,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
+img_031.jpg,178,219,retain,345,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
+img_031.jpg,178,220,retain,346,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
+img_031.jpg,178,221,retain,347,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
+img_031.jpg,178,222,retain,348,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
+img_031.jpg,178,223,retain,349,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
+img_031.jpg,178,224,retain,350,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
+img_031.jpg,178,225,retain,351,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
+img_031.jpg,178,226,retain,352,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
+img_031.jpg,178,227,retain,353,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
+img_031.jpg,178,228,retain,354,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
+img_031.jpg,178,229,retain,355,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
+img_032.jpg,178,230,retain,356,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,231,retain,357,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,232,retain,358,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,233,retain,359,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,234,retain,360,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,235,retain,361,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,236,retain,362,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,237,retain,363,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,238,retain,364,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,239,retain,365,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,240,retain,366,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,241,retain,367,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,242,retain,368,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,243,retain,369,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,244,retain,370,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,245,retain,371,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,246,retain,372,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,247,retain,373,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,248,retain,374,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,249,retain,375,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,250,retain,376,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,251,retain,377,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,252,retain,378,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,253,retain,379,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,254,retain,380,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,255,retain,381,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,256,retain,382,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,257,retain,383,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,258,retain,384,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,259,retain,385,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,260,retain,386,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,261,retain,387,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,262,retain,388,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,263,retain,389,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,264,retain,390,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,265,retain,391,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,266,retain,392,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,267,retain,393,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,268,retain,394,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,269,retain,395,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_032.jpg,178,270,retain,396,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+img_034.jpg,178,271,retain,397,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
+img_034.jpg,178,272,retain,398,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
+img_034.jpg,178,273,delete,,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
+img_034.jpg,178,274,delete,,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
+img_034.jpg,178,275,retain,399,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
+img_034.jpg,178,276,retain,400,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
+img_034.jpg,178,277,retain,401,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
+img_034.jpg,178,278,retain,402,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
+img_034.jpg,178,279,retain,403,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
+img_034.jpg,178,280,retain,404,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
+img_034.jpg,178,281,retain,405,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
+img_034.jpg,178,282,retain,406,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
+img_034.jpg,178,283,retain,407,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
+img_034.jpg,178,284,retain,408,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
+img_034.jpg,178,285,retain,409,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
+img_034.jpg,178,286,retain,410,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
+img_034.jpg,178,287,retain,411,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
+img_034.jpg,178,288,retain,412,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
+img_034.jpg,178,289,retain,413,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
+img_034.jpg,178,290,retain,414,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
+img_034.jpg,178,291,retain,415,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
+img_034.jpg,178,292,delete,,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
+img_034.jpg,178,293,retain,416,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
+img_034.jpg,178,294,retain,417,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
+img_034.jpg,178,295,retain,418,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
+img_034.jpg,178,296,retain,419,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
+img_034.jpg,178,297,delete,,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà."
+img_035.jpg,178,298,retain,420,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.
+img_035.jpg,178,299,retain,421,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.
+img_035.jpg,178,300,retain,422,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.
+img_035.jpg,178,301,retain,423,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.
+img_035.jpg,178,302,retain,424,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.
+img_035.jpg,178,303,retain,425,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.
+img_035.jpg,178,304,retain,426,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.
+img_035.jpg,178,305,retain,427,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.
+img_035.jpg,178,306,retain,428,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.
+img_035.jpg,178,307,retain,429,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.
+img_035.jpg,178,308,retain,430,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.
+img_035.jpg,178,309,retain,431,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.
+img_035.jpg,178,310,retain,432,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.
+img_035.jpg,178,311,retain,433,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.
+img_035.jpg,178,312,retain,434,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.
+img_035.jpg,178,313,retain,435,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.
+img_036.jpg,138,223,retain,436,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Truck cabin/thùng riêng; các motorcycle mép ảnh có thể box chi tiết trùng, cần kiểm extent và truncate."
+img_036.jpg,138,224,retain,437,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Truck cabin/thùng riêng; các motorcycle mép ảnh có thể box chi tiết trùng, cần kiểm extent và truncate."
+img_036.jpg,138,225,retain,438,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Truck cabin/thùng riêng; các motorcycle mép ảnh có thể box chi tiết trùng, cần kiểm extent và truncate."
+img_036.jpg,138,226,retain,439,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Truck cabin/thùng riêng; các motorcycle mép ảnh có thể box chi tiết trùng, cần kiểm extent và truncate."
+img_036.jpg,138,227,retain,440,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Truck cabin/thùng riêng; các motorcycle mép ảnh có thể box chi tiết trùng, cần kiểm extent và truncate."
+img_036.jpg,138,228,retain,441,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Truck cabin/thùng riêng; các motorcycle mép ảnh có thể box chi tiết trùng, cần kiểm extent và truncate."
+img_037.jpg,138,229,retain,442,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Pickup gắn cap giữ truck, bus và person riêng; cấu trúc cap không đổi thành van."
+img_037.jpg,138,230,retain,443,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Pickup gắn cap giữ truck, bus và person riêng; cấu trúc cap không đổi thành van."
+img_037.jpg,138,231,retain,444,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Pickup gắn cap giữ truck, bus và person riêng; cấu trúc cap không đổi thành van."
+img_039.jpg,178,314,retain,445,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
+img_039.jpg,178,315,retain,446,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
+img_039.jpg,178,316,retain,447,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
+img_039.jpg,178,317,retain,448,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
+img_039.jpg,178,318,retain,449,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
+img_039.jpg,178,319,retain,450,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
+img_039.jpg,178,320,retain,451,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
+img_039.jpg,178,321,retain,452,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
+img_039.jpg,178,322,retain,453,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
+img_039.jpg,178,323,retain,454,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
+img_039.jpg,178,324,retain,455,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
+img_039.jpg,178,325,retain,456,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
+img_039.jpg,178,326,retain,457,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
+img_039.jpg,178,327,delete,,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
+img_039.jpg,178,328,retain,458,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
+img_039.jpg,178,329,retain,459,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
+img_039.jpg,178,330,retain,460,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
+img_039.jpg,178,331,retain,461,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
+img_039.jpg,178,332,retain,462,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
+img_039.jpg,178,333,retain,463,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
+img_039.jpg,178,334,retain,464,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
+img_039.jpg,178,335,retain,465,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
+img_039.jpg,178,336,retain,466,178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
+img_040.jpg,178,337,retain,467,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xóa ego motorcycle chỉ gồm gương; taxi xanh rebox theo thân xe, giữ bus/tuk_tuk và người riêng. Mức che/extent tuk_tuk sau taxi cần review."
+img_040.jpg,178,338,delete,,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xóa ego motorcycle chỉ gồm gương; taxi xanh rebox theo thân xe, giữ bus/tuk_tuk và người riêng. Mức che/extent tuk_tuk sau taxi cần review."
+img_040.jpg,178,339,retain,468,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xóa ego motorcycle chỉ gồm gương; taxi xanh rebox theo thân xe, giữ bus/tuk_tuk và người riêng. Mức che/extent tuk_tuk sau taxi cần review."
+img_040.jpg,178,340,update,469,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xóa ego motorcycle chỉ gồm gương; taxi xanh rebox theo thân xe, giữ bus/tuk_tuk và người riêng. Mức che/extent tuk_tuk sau taxi cần review."
+img_040.jpg,178,341,retain,470,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xóa ego motorcycle chỉ gồm gương; taxi xanh rebox theo thân xe, giữ bus/tuk_tuk và người riêng. Mức che/extent tuk_tuk sau taxi cần review."
+img_040.jpg,178,342,retain,471,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xóa ego motorcycle chỉ gồm gương; taxi xanh rebox theo thân xe, giữ bus/tuk_tuk và người riêng. Mức che/extent tuk_tuk sau taxi cần review."
+img_040.jpg,178,343,retain,472,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xóa ego motorcycle chỉ gồm gương; taxi xanh rebox theo thân xe, giữ bus/tuk_tuk và người riêng. Mức che/extent tuk_tuk sau taxi cần review."
+img_040.jpg,178,344,retain,473,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xóa ego motorcycle chỉ gồm gương; taxi xanh rebox theo thân xe, giữ bus/tuk_tuk và người riêng. Mức che/extent tuk_tuk sau taxi cần review."
+img_040.jpg,178,345,retain,474,"178 xác nhận đã kiểm ảnh trong nhóm 31 ảnh; giữ các sửa đã ghi. Xóa ego motorcycle chỉ gồm gương; taxi xanh rebox theo thân xe, giữ bus/tuk_tuk và người riêng. Mức che/extent tuk_tuk sau taxi cần review."

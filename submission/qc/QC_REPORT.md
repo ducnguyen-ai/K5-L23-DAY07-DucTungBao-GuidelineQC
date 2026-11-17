@@ -1,42 +1,46 @@
 # Báo cáo QC — DucTungBao
 
-## 1. Mục đích và đầu vào
+## 1. Mục tiêu và dữ liệu
 
-- Mục đích và giới hạn sử dụng: Tôi bàn giao lô thực hành 40 ảnh để đánh giá guideline và chất lượng annotation; chưa đủ cơ sở dùng cho xe tự hành hoặc hệ thống giao thông vận hành thật. IAA không phải độ chính xác so với ground truth.
-- Nguồn và phép sử dụng dữ liệu: Giữ data/ATTRIBUTION.csv và giấy phép gốc.
-- Manifest và checksum nhãn cuối: submission/qc/batch_manifest.json; SHA256 labels_calibrated.json = 312ee71df053010d1def19b244e94885db220cae2ccd60c632bf8cc3609d753a.
-- Guideline và taxonomy khi gán / khi bàn giao: v1.0 agreed khi gán; v1.1 ghi cách áp dụng rule khi calibration; taxonomy v1.0 và mọi ngưỡng giữ nguyên.
+- Mục đích và giới hạn sử dụng: Tôi bàn giao bộ nhãn thực hành Day07, gồm 40 ảnh đường phố. Release áp dụng cho bài lab này; không chứng nhận dữ liệu đủ cho xe tự hành hoặc hệ thống giao thông vận hành thực tế. Các tỷ lệ dưới đây là lỗi được ghi nhận trong lượt review, không phải accuracy so với ground truth.
+- Nguồn và phép sử dụng dữ liệu: Giữ nguyên data/ATTRIBUTION.csv và giấy phép gốc.
+- Manifest và checksum nhãn cuối: submission/qc/batch_manifest.json; SHA256 labels_calibrated.json = 76ffd0fd0e8a123a269913b675b5ad2d1daa802e80dc15f253946741eeeb068d.
+- Guideline và taxonomy khi gán / khi bàn giao: Guideline v1.0 agreed khi gán, v1.1 sau calibration; taxonomy v1.0, giữ nguyên R-01–R-16 và các ngưỡng của đề.
 
-## 2. IAA và sửa nhãn
+## 2. Gán độc lập và IAA
 
-- Lượt hoàn thành / được giao: 80/80 lượt trên 40 ảnh, K=2; 138 có 26 ảnh/246 box, 144 có 27 ảnh/184 box, 178 có 27 ảnh/345 box.
-- IAA: 268 cặp ghép, mean IoU 0,882; cùng lớp 96,6%; occluded_level 33,2%; truncated 88,4%. Có 239 box chưa ghép. Chỉ số tổng không chứng minh từng box đúng.
-- Truy vết calibration: 837 dòng IAA được liên kết tới quyết định từng ảnh trong calibration_decisions.csv; không đồng nghĩa 837 ca đã đóng. Còn 26 ảnh được giữ cờ review trong calibration_patch.json/review_triage.csv.
-- Bản nhãn làm việc hiện tại: 450 annotations/40 ảnh. Chọn bản 178 nếu được giao, nếu không thì 138 làm nền sửa; đây là cách dựng bản làm việc, không phải kết luận người nào chính xác hơn. Các ca chưa chắc vẫn can_review.
-- Sửa có truy vết: 13 box loại, 5 box sửa class/geometry, 7 box bổ sung; 438 box giữ từ bản nền. Đây không phải phép đếm chênh lệch với 507 box consensus. Xem calibration_applied.csv để tra source_id và final_id.
-- Ví dụ: img_007 bỏ box cabin trùng pickup; img_012 bỏ box pickup trùng; img_028 đổi pickup car sang truck; img_040 bỏ ego motorcycle và sửa extent taxi; img_005 thêm van và person bỏ sót. Không sửa nhãn độc lập để tăng IAA.
-- Trạng thái guideline: ca rooftop car img_024 cần chốt phạm vi R-14/R-16; các ảnh đông cần kiểm instance/extent/thuộc tính, không thay định nghĩa để hợp thức hóa box.
+- Lượt hoàn thành / được giao: 80/80 lượt, mỗi ảnh hai người; 138 có 26 ảnh/246 box, 144 có 27 ảnh/184 box, 178 có 27 ảnh/345 box. Giữ nguyên nhãn độc lập.
+- IAA trước calibration: 268 cặp ghép; mean IoU 0,882; cùng lớp 96,6%; occluded_level 33,2%; truncated 88,4%. Có 239 box chưa ghép. Ghép một-một không phân biệt class, IoU ≥0,5.
+- Kết quả từng cặp: 138/144 IoU 0,827 và class 98,8%; 138/178 IoU 0,930 và class 100%; 144/178 IoU 0,849 và class 84,3%. Chỉ số tổng đạt không có nghĩa mọi ảnh hoặc mọi cặp đạt.
+- Calibration: 837 dòng IAA liên kết tới quyết định ảnh, rule, source_id/final_id và bản sửa. Không dùng số dòng ứng viên làm số lỗi thực tế. Nguồn và lịch sử nhãn vẫn tra được qua calibration_applied.csv.
+- Giới hạn độc lập: Các bộ nhãn có công cụ/model hỗ trợ; IAA là so sánh ba bộ đã nộp, không khẳng định nghiên cứu gán thủ công độc lập hoàn toàn.
 
-## 3. Bằng chứng QC
+## 3. Các sửa và căn cứ
 
-- Vòng QC: 2
-- Người review và ngày: 178 là mã phụ trách; lượt đối chiếu mới do trợ lý thực hiện theo ủy quyền ngày 17/11/2026. 144 đã nộp vòng 1, không quy kết người này đã review vòng 2.
-- Đã duyệt / cả lô: Phiếu QC vòng 2 có kết quả 9/40 ảnh; đã xem toàn bộ 40 ảnh ở lượt triage, nhưng triage không thay QC hoàn chỉnh. 31 ảnh chưa có kết luận QC.
-- Ảnh lỗi / ảnh đã duyệt: 4/9 = 44,4%; không suy rộng thành tỷ lệ lỗi toàn bộ 40 ảnh.
-- Annotation đối tượng hiện có bị lỗi / annotation đối tượng đã duyệt: 1/49 = 2,0%; không bao gồm ba vật bỏ sót.
-- Vật bỏ sót, ảnh và vùng: 3 ca ghi riêng ở img_005, img_014, img_021; chi tiết vùng trong reviews/round-02/qc_review.csv.
-- Lỗi đã ghi: truck img_001 có extent lấn cảnh quán; các ca bỏ sót phương tiện/người nêu trên. Các ca chưa chắc giữ can_review, không tính là lỗi đã xác nhận.
-- Một lỗi máy chặn được và một lỗi cần đọc ảnh: checksum ngăn dùng nhãn/phiếu khác phiên bản; phát hiện bicycle nhầm motorcycle hoặc box trùng phải đối chiếu ảnh.
+- Nhãn cuối: 474 annotations/40 ảnh; 435 giữ từ bản nền, 13 loại, 8 sửa và 31 bổ sung. Đây là thao tác so với nguồn từng ảnh trong calibration_patch.json, không phải chênh lệch trực tiếp so với consensus 507 box.
+- Nguồn bản nền: Chọn 178 nếu được giao ảnh, nếu không chọn 138 rồi sửa theo ảnh. Đây không phải xếp hạng độ chính xác giữa thành viên; giữ mapping tới nhãn nguồn và các sửa để kiểm lại.
+- R-02/R-03: Sửa extent truck img_001; thêm van, người và motorcycle img_005; sửa box person áo xanh bao đủ mũ và phần thấy tới biên dưới. Tách person/motorcycle, không gộp rider vào xe.
+- R-08: Bổ sung person/motorcycle nhòe ở trái, giữa và phải img_014 theo phần quan sát được; không loại chỉ vì nhòe.
+- R-03/R-08: Bổ sung motorcycle tiền/trung cảnh và person còn thiếu ở img_021, sửa person 31 bao đầu; giữ các instance riêng trong cảnh chồng nhau.
+- R-14: Giữ rooftop car img_024 vì thấy kết cấu thân ô tô và bánh; không yêu cầu xe trưng bày phải chứng minh động cơ hoạt động. Không loại chỉ vì khoang/cửa kính đã cắt.
+- Các sửa trước đó: Loại box pickup trùng img_007/img_012; pickup img_028 thành truck; loại ego motorcycle img_040. Tượng/mannequin/đồ chơi và reflection được loại theo R-12/R-13.
+- Phạm vi guideline: Chốt cách áp dụng rule hiện có cho các ảnh trên, không đổi schema hoặc threshold. Toàn bộ 40 ảnh nằm trong scope calibration và manifest.
 
-## 4. Sửa kết luận vòng 1
+## 4. Kiểm lại và bằng chứng
 
-- Lưu lịch sử: Giữ nguyên reviews/round-01 và nhãn revision ab5bebe6ba91a115. Bản đó không còn dùng để ra quyết định cho nhãn hiện tại.
-- Lý do thay kết luận: Tại commit 08f93c6, tọa độ và class của cả 507 box giống consensus_draft; pickup img_028 vẫn car, ego motorcycle img_040 vẫn tồn tại. Báo cáo 0 lỗi/40 ảnh không phù hợp các lỗi đối chiếu được. check_submission khi đó báo lệch checksum và đầu vào IAA.
-- Chốt calibration: Phân công 178 chốt/144 QC vẫn giữ; không ghi có phiên họp hoặc xác nhận nhóm mới khi chưa có bằng chứng.
+- Vòng QC: 5
+- Người review và ngày: 178, ngày 17/11/2026. Người dùng xác nhận đã kiểm nhóm 31 ảnh còn trống ở vòng 2; trợ lý theo ủy quyền 178 sửa/kiểm các ảnh 001,005,014,021,024 và kiểm năm ảnh âm tính 017,020,027,033,038. 024 thuộc nhóm 31 ảnh nhưng được kiểm thêm. Không ghi đây là review độc lập mới của 144.
+- Đã duyệt / cả lô: 40/40, theo cơ sở từng dòng trong reviews/round-05/qc_review.csv. Xác nhận của người dùng và phạm vi sửa được ghi tại calibration_patch.json.
+- Ảnh lỗi / ảnh đã duyệt: 0/40 = 0,0% lỗi còn ghi nhận ở vòng 5 sau sửa; không phải tuyên bố tuyệt đối không thể còn sai sót.
+- Annotation đối tượng hiện có bị lỗi / annotation đối tượng đã duyệt: 0/474 = 0,0% lỗi còn ghi nhận. Vật bỏ sót được đếm riêng.
+- Vật bỏ sót, ảnh và vùng: 0 ca còn ghi nhận ở vòng 5. Giữ các ca bỏ sót vòng 2 để đối chiếu lịch sử, không xóa bằng chứng cũ.
+- Ca khó / phần còn lại: Crowded riders, xe độ và motion blur đã được xử lý theo bản v1.1; nếu có phát hiện mới thì mở vòng mới trên nhãn sửa, không sửa phiếu cũ. Mức che là ước lượng thị giác, không có ground truth lớp học để xác nhận accuracy.
+- Một lỗi máy chặn được và một lỗi cần người đọc ảnh: Checksum khóa nhãn/manifest/phiếu cùng phiên bản; phát hiện box ôm bicycle, ego hoặc chi tiết trùng vẫn cần đối chiếu ảnh.
+- Lịch sử: Vòng 1 của 144 được giữ nguyên; vòng 2 Hold được giữ nguyên. Vòng 3/4 là snapshot kiểm trung gian, không dùng ra quyết định. Vòng 5 là vòng bàn giao hiện tại.
 
-## 5. Bàn giao
+## 5. Quyết định
 
-- Quyết định: Hold
-- Lý do, người nhận và phạm vi sử dụng: Nộp bằng chứng thực hành cho coach với trạng thái Hold theo SUBMISSION.md. Còn cờ review, một ca phạm vi guideline và QC chưa đủ 40 ảnh; không công bố Release hoặc 0 lỗi.
-- Nếu còn việc: Xử lý các ca trong review_triage.csv, sửa các lỗi vòng 2; chốt rooftop car; kiểm lại đủ 40 ảnh rồi mở vòng 3 trên bản nhãn đã sửa. Không điền khong hàng loạt để vượt kiểm tra.
-- Kiểm ngược từ báo cáo tới ảnh, rule và nhãn: img_028→R-06→calibration_patch.json update 1→calibration_applied.csv source_id/final_id→labels_calibrated.json. img_001→R-02→phiếu QC vòng 2 object_id 7. Snapshot và checksum khóa từng vòng.
+- Quyết định: Release
+- Lý do, người nhận và phạm vi sử dụng: qc_report.py --round 5 trả RELEASE với phiếu đủ 40 ảnh, không còn can_review, không còn guideline gap và không còn lỗi ghi nhận sau sửa. Bàn giao cho coach trong phạm vi bài lab Day07.
+- Nếu còn việc: Không còn lỗi đang mở trong phiếu vòng 5; giữ lịch sử và mở vòng mới nếu có phát hiện bổ sung. Giữ nguồn ảnh và giới hạn sử dụng khi chia sẻ.
+- Kiểm ngược từ báo cáo tới ảnh, rule và nhãn: img_001→R-02→calibration_patch.json update 7→calibration_applied.csv→labels_calibrated.json; img_021→R-03/R-08→các annotation bổ sung→snapshot vòng 5. Manifest ghi SHA256 các đầu vào và nhãn bàn giao.

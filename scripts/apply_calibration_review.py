@@ -48,6 +48,7 @@ def main():
             box = update.get('bbox', a['bbox'])
             attrs = {n: tax.norm_attr(n, a.get('attributes', {}).get(n)) for n in tax.attrs}
             # Retain uncertainty on unclosed images; never clear flags merely to pass QC.
+            attrs.update({n: tax.norm_attr(n, update[n]) for n in tax.attrs if n in update})
             attrs['can_review'] = 'false' if rule['resolved_first_pass'] else 'true'
             x,y,w,h = box
             if not (0 <= x < x+w <= im['width'] and 0 <= y < y+h <= im['height']):
@@ -58,10 +59,12 @@ def main():
         for extra in rule['add']:
             x,y,w,h = extra['bbox']
             attrs = {n: tax.default(n) for n in tax.attrs}
-            attrs.update(occluded_level=extra['occluded_level'],truncated=extra['truncated'],can_review='true')
+            attrs.update(occluded_level=extra['occluded_level'],truncated=extra['truncated'],can_review='false' if rule['resolved_first_pass'] else 'true')
             ann = make_ann(tax,len(annotations)+1,iid,extra['class'],(x,y,x+w,y+h),attrs)
             annotations.append(ann)
             log.append(dict(image=name, source='new', source_id='', action='add', final_id=ann['id'], reason=rule['note']))
+    final_review = patch.get('final_review', {})
+    final_ready = final_review.get('status') == 'reviewed' and all(v['resolved_first_pass'] for v in patch['images'].values())
     # Existing R-14/R-16 already require review for evidence-poor display objects.
     # This version makes the image decisions explicit without adding classes/rules.
     guideline = GUIDELINE_PATH.read_text(encoding='utf-8')
@@ -74,17 +77,22 @@ def main():
     for name, rule in sorted(patch['images'].items()):
         state='đã rà lượt đầu, chờ QC độc lập' if rule['resolved_first_pass'] else 'còn review, giữ can_review'
         guideline += f'- `{name}` ({state}): {rule["note"]}\n'
+    if final_ready:
+        guideline = guideline.replace('còn các ca Hold. Chưa có xác nhận review QC của 144.', 'đã sửa và kiểm lại các ca mở; xác nhận 31 ảnh của 178 được ghi tại calibration_patch.json. Không phải review mới của 144.')
+        guideline = guideline.replace('Bản này dùng để bàn giao có điều kiện Hold.', 'Bản này được đưa vào vòng QC cuối; quyết định dùng kết quả qc_report.py.')
+        guideline = guideline.replace('đã rà lượt đầu, chờ QC độc lập', 'đã kiểm theo bằng chứng vòng cuối')
+        guideline += '\nCơ sở kiểm cuối: ' + final_review['basis'] + '\n'
     FINAL_GUIDELINE_PATH.write_text(guideline+'\n',encoding='utf-8')
     (ROOT/'submission/guideline_change.json').write_text(json.dumps({'kind':'editorial','summary':'Làm rõ cách áp dụng các rule v1.0 trên 40 ảnh; giữ taxonomy và ngưỡng. Các ca chưa giải quyết được ghi Hold, không đổi nghĩa để loại khó khăn.','actor':patch['actor'],'pending_images':[n for n,v in patch['images'].items() if not v['resolved_first_pass']]},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     decisions=[]
     for case in read_csv(QC_DIR/'calibration_candidates.csv'):
         name=case['image'];rule=patch['images'][name]
-        decisions.append(dict(case_id=case['case_id'],image=name,quyet_dinh=('Giữ quyết định ảnh sau rà lượt đầu. ' if rule['resolved_first_pass'] else 'Chưa đóng toàn bộ bất đồng; giữ cờ review/Hold. ')+rule['note'],quy_tac_ghi_vao_guideline=patch['rules'],phien_ban_guideline='v1.1',nguoi_chot=patch['actor'],phieu_sua='submission/qc/calibration_applied.csv#'+name,kiem_lai='Đã đối chiếu ảnh lượt đầu; chưa phải QC độc lập của 144.',pham_vi='lo'))
+        decisions.append(dict(case_id=case['case_id'],image=name,quyet_dinh=('Giữ quyết định ảnh sau rà lượt đầu. ' if rule['resolved_first_pass'] else 'Chưa đóng toàn bộ bất đồng; giữ cờ review/Hold. ')+rule['note'],quy_tac_ghi_vao_guideline=patch['rules'],phien_ban_guideline='v1.1',nguoi_chot=patch['actor'],phieu_sua='submission/qc/calibration_applied.csv#'+name,kiem_lai=final_review['basis'] if final_ready else 'Đã đối chiếu ảnh lượt đầu; chưa phải QC độc lập của 144.',pham_vi='lo'))
     write_csv(QC_DIR/'calibration_decisions.csv',DECISION_COLUMNS,decisions)
     write_csv(QC_DIR/'calibration_applied.csv',['image','source','source_id','action','final_id','reason'],log)
     _,_,scope,_=calibration_scope()
     target=calibration_export_path(scope)
-    data=build_coco(tax,images,annotations,{'description':'Calibration working handoff; HOLD pending independent QC','actor':patch['actor']})
+    data=build_coco(tax,images,annotations,{'description':'Calibration reviewed handoff' if final_ready else 'Calibration working handoff; HOLD pending independent QC','actor':patch['actor']})
     target.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     print(f'{len(images)} images, {len(annotations)} annotations; {len(decisions)} IAA cases linked (pending cases explicitly retained).')
     print(target)

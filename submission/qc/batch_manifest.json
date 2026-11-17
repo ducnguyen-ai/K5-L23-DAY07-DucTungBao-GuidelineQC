@@ -7,20 +7,20 @@
   "guideline": "submission/guidelines/guideline_v1.1_calibrated.md",
   "labels": {
     "path": "submission/qc/labels_calibrated.json",
-    "sha256": "312ee71df053010d1def19b244e94885db220cae2ccd60c632bf8cc3609d753a"
+    "sha256": "76ffd0fd0e8a123a269913b675b5ad2d1daa802e80dc15f253946741eeeb068d"
   },
   "inputs_sha256": {
     "submission/qc/assignment.csv": "a0a5c55dbdef676edc1d16a464d36b179b319ea778bf1f1cbfcace26f61e9a7e",
     "submission/qc/iaa_summary.json": "dcca4f3528ad18377acfe011ce12a5968de20a2acee726275be2ec4458f57545",
-    "submission/qc/calibration_decisions.csv": "694517e7a33e3db4ac6d86b5d1c8360280912d9b11d108f7e5611b2555009d3d",
+    "submission/qc/calibration_decisions.csv": "2ac83eb4015fcc72055c0ae1b962cd40ebc558ff06e41d8356f529783a802b75",
     "submission/qc/calibration_context.json": "c5b2624a7b93396e023ea78476dc64376558d3f469b6ef5a40b98f211edbe7b8",
-    "submission/guidelines/guideline_v1.1_calibrated.md": "ee449b41574fd4c56e95062c129e7bd3a4453b1ab5a1253dbf3ddd786c2c9806",
-    "submission/guideline_change.json": "1b1c90436a0310ed2afe58b1df4ef238899dd9606d9af448a368d4f1da93a664",
+    "submission/guidelines/guideline_v1.1_calibrated.md": "719a79a72423db9142d5e12681f533771d01d5b67e53954aa301d54987490d2a",
+    "submission/guideline_change.json": "87502de04a6444f328a24e2c593f0056a80dbe604ae8a2962a8b55713de1a8da",
     "submission/taxonomy.json": "3e7c321e5e36d40cc50b17cc7ec53a637358f724ecd3c0bc972210c215015e05",
     "data/ATTRIBUTION.csv": "c31a270de08f6e2862b84df18a4a05e66dc58526086ec61b258b44cda52b7b2c",
-    "submission/qc/labels_calibrated_3460270706d3eaf6.json": "55572156b9f555cf6ef76c731bb90f16c1292c7e23c5984f0e53e3cd292ece91"
+    "submission/qc/labels_calibrated_7e99583f815ea2c5.json": "b4766995362297c0974abf679abdaf301d75195030b7d05aeca591eaf4174fac"
   },
-  "csv_sha256": "7792ec4ea0fcd9f84e092bf62c95df1c22f028f403de14fffb00397114b39d91",
+  "csv_sha256": "303018d02096301779943a31bf1208d4c3063d1e30b6091c298dbcda7eb1d828",
   "images": [
     {
       "file": "img_001.jpg",

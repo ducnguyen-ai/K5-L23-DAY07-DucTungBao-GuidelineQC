@@ -1,24 +1,21 @@
 # Day07 — DucTungBao — L2
 
-**Trạng thái hiện tại: Hold — vòng QC 2.** Kết luận Release vòng 1 đã được thay vì phát hiện lỗi nhãn và hồ sơ checksum. Link repo nộp bài giữ nguyên.
+**Trạng thái: Release — vòng QC 5.** Link bài nộp giữ nguyên; các lỗi ở vòng 2 đã được sửa và kiểm lại. Giữ toàn bộ lịch sử thay vì xóa kết quả Hold.
 
-- Thành viên: 178, 144, 138; đủ 80/80 lượt gán độc lập trên 40 ảnh.
-- IAA: 268 cặp, IoU 0,882; cùng lớp 96,6%. Không phải ground truth accuracy.
-- Nhãn làm việc sau sửa: 450 annotations; còn ca review, chưa đủ điều kiện Release.
-- QC vòng 2: có kết quả 9/40 ảnh, 4 ảnh lỗi; 31 ảnh chưa kết luận. Chi tiết và phạm vi trong [QC_REPORT.md](submission/qc/QC_REPORT.md).
-- Giữ nguyên [vòng 1 của 144](submission/qc/reviews/round-01/) và [vòng 2](submission/qc/reviews/round-02/) để truy vết.
-- [Lịch sử sửa box](submission/qc/calibration_applied.csv), [ca còn kiểm](submission/qc/review_triage.csv), [nhãn hiện tại](submission/qc/labels_calibrated.json).
-
-Kiểm tra bản hiện tại:
+- Thành viên: 178, 144, 138; đủ 80/80 lượt trên 40 ảnh.
+- IAA: 268 cặp, IoU 0,882; cùng lớp 96,6%. Đây không phải accuracy so với ground truth.
+- Nhãn cuối: **474 annotations / 40 ảnh**; không còn cờ can_review.
+- QC vòng 5: **40/40 ảnh**, 0 lỗi còn ghi nhận sau sửa; kết quả dựa trên xác nhận 31 ảnh của 178 và lượt sửa/kiểm lại của trợ lý theo ủy quyền. Không ghi là review mới của 144.
+- [Báo cáo QC](submission/qc/QC_REPORT.md), [phiếu vòng 5](submission/qc/reviews/round-05/qc_review.csv), [nhãn cuối](submission/qc/labels_calibrated.json), [lịch sử sửa](submission/qc/calibration_applied.csv).
 
 ```powershell
 $env:PYTHONUTF8 = "1"
 python scripts/validate_labels.py --all
-python scripts/check_submission.py --round 2
+python scripts/check_submission.py --round 5
 python -m unittest discover -s tests -v
 ```
 
-Kiểm tra cấu trúc thành công không có nghĩa nhãn đạt Release. Vòng 2 có trợ lý hỗ trợ theo ủy quyền 178; không ghi thành review mới của 144. Theo SUBMISSION.md, có thể bàn giao bằng chứng Hold để coach xem.
+Release áp dụng cho bài lab, không chứng nhận dữ liệu vận hành thực tế hoặc accuracy theo ground truth.
 
 ---
 
