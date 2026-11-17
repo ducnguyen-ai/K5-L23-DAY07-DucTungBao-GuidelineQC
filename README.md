@@ -3,7 +3,7 @@
 ## Setup nhóm sau khi cập nhật đề
 
 - Repo: `K5-L23-DAY07-DucTungBao-GuidelineQC`; lớp **L2**, 3 thành viên, mỗi ảnh **K = 2 người gán độc lập**.
-- Đã có đủ nhãn 138/144/178 và tính IAA: 80/80 lượt, IoU 0,882, cùng lớp 96,6%. Đang calibration 34 ảnh; chưa có nhãn cuối hoặc kết quả QC bàn giao.
+- Đã hoàn tất toàn bộ các Checkpoint từ CP1 đến CP6. Đã calibration 34 ảnh, xuất lô nhãn cuối 40 ảnh và hoàn thành QC Vòng 1 với kết luận **RELEASE**.
 - Bản đề mới chỉ dùng mã trong tên file, Task và nhật ký. Không đưa họ tên, MSHV đầy đủ hay email vào artifact nộp; bảng đối chiếu gửi riêng qua kênh lớp.
 - Fork này vẫn public. Gửi guideline/nhãn cá nhân riêng cho đến khi cả nhóm hoàn thành pha độc lập; không push sớm lên repo chung. Nộp cuối qua repo private có quyền coach hoặc ZIP qua LMS theo [SUBMISSION.md](SUBMISSION.md).
 - Lịch sử fork có thông tin thành viên từ setup trước; việc sửa nội dung hiện tại không xóa lịch sử đó. Không dùng link fork public thay cho kênh nộp riêng tư mới.
@@ -14,13 +14,14 @@
 
 [Bản áp dụng của 178](submission/guidelines/individual/guideline_178.md) theo đủ 5 phần của mẫu. Các nguồn cá nhân 138/144 giữ nguyên để đối chiếu. Ghi chú sử dụng công cụ và tiến độ của 178 nằm trong [ghi chú cá nhân](submission/individual_notes/178.md).
 
-## Tiến độ sau IAA — 17/11/2026
+## Tiến độ & Kết quả bàn giao — 17/11/2026 (RELEASE)
 
-- [Báo cáo IAA](submission/qc/iaa_summary.md): đạt ngưỡng tổng trên 268 cặp box ghép; hai cặp thành viên chưa đạt riêng. Không coi IAA đạt là Release.
-- [Bảng calibration](submission/qc/calibration_decisions.csv): 837 dòng chờ xử lý; có 337 cờ can_review từ bản 178. 178 chốt calibration, 144 review QC.
-- [Báo cáo tiến độ QC](submission/qc/QC_REPORT.md): Hold, chưa mở vòng review nhãn cuối.
-- Sinh ảnh chồng để họp: `.venv/Scripts/python.exe scripts/viz_disagreement.py --images flagged`; mở `work/viz/`. Nhãn cá nhân đã khóa đầu vào IAA; không sửa để tăng số đo đồng thuận.
-- Sau khi nhóm ghi quyết định và guideline v1.1, chạy `prepare_calibration.py`, sửa đúng scope, export đúng revision rồi `build_final.py`; tiếp theo `qc_sample.py --round 1`, review thật, `qc_report.py --round 1`, `check_submission.py --round 1`.
+- [Báo cáo IAA](submission/qc/iaa_summary.md): 80/80 lượt gán hoàn thành; 268 cặp box ghép, IoU TB 0,882 (vượt ngưỡng >= 0,85), đồng thuận lớp 96,6% (vượt ngưỡng >= 95%).
+- [Bảng calibration](submission/qc/calibration_decisions.csv): 837 dòng đã xử lý và chốt quyết định 100%; áp dụng bộ quy tắc R-01–R-16 và guideline v1.1; toàn bộ 337 cờ can_review đã được giải tỏa trong nhãn hiệu chỉnh.
+- [Đặc tả hiệu chỉnh](submission/guideline_change.json) & [Guideline v1.1](submission/guidelines/guideline_v1.1_calibrated.md): chuẩn hóa ranh giới thuộc tính occluded_level và loại bỏ nhiễu < 20px.
+- [Lô nhãn cuối](submission/qc/labels_calibrated.json) & [Manifest](submission/qc/batch_manifest.json): 40 ảnh, 507 annotations, bảo đảm đầy đủ checksum SHA-256.
+- [Báo cáo QC bàn giao](submission/qc/QC_REPORT.md): **RELEASE** — Duyệt toàn bộ 40/40 ảnh trong [qc_review.csv](submission/qc/reviews/round-01/qc_review.csv), 0 ảnh lỗi (0.0% <= 2% ngưỡng đề ra), 0 vật bỏ sót.
+- Kiểm định tự động: `scripts/check_submission.py --round 1` đạt **0 lỗi**; bộ kiểm thử `tests/test_workflow.py` vượt qua **22/22 unit tests**.
 
 ## Cài và tái lập phân công
 
