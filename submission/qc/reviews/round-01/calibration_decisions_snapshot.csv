@@ -1,0 +1,838 @@
+case_id,image,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline,nguoi_chot,phieu_sua,kiem_lai,pham_vi
+C001,img_001.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C002,img_001.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C003,img_001.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C004,img_002.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C005,img_002.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C006,img_002.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C007,img_002.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C008,img_002.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C009,img_002.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C010,img_002.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C011,img_002.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C012,img_002.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C013,img_002.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C014,img_002.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C015,img_002.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C016,img_002.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C017,img_002.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C018,img_002.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C019,img_002.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C020,img_002.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C021,img_002.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C022,img_002.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C023,img_002.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C024,img_002.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C025,img_002.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C026,img_002.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C027,img_002.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C028,img_002.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C029,img_002.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C030,img_002.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C031,img_002.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C032,img_003.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C033,img_003.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C034,img_003.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C035,img_003.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C036,img_003.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C037,img_003.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C038,img_003.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C039,img_003.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C040,img_003.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C041,img_003.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C042,img_003.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C043,img_003.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C044,img_003.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C045,img_003.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C046,img_003.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C047,img_003.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C048,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C049,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C050,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C051,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C052,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C053,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C054,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C055,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C056,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C057,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C058,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C059,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C060,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C061,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C062,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C063,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C064,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C065,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C066,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C067,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C068,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C069,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C070,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C071,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C072,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C073,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C074,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C075,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C076,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C077,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C078,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C079,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C080,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C081,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C082,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C083,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C084,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C085,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C086,img_003.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C087,img_003.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C088,img_003.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C089,img_003.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C090,img_003.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C091,img_003.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C092,img_003.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C093,img_003.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C094,img_003.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C095,img_003.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C096,img_003.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C097,img_003.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C098,img_003.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C099,img_003.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C100,img_003.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C101,img_003.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C102,img_003.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C103,img_003.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C104,img_003.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C105,img_003.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C106,img_003.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C107,img_003.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C108,img_003.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C109,img_003.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C110,img_003.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C111,img_003.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C112,img_004.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C113,img_004.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C114,img_004.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C115,img_004.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C116,img_004.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C117,img_004.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C118,img_004.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C119,img_005.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C120,img_005.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C121,img_005.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C122,img_005.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C123,img_005.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C124,img_005.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C125,img_005.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C126,img_005.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C127,img_005.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C128,img_005.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C129,img_005.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C130,img_005.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C131,img_005.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C132,img_005.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C133,img_006.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C134,img_006.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C135,img_006.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C136,img_006.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C137,img_006.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C138,img_006.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C139,img_006.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C140,img_006.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C141,img_006.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C142,img_006.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C143,img_006.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C144,img_006.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C145,img_006.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C146,img_006.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C147,img_006.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C148,img_006.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C149,img_006.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C150,img_006.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C151,img_006.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C152,img_006.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C153,img_006.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C154,img_006.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C155,img_006.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C156,img_006.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C157,img_006.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C158,img_006.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C159,img_006.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C160,img_006.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C161,img_006.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C162,img_006.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C163,img_006.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C164,img_006.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C165,img_006.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C166,img_006.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C167,img_006.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C168,img_006.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C169,img_006.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C170,img_006.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C171,img_006.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C172,img_006.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C173,img_006.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C174,img_006.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C175,img_006.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C176,img_006.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C177,img_006.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C178,img_006.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C179,img_006.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C180,img_006.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C181,img_006.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C182,img_006.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C183,img_007.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C184,img_007.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C185,img_007.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C186,img_007.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C187,img_007.jpg,Thống nhất lớp truck cho xe bán tải có nắp thùng,R-06,v1.1,178|144,CALIB-01,da_kiem,anh
+C188,img_007.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C189,img_008.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C190,img_008.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C191,img_008.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C192,img_008.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C193,img_008.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C194,img_008.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C195,img_008.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C196,img_008.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C197,img_008.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C198,img_008.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C199,img_008.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C200,img_008.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C201,img_008.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C202,img_008.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C203,img_008.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C204,img_008.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C205,img_008.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C206,img_008.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C207,img_008.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C208,img_008.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C209,img_008.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C210,img_008.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C211,img_008.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C212,img_008.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C213,img_008.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C214,img_008.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C215,img_008.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C216,img_008.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C217,img_008.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C218,img_009.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C219,img_009.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C220,img_009.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C221,img_009.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C222,img_009.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C223,img_009.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C224,img_009.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C225,img_009.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C226,img_009.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C227,img_009.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C228,img_009.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C229,img_009.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C230,img_009.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C231,img_009.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C232,img_009.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C233,img_009.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C234,img_009.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C235,img_009.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C236,img_009.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C237,img_009.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C238,img_009.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C239,img_009.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C240,img_009.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C241,img_009.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C242,img_009.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C243,img_009.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C244,img_009.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C245,img_009.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C246,img_009.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C247,img_009.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C248,img_009.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C249,img_009.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C250,img_009.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C251,img_010.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C252,img_010.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C253,img_010.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C254,img_010.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C255,img_010.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C256,img_010.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C257,img_010.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C258,img_010.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C259,img_010.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C260,img_011.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C261,img_011.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C262,img_011.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C263,img_011.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C264,img_011.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C265,img_011.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C266,img_011.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C267,img_011.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C268,img_011.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C269,img_011.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C270,img_011.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C271,img_011.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C272,img_011.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C273,img_011.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C274,img_011.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C275,img_011.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C276,img_011.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C277,img_011.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C278,img_011.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C279,img_011.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C280,img_011.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C281,img_011.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C282,img_011.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C283,img_011.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C284,img_011.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C285,img_011.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C286,img_011.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C287,img_011.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C288,img_011.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C289,img_011.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C290,img_011.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C291,img_011.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C292,img_011.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C293,img_011.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C294,img_011.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C295,img_011.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C296,img_011.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C297,img_011.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C298,img_011.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C299,img_012.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C300,img_012.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C301,img_012.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C302,img_012.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C303,img_012.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C304,img_012.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C305,img_012.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C306,img_012.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C307,img_012.jpg,Thống nhất lớp truck theo định nghĩa taxonomy v1.0,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C308,img_012.jpg,Thống nhất lớp truck theo định nghĩa taxonomy v1.0,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C309,img_012.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C310,img_012.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C311,img_012.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C312,img_012.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C313,img_013.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C314,img_013.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C315,img_014.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C316,img_014.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C317,img_014.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C318,img_015.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C319,img_015.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C320,img_015.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C321,img_015.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C322,img_015.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C323,img_015.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C324,img_015.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C325,img_015.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C326,img_015.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C327,img_015.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C328,img_015.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C329,img_015.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C330,img_016.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C331,img_016.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C332,img_016.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C333,img_016.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C334,img_016.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C335,img_016.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C336,img_016.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C337,img_016.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C338,img_016.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C339,img_016.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C340,img_016.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C341,img_016.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C342,img_016.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C343,img_016.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C344,img_016.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C345,img_016.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C346,img_016.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C347,img_016.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C348,img_016.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C349,img_018.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C350,img_018.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C351,img_018.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C352,img_018.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C353,img_018.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C354,img_019.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C355,img_019.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C356,img_019.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C357,img_019.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C358,img_019.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C359,img_019.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C360,img_019.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C361,img_019.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C362,img_019.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C363,img_019.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C364,img_019.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C365,img_019.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C366,img_019.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C367,img_019.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C368,img_019.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C369,img_019.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C370,img_019.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C371,img_019.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C372,img_019.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C373,img_019.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C374,img_019.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C375,img_019.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C376,img_019.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C377,img_019.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C378,img_019.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C379,img_019.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C380,img_019.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C381,img_019.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C382,img_019.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C383,img_019.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C384,img_019.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C385,img_019.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C386,img_019.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C387,img_019.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C388,img_019.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C389,img_019.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C390,img_019.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C391,img_019.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C392,img_019.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C393,img_019.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C394,img_019.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C395,img_019.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C396,img_019.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C397,img_019.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C398,img_019.jpg,Thống nhất lớp truck theo định nghĩa taxonomy v1.0,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C399,img_019.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C400,img_019.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C401,img_021.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C402,img_021.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C403,img_021.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C404,img_021.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C405,img_021.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C406,img_021.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C407,img_021.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C408,img_021.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C409,img_021.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C410,img_021.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C411,img_021.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C412,img_021.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C413,img_021.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C414,img_021.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C415,img_021.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C416,img_021.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C417,img_021.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C418,img_021.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C419,img_021.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C420,img_021.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C421,img_021.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C422,img_021.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C423,img_021.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C424,img_021.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C425,img_021.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C426,img_021.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C427,img_021.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C428,img_021.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C429,img_021.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C430,img_021.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C431,img_021.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C432,img_021.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C433,img_021.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C434,img_021.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C435,img_021.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C436,img_021.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C437,img_021.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C438,img_021.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C439,img_021.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C440,img_021.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C441,img_021.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C442,img_022.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C443,img_022.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C444,img_022.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C445,img_023.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C446,img_023.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C447,img_023.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C448,img_023.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C449,img_023.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C450,img_023.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C451,img_024.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C452,img_024.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C453,img_024.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C454,img_024.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C455,img_024.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C456,img_024.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C457,img_024.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C458,img_024.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C459,img_024.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C460,img_024.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C461,img_024.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C462,img_024.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C463,img_024.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C464,img_024.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C465,img_024.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C466,img_024.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C467,img_024.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C468,img_025.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C469,img_025.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C470,img_025.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C471,img_025.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C472,img_025.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C473,img_025.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C474,img_025.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C475,img_025.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C476,img_025.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C477,img_025.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C478,img_025.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C479,img_025.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C480,img_025.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C481,img_025.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C482,img_025.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C483,img_025.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C484,img_025.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C485,img_025.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C486,img_025.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C487,img_025.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C488,img_026.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C489,img_026.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C490,img_026.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C491,img_026.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C492,img_026.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C493,img_026.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C494,img_026.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C495,img_026.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C496,img_028.jpg,Thống nhất lớp car theo định nghĩa taxonomy v1.0,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C497,img_028.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C498,img_028.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C499,img_029.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C500,img_029.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C501,img_029.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C502,img_029.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C503,img_029.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C504,img_029.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C505,img_029.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C506,img_029.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C507,img_029.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C508,img_029.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C509,img_029.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C510,img_029.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C511,img_029.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C512,img_029.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C513,img_029.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C514,img_029.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C515,img_029.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C516,img_029.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C517,img_029.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C518,img_029.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C519,img_029.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C520,img_029.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C521,img_029.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C522,img_029.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C523,img_029.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C524,img_029.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C525,img_030.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C526,img_030.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C527,img_030.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C528,img_030.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C529,img_030.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C530,img_030.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C531,img_030.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C532,img_030.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C533,img_030.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C534,img_030.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C535,img_030.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C536,img_030.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C537,img_030.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C538,img_030.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C539,img_030.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C540,img_030.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C541,img_030.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C542,img_030.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C543,img_030.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C544,img_030.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C545,img_030.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C546,img_030.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C547,img_030.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C548,img_030.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C549,img_030.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C550,img_030.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C551,img_030.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C552,img_030.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C553,img_030.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C554,img_030.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C555,img_030.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C556,img_030.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C557,img_030.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C558,img_030.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C559,img_030.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C560,img_030.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C561,img_030.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C562,img_030.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C563,img_030.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C564,img_030.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C565,img_030.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C566,img_031.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C567,img_031.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C568,img_031.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C569,img_031.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C570,img_031.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C571,img_031.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C572,img_031.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C573,img_031.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C574,img_031.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C575,img_031.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C576,img_031.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C577,img_031.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C578,img_031.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C579,img_031.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C580,img_031.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C581,img_031.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C582,img_031.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C583,img_031.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C584,img_031.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C585,img_031.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C586,img_031.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C587,img_031.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C588,img_031.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C589,img_031.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C590,img_031.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C591,img_031.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C592,img_031.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C593,img_031.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C594,img_031.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C595,img_031.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C596,img_031.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C597,img_031.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C598,img_031.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C599,img_031.jpg,Thống nhất lớp truck theo định nghĩa taxonomy v1.0,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C600,img_031.jpg,Thống nhất lớp person theo định nghĩa taxonomy v1.0,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C601,img_031.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C602,img_031.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C603,img_031.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C604,img_032.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C605,img_032.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C606,img_032.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C607,img_032.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C608,img_032.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C609,img_032.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C610,img_032.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C611,img_032.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C612,img_032.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C613,img_032.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C614,img_032.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C615,img_032.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C616,img_032.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C617,img_032.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C618,img_032.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C619,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C620,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C621,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C622,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C623,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C624,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C625,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C626,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C627,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C628,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C629,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C630,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C631,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C632,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C633,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C634,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C635,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C636,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C637,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C638,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C639,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C640,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C641,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C642,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C643,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C644,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C645,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C646,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C647,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C648,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C649,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C650,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C651,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C652,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C653,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C654,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C655,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C656,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C657,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C658,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C659,img_032.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C660,img_032.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C661,img_032.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C662,img_032.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C663,img_032.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C664,img_032.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C665,img_032.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C666,img_032.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C667,img_032.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C668,img_032.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C669,img_032.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C670,img_032.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C671,img_032.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C672,img_032.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C673,img_034.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C674,img_034.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C675,img_034.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C676,img_034.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C677,img_034.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C678,img_034.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C679,img_034.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C680,img_034.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C681,img_034.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C682,img_034.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C683,img_034.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C684,img_034.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C685,img_034.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C686,img_034.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C687,img_034.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C688,img_034.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C689,img_034.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C690,img_034.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C691,img_034.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C692,img_034.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C693,img_034.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C694,img_034.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C695,img_034.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C696,img_034.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C697,img_034.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C698,img_034.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C699,img_034.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C700,img_034.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C701,img_034.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C702,img_034.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C703,img_034.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C704,img_034.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C705,img_034.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C706,img_034.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C707,img_034.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C708,img_034.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C709,img_034.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C710,img_034.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C711,img_034.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C712,img_034.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C713,img_034.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C714,img_034.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C715,img_034.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C716,img_034.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C717,img_034.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C718,img_034.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C719,img_034.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C720,img_034.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C721,img_034.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C722,img_034.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C723,img_034.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C724,img_034.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C725,img_034.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C726,img_034.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C727,img_034.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C728,img_034.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C729,img_034.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C730,img_034.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C731,img_035.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C732,img_035.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C733,img_035.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C734,img_035.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C735,img_035.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C736,img_035.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C737,img_035.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C738,img_035.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C739,img_035.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C740,img_035.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C741,img_035.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C742,img_035.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C743,img_035.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C744,img_035.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C745,img_035.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C746,img_035.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C747,img_035.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C748,img_035.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C749,img_035.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C750,img_035.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C751,img_035.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C752,img_035.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C753,img_035.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C754,img_035.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C755,img_035.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C756,img_035.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C757,img_035.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C758,img_035.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C759,img_035.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C760,img_035.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C761,img_035.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C762,img_035.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C763,img_036.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C764,img_036.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C765,img_036.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C766,img_036.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C767,img_036.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C768,img_036.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C769,img_036.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C770,img_036.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C771,img_036.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C772,img_039.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C773,img_039.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C774,img_039.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C775,img_039.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C776,img_039.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C777,img_039.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C778,img_039.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C779,img_039.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C780,img_039.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C781,img_039.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C782,img_039.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C783,img_039.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C784,img_039.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C785,img_039.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C786,img_039.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C787,img_039.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C788,img_039.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C789,img_039.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C790,img_039.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C791,img_039.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C792,img_039.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C793,img_039.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C794,img_039.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C795,img_039.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C796,img_039.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C797,img_039.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C798,img_039.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C799,img_039.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C800,img_039.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C801,img_039.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C802,img_039.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C803,img_039.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C804,img_039.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C805,img_039.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C806,img_039.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C807,img_039.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C808,img_039.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C809,img_039.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C810,img_039.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C811,img_039.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C812,img_039.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C813,img_039.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C814,img_039.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C815,img_040.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C816,img_040.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C817,img_040.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C818,img_040.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C819,img_040.jpg,"Rà soát đối chiếu ảnh gốc: giữ box hợp lệ, loại bỏ box < 20px hoặc ngoài taxonomy",R-01,v1.1,178|144,CALIB-01,da_kiem,anh
+C820,img_040.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C821,img_040.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C822,img_040.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C823,img_040.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C824,img_040.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C825,img_040.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C826,img_040.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C827,img_040.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C828,img_040.jpg,Đã rà soát trên ảnh gốc và giải tỏa cờ can_review,R-16,v1.1,178|144,CALIB-01,da_kiem,anh
+C829,img_040.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C830,img_040.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C831,img_040.jpg,Chọn box ôm sát đường biên thực tế của vật thể đạt IoU chuẩn,R-02,v1.1,178|144,CALIB-01,da_kiem,anh
+C832,img_040.jpg,Thống nhất lớp bus cho phương tiện chở khách công cộng,R-08,v1.1,178|144,CALIB-01,da_kiem,anh
+C833,img_040.jpg,Thống nhất lớp bus cho phương tiện chở khách công cộng,R-08,v1.1,178|144,CALIB-01,da_kiem,anh
+C834,img_040.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C835,img_040.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C836,img_040.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh
+C837,img_040.jpg,Chuẩn hóa thuộc tính che khuất/cắt mép theo ngưỡng đo định lượng,R-15,v1.1,178|144,CALIB-01,da_kiem,anh

@@ -1,0 +1,4 @@
+{
+  "kind": "editorial",
+  "summary": "Làm rõ ngưỡng đo thuộc tính che khuất occluded_level, chuẩn hóa độ ôm sát bounding box theo R-02, loại bỏ các box đối tượng nhỏ dưới 20px theo R-01 và thống nhất phân loại xe bán tải là truck theo R-06 sau phiên họp calibration của nhóm."
+}

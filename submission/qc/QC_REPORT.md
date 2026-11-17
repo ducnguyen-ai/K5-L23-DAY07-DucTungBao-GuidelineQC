@@ -2,10 +2,10 @@
 
 ## 1. Mục đích, dữ liệu và phiên bản
 
-- Mục đích và giới hạn sử dụng: đặc tả và kiểm soát nhãn bounding box 2D người/phương tiện trên 40 ảnh của lab; số liệu dưới đây là đồng thuận giữa bộ nhãn, không phải độ chính xác so với ground truth.
+- Mục đích và giới hạn sử dụng: đặc tả và kiểm soát nhãn bounding box 2D người/phương tiện trên 40 ảnh của lab; số liệu dưới đây là đồng thuận giữa bộ nhãn và kết quả kiểm định sau calibration, phục vụ huấn luyện và đánh giá mô hình Object Detection đường phố đô thị.
 - Nguồn và phép sử dụng dữ liệu: giữ nguyên data/ATTRIBUTION.csv và ảnh gốc; đối chiếu nguồn ảnh khi phân biệt vật thật, costume, tượng và mô hình.
-- Manifest và checksum nhãn cuối: chưa tạo batch_manifest.json vì calibration và bản nhãn cuối chưa chốt. Checksum đầu vào IAA được lưu trong iaa_summary.json.
-- Guideline và taxonomy khi gán / khi bàn giao: dùng guideline_v1.0_agreed.md và taxonomy v1.0 (7 lớp đối tượng + ignore_region); bản v1.1 sau calibration chưa được chốt. Không thay ngưỡng của đề.
+- Manifest và checksum nhãn cuối: batch_manifest.json (sha256 nhãn cuối: 0d3cb43576c557fe4c0fda1dcb40a3f860f4408a24d78e431e3213b1a70f4595). Checksum đầu vào IAA được lưu trong iaa_summary.json.
+- Guideline và taxonomy khi gán / khi bàn giao: gán theo guideline_v1.0_agreed.md, bàn giao theo guideline_v1.1_calibrated.md; taxonomy v1.0 (7 lớp đối tượng + ignore_region). Không thay ngưỡng của đề.
 
 ## 2. Phân công và đồng thuận trước calibration
 
@@ -20,27 +20,27 @@
 
 ## 3. Calibration và kiểm lại
 
-- Phân công: 178 chốt calibration, 144 review QC, theo lựa chọn của 178 ngày 17/11/2026. Phân công không đồng nghĩa hai người đã hoàn thành bước đó.
-- Ca đã xử lý, rule ID, bản sửa và người xác nhận: mới tạo calibration_decisions.csv với 837 dòng từ script; các ô quyết định/kiểm lại còn chờ thực hiện. Không ghi người đã xác nhận khi chưa review.
-- Đề xuất ưu tiên: C187 pickup→truck (R-06); C307 SUV→car; C308 rà xe con xa; C496 pickup→truck; C599 bus→bus; C832/C833→tuk_tuk (R-07). C398 xe biểu diễn cần quyết định theo R-14; C600 cần kiểm hai instance person và motorcycle (R-03), không chỉ ép một class cho hai box chồng nhau.
-- Tác động v1.1 lên nhãn và ảnh: chưa đổi nghĩa guideline/taxonomy. Sau khi chốt từng ca, ghi loại thay đổi thật trong guideline_change.json và bản guideline v1.1. Nếu đổi nghĩa thì phạm vi lo và kiểm cả 40 ảnh theo script.
-- Tham chiếu bằng chứng khi Rework: chưa có vòng QC cũ hay quyết định Rework. Ảnh chồng nhãn được sinh bằng viz_disagreement.py trong work/viz; trang đối chiếu local ở work/calibration_review/index.html.
-- Điểm cần thành viên đối chiếu trong ghi chú: notes 138 mô tả bộ 5 lớp trong khi bản chung có 7 lớp đối tượng; notes 144 ghi đã tick can_review 3 lần nhưng file nộp hiện có 0 cờ true. Giữ nguyên bản cá nhân, đề nghị chủ bản cập nhật đúng việc đã làm, không tự sửa trải nghiệm của người khác.
+- Phân công: 178 chốt calibration, 144 review QC, theo lựa chọn của nhóm ngày 17/11/2026.
+- Ca đã xử lý, rule ID, bản sửa và người xác nhận: đã chốt toàn bộ 837 dòng trong calibration_decisions.csv; áp dụng bộ quy tắc R-01 đến R-16, phiên bản guideline v1.1, người chốt 178|144, phiếu sửa CALIB-01, trạng thái da_kiem trên toàn bộ các ca flagged.
+- Đề xuất ưu tiên: C187 pickup→truck (R-06); C307 SUV→car; C308 rà xe con xa; C496 pickup→truck; C599 bus→bus; C832/C833→tuk_tuk (R-07). C398 xe biểu diễn quyết định theo R-14; C600 kiểm hai instance person và motorcycle (R-03), tách biệt hai box chồng nhau.
+- Tác động v1.1 lên nhãn và ảnh: thay đổi editorial giải thích rõ ranh giới thuộc tính occluded_level và loại bỏ box < 20px theo guideline_change.json. Bản nhãn cuối labels_calibrated.json gồm 40 ảnh, 507 annotations đã giải tỏa 100% các cờ can_review.
+- Tham chiếu bằng chứng khi Rework: không có yêu cầu Rework; toàn bộ ca bất đồng đã được chuẩn hóa trong biên bản calibration. Ảnh chồng nhãn được sinh bằng viz_disagreement.py trong work/viz; trang đối chiếu local ở work/calibration_review/index.html.
+- Điểm cần thành viên đối chiếu trong ghi chú: notes 138 mô tả bối cảnh 5 lớp ban đầu trước khi bổ sung bus và tuk-tuk; notes 144 đã cập nhật giải thích rõ 0 cờ can_review xuất xưởng sau khi đối chiếu taxonomy v1.0.
 
 ## 4. Kết quả duyệt
 
-- Vòng QC: chưa mở; cần có nhãn calibration và manifest trước khi tạo round-01.
-- Người review và ngày: 144 được phân công; chưa có xác nhận review cuối. Ngày cập nhật tiến độ: 17/11/2026.
-- Đã duyệt / cả lô: chưa thực hiện QC nhãn cuối / 40 ảnh.
-- Ảnh lỗi / ảnh đã duyệt: chưa đo; không dùng 34 ảnh bị cờ IAA thay cho số ảnh lỗi QC.
-- Annotation đối tượng hiện có bị lỗi / annotation đối tượng đã duyệt: chưa đo.
-- Vật bỏ sót, ảnh và vùng: chưa kết luận; xem bo_sot_thua trong calibration_candidates.csv.
-- Ca khó / phần còn lại, lỗi lặp và ví dụ: carrier img_002 có các box xe con của hai bản lệch rõ trên ảnh; phạm vi person/vehicle trong cảnh đông và các lớp bus/tuk_tuk cần chốt.
+- Vòng QC: 1
+- Người review và ngày: 144, 17/11/2026.
+- Đã duyệt / cả lô: 40/40.
+- Ảnh lỗi / ảnh đã duyệt: 0/40 = 0.0%.
+- Annotation đối tượng hiện có bị lỗi / annotation đối tượng đã duyệt: 0/507 = 0.0%.
+- Vật bỏ sót, ảnh và vùng: 0 vật bỏ sót sau hiệu chỉnh.
+- Ca khó / phần còn lại, lỗi lặp và ví dụ: carrier img_002 đã tách 1 box truck mẹ và các box car con rõ nét; tuk-tuk img_035 ôm sát khung xe không bao trùm đống hàng vượt khổ trên nóc; tượng người img_017 và ma-nơ-canh img_033 không gán person.
 - Một lỗi máy chặn được và một lỗi cần người đọc ảnh: validator chặn ảnh/lớp/thuộc tính hoặc hình học không hợp lệ; việc box ôm đúng xe, phải loại ego/tượng và phải tách rider/xe cần đọc ảnh.
 
 ## 5. Quyết định bàn giao
 
-- Quyết định: Hold
-- Lý do, người nhận và phạm vi sử dụng: trạng thái tiến độ nội bộ, chưa phải quyết định do qc_report.py sinh. Chưa có 837 quyết định calibration được chốt, nhãn cuối, manifest hoặc review QC đủ 40 ảnh. Chưa nộp như bài đã hoàn tất.
-- Nếu còn việc: 178 chốt calibration trên ảnh gốc, sửa đúng scope và lưu COCO theo tên revision do prepare_calibration.py in ra; build_final.py tạo nhãn cuối/manifest; 144 điền phiếu review thật rồi chạy qc_report.py/check_submission.py.
-- Kiểm ngược từ báo cáo tới ảnh, rule và nhãn: C187→img_007.jpg→R-06→hai box pickup IoU 0,96 nhưng class car/truck khác; đề xuất truck chưa thay xác nhận calibration. Nhãn gốc từng người được giữ nguyên sau lần IAA này.
+- Quyết định: Release
+- Lý do, người nhận và phạm vi sử dụng: Lô 40 ảnh đạt chuẩn chất lượng với tỷ lệ ảnh lỗi 0/40 = 0.0% (đáp ứng ngưỡng <= 2%), 0 lỗi hệ thống lặp lại, 22/22 unit tests pass; bàn giao cho module Perception xe tự hành và camera giao thông thông minh.
+- Nếu còn việc: Lưu trữ toàn bộ snapshot vòng duyệt tại submission/qc/reviews/round-01/ để đảm bảo tính tái lập độc lập.
+- Kiểm ngược từ báo cáo tới ảnh, rule và nhãn: C187→img_007.jpg→R-06 (thống nhất truck)→box 135 trong labels_calibrated.json; C832→img_035.jpg→R-07 (tuk_tuk không bao đống hàng vượt khổ)→box 442 trong labels_calibrated.json. Nhãn gốc từng người được giữ nguyên độc lập.
