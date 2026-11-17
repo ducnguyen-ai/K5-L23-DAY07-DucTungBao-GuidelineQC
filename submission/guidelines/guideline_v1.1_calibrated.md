@@ -1,10 +1,9 @@
-# Guideline gán nhãn — v1.1-calibrated — Nhóm DucTungBao
+# Guideline sau calibration — v1.1 — Nhóm DucTungBao
 
-- Phiên bản: v1.1-calibrated
-- Ngày hiệu chuẩn: 17/11/2026, đã chốt.
+- Phiên bản áp dụng: v1.1; giữ nguyên phạm vi và taxonomy v1.0.
 - Ngày: 16/11/2026.
 - Thành viên: 178, 144, 138; lớp L2.
-- Trạng thái: nhóm đã duyệt guideline chung, theo xác nhận của 178 ngày 16/11/2026.
+- Trạng thái: bản v1.0 đã được nhóm duyệt; phần calibration v1.1 dưới đây là lượt rà theo ủy quyền 178, còn các ca Hold. Chưa có xác nhận review QC của 144.
 
 ## 1. Mục tiêu và phạm vi
 
@@ -138,8 +137,56 @@ Người gán ghi mã ảnh, vùng, Rule ID và câu hỏi cụ thể. Reviewer 
 |---|---|---|
 | v0 | Bộ quy tắc khởi đầu của lab. | Điểm xuất phát để rà các ca khó. |
 | v1.0 — 16/11/2026 | Thống nhất 7 lớp đối tượng + ignore; khoảng che 0 / (0,30] / (30,70] / >70%; R-01–R-16; pickup gắn cap→truck, sidecar→một motorcycle, n người→n person. | Thống nhất cách xử lý carrier, tuk-tuk, bus, costume, vật giả, người trên xe và ranh giới box. Nhóm đã chốt theo xác nhận của 178. |
-| v1.1 — 17/11/2026 | Hiệu chuẩn sau đo IAA: Chuẩn hóa 837 ca bất đồng, làm rõ ranh giới thuộc tính che khuất occluded_level, lọc bỏ box dưới 20px theo R-01 và loại bỏ box xe đạp ngoài taxonomy. | Hoàn thiện biên bản calibration_decisions.csv và nhãn consensus bàn giao. |
 
 Taxonomy áp dụng: `submission/taxonomy.json`; cấu hình CVAT: `cvat/labels_generated.json`. Không thay các ngưỡng trong mục rules của đề.
 
 Tham chiếu: GUIDE.md, RULES.md, docs/QC_CHEATSHEET.md, scripts/qc_report.py, schemas/taxonomy.schema.json; ảnh gốc và data/ATTRIBUTION.csv.
+
+
+## 6. Calibration ngày 17/11/2026
+
+Giữ nguyên R-01–R-16, taxonomy và mọi ngưỡng. Không lấy đồng thuận làm ground truth. Quyết định từng ảnh và ID nhãn sửa truy vết trong calibration_patch.json và calibration_applied.csv. Các dòng IAA cùng ảnh được liên kết tới quyết định ảnh; liên kết này không có nghĩa đã giải quyết hết mọi box trong ảnh.
+
+Thực hiện: trợ lý theo ủy quyền 178. Người phụ trách chốt: 178; người được phân công QC độc lập: 144, chưa xác nhận hoàn tất. Bản này dùng để bàn giao có điều kiện Hold.
+
+- `img_001.jpg` (còn review, giữ can_review): Truck bị người/cảnh quán che; cần kiểm lại extent bên trái và thuộc tính person.
+- `img_002.jpg` (đã rà lượt đầu, chờ QC độc lập): Carrier một truck; các xe chở trên carrier là car riêng. Không lấy các box lưới đều của bản 144.
+- `img_003.jpg` (còn review, giữ can_review): Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán.
+- `img_004.jpg` (đã rà lượt đầu, chờ QC độc lập): Hai tuk_tuk và hai người lái riêng, box phương tiện không gộp người.
+- `img_005.jpg` (còn review, giữ can_review): Bổ sung van và các rider bị bỏ sót. Vùng motorcycle chỉ lộ mảnh chồng nhau còn cần tách và review.
+- `img_006.jpg` (còn review, giữ can_review): Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính.
+- `img_007.jpg` (đã rà lượt đầu, chờ QC độc lập): Pickup gắn thùng cao và truck phải riêng; xóa box cabin pickup bị lặp trong box toàn xe.
+- `img_008.jpg` (còn review, giữ can_review): Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance.
+- `img_009.jpg` (còn review, giữ can_review): Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.
+- `img_010.jpg` (còn review, giữ can_review): Tách người đội mũ trắng/áo nâu khỏi passenger mũ đỏ; không gộp người trên cùng xe. Kiểm lại motorcycle che khuất và chân chồng nhau.
+- `img_011.jpg` (còn review, giữ can_review): Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance.
+- `img_012.jpg` (đã rà lượt đầu, chờ QC độc lập): Hai box cùng pickup trước: giữ box có cả thùng và cabin; SUV trái là car, truck giữa là truck.
+- `img_013.jpg` (còn review, giữ can_review): Ảnh đêm còn rider gần quán và người rất nhỏ, cần rà thiếu/ignore theo kích thước gốc.
+- `img_014.jpg` (còn review, giữ can_review): Hai pedestrian trước rõ; rider và motorcycle nhòe nền chưa được bao phủ, cần giải quyết không mặc định ảnh sạch.
+- `img_015.jpg` (đã rà lượt đầu, chờ QC độc lập): Sáu car thật, không gán phản chiếu mặt đường; mép ảnh và nhòe được xét riêng.
+- `img_016.jpg` (còn review, giữ can_review): Không giữ hai box chồng đầu cùng người tiền cảnh. Van thân kín, pickup nền và hai tuk_tuk giữ lớp kết cấu; cần kiểm rider sau khung kính.
+- `img_017.jpg` (đã rà lượt đầu, chờ QC độc lập): Tượng người/ngựa ngoài phạm vi; ảnh âm tính.
+- `img_018.jpg` (còn review, giữ can_review): Không gán người in billboard; xe thật sau hàng rào cần rà mức che, box không ôm bảng/cột.
+- `img_019.jpg` (còn review, giữ can_review): Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.
+- `img_020.jpg` (đã rà lượt đầu, chờ QC độc lập): Chỉ thấy xe qua gương và ego; ảnh âm tính theo R-13.
+- `img_021.jpg` (còn review, giữ can_review): Cảnh đông rider: nhiều motorcycle chưa có box và người nhỏ chưa tách; cần kiểm cả lô ảnh, không dùng ignore lớn để che người rõ.
+- `img_022.jpg` (đã rà lượt đầu, chờ QC độc lập): Một motorcycle bao cả sidecar gắn liền, không tách thành xe thứ hai.
+- `img_023.jpg` (còn review, giữ can_review): Người trên xe đạp/xích lô vẫn person; không gán phương tiện đạp chân. Còn người và xe nền cần kiểm.
+- `img_024.jpg` (còn review, giữ can_review): Giữ rooftop car cần review theo R-14 vì vỏ trưng bày chưa đủ bằng chứng xe hoàn chỉnh; car cam ở mép là xe khác, không xóa nhầm.
+- `img_025.jpg` (còn review, giữ can_review): Người/xe bãi biển cần kiểm vật nhỏ và người nằm/được ghế che; không loại cả ảnh vì có tượng.
+- `img_026.jpg` (đã rà lượt đầu, chờ QC độc lập): Hai người và một motorcycle; không gộp rider/passenger.
+- `img_027.jpg` (đã rà lượt đầu, chờ QC độc lập): Pickup monument là mô hình tưởng niệm; ảnh âm tính.
+- `img_028.jpg` (đã rà lượt đầu, chờ QC độc lập): Pickup thật đổi car→truck; ngựa trên thùng là mô hình không gán; car đỏ riêng.
+- `img_029.jpg` (còn review, giữ can_review): Người đi bicycle vẫn person; chỉ phương tiện có động cơ là motorcycle. Còn cụm người xa cần rà.
+- `img_030.jpg` (còn review, giữ can_review): Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.
+- `img_031.jpg` (còn review, giữ can_review): Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.
+- `img_032.jpg` (còn review, giữ can_review): Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.
+- `img_033.jpg` (đã rà lượt đầu, chờ QC độc lập): Mannequin và phản chiếu ngoài phạm vi; ảnh âm tính.
+- `img_034.jpg` (còn review, giữ can_review): Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà.
+- `img_035.jpg` (còn review, giữ can_review): Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.
+- `img_036.jpg` (còn review, giữ can_review): Truck cabin/thùng riêng; các motorcycle mép ảnh có thể box chi tiết trùng, cần kiểm extent và truncate.
+- `img_037.jpg` (đã rà lượt đầu, chờ QC độc lập): Pickup gắn cap giữ truck, bus và person riêng; cấu trúc cap không đổi thành van.
+- `img_038.jpg` (đã rà lượt đầu, chờ QC độc lập): Xe đồ chơi và ảnh/phản chiếu cửa kính ngoài phạm vi; ảnh âm tính.
+- `img_039.jpg` (còn review, giữ can_review): Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.
+- `img_040.jpg` (còn review, giữ can_review): Xóa ego motorcycle chỉ gồm gương; taxi xanh rebox theo thân xe, giữ bus/tuk_tuk và người riêng. Mức che/extent tuk_tuk sau taxi cần review.
+

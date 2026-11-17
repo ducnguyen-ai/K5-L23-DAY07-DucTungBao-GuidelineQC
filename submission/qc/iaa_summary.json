@@ -12,11 +12,11 @@
     "assigned": 80
   },
   "inputs": {
-    "submission/taxonomy.json": "bbab4b01efd2411f0987770e3fade7ca1c70b7178f9f8b7bb0b745b9eac659a3",
-    "submission/guidelines/guideline_v1.0_agreed.md": "3fca52e7f7de8bf6c983955f8da83868bc2e8fece1d239ce8c4b8c399d665661",
-    "submission/qc/assignment.csv": "2289924d4c3a0dc5087027b4952e4c7eed636fbcb75759cdc581426e0c4a6f1c",
+    "submission/taxonomy.json": "3e7c321e5e36d40cc50b17cc7ec53a637358f724ecd3c0bc972210c215015e05",
+    "submission/guidelines/guideline_v1.0_agreed.md": "71e828fd3edf59a28a33aaf0dcb1f2adc52e7fb1194ec4f1800a2841cddc44bc",
+    "submission/qc/assignment.csv": "a0a5c55dbdef676edc1d16a464d36b179b319ea778bf1f1cbfcace26f61e9a7e",
     "submission/labels/138.json": "898a138ba437e7b7191010adcb623233a3c7db0b68bd6a2e9deef4f8f9ce114c",
-    "submission/labels/144.json": "8c3ac3263da59df95c2b5a90fc16f227c3b45bdd32373373ef1c95c8dd355fdb",
+    "submission/labels/144.json": "98b61c5f8e10804c2c958410c0694c02ada2e6c615ddf33a0786a99745087a26",
     "submission/labels/178.json": "059606b5ed3ae3aa50f51eac2ab2807cca1eb1283e2879c8b943d202b21a2ce1",
     "data/images/img_001.jpg": "74b15d37b53d99d6cb8b3f7648d064ff89fedf0662df5ca1594c2c9c8454ba88",
     "data/images/img_002.jpg": "7cfa98eb24c504aa15496a82a714e28cc318447d77d0cb3881f91d649374d3de",
@@ -60,8 +60,8 @@
     "data/images/img_040.jpg": "e16ee9a3cfe6ea33457e7562b7f7d5bea9f63eee5cce42180ba25282dc004e95"
   },
   "artifacts": {
-    "consensus_draft.json": "78120ab6e45aa1bc93f58e7e8d99fabfeed9d642d991c9a8b05ea987c703296b",
-    "flagged_images.txt": "3229665e1ee13f0c9a2d1325eca6c47d4bf4bb7fe96d8fc01d3d44583f901044",
+    "consensus_draft.json": "5a0e26198140db9693bdf173c8acad20dd7ea26be48072118adcdcc039f5bc46",
+    "flagged_images.txt": "65c0aebb6c8422569763dc95519dd1cafe0897100820d68726d1f06b40f02cf7",
     "calibration_candidates.csv": "225c900a1abab24e6e4d2d2069aa7bd3282fdaebb2bd69d46b82677a0b65fc58"
   },
   "overall": {

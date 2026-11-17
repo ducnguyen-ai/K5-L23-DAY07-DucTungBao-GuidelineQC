@@ -1,0 +1,41 @@
+image,object_id,error_type,reviewer,rule_id,region,note
+img_001.jpg,7,sai_vi_tri_kich_thuoc,178,R-02,,Box truck mở rộng sang cảnh quán/person bên trái; cần ôm phần xe thấy được. Trợ lý rà theo ủy quyền 178.
+img_002.jpg,,,,,,
+img_003.jpg,,,,,,
+img_004.jpg,,,,,,
+img_005.jpg,,bo_sot,178,"R-03,R-08",xe máy ở góc dưới bên phải,Thiếu box motorcycle phần đầu/thân thấy ở góc dưới phải. Trợ lý rà theo ủy quyền 178; cần sửa/kiểm lại.
+img_006.jpg,,,,,,
+img_007.jpg,,,,,,
+img_008.jpg,,,,,,
+img_009.jpg,,,,,,
+img_010.jpg,,,,,,
+img_011.jpg,,,,,,
+img_012.jpg,,,,,,
+img_013.jpg,,,,,,
+img_014.jpg,,bo_sot,178,"R-03,R-08",rider nhòe phía trái ảnh,"Chưa giải quyết rider và motorcycle nền nhòe; rider trái vẫn thấy mũ, thân và cánh tay. Trợ lý rà theo ủy quyền 178; cần sửa/kiểm lại."
+img_015.jpg,,,,,,
+img_016.jpg,,,,,,
+img_017.jpg,,khong,178,,,Rà bằng trợ lý theo ủy quyền 178: không có vật thuộc phạm vi; không phải xác nhận QC mới của 144.
+img_018.jpg,,,,,,
+img_019.jpg,,,,,,
+img_020.jpg,,khong,178,,,Rà bằng trợ lý theo ủy quyền 178: không có vật thuộc phạm vi; không phải xác nhận QC mới của 144.
+img_021.jpg,,bo_sot,178,"R-03,R-08",xe dưới người đội mũ xanh tiền cảnh trái,Motorcycle dưới người đội mũ xanh chưa có box; không chỉ gán người. Trợ lý rà theo ủy quyền 178; cần sửa/kiểm lại.
+img_022.jpg,,,,,,
+img_023.jpg,,,,,,
+img_024.jpg,,,,,,
+img_025.jpg,,,,,,
+img_026.jpg,,,,,,
+img_027.jpg,,khong,178,,,Rà bằng trợ lý theo ủy quyền 178: không có vật thuộc phạm vi; không phải xác nhận QC mới của 144.
+img_028.jpg,,,,,,
+img_029.jpg,,,,,,
+img_030.jpg,,,,,,
+img_031.jpg,,,,,,
+img_032.jpg,,,,,,
+img_033.jpg,,khong,178,,,Rà bằng trợ lý theo ủy quyền 178: không có vật thuộc phạm vi; không phải xác nhận QC mới của 144.
+img_034.jpg,,,,,,
+img_035.jpg,,,,,,
+img_036.jpg,,,,,,
+img_037.jpg,,,,,,
+img_038.jpg,,khong,178,,,Rà bằng trợ lý theo ủy quyền 178: không có vật thuộc phạm vi; không phải xác nhận QC mới của 144.
+img_039.jpg,,,,,,
+img_040.jpg,,,,,,

@@ -1,0 +1,478 @@
+{
+  "input_sha256": {
+    "138": "898a138ba437e7b7191010adcb623233a3c7db0b68bd6a2e9deef4f8f9ce114c",
+    "144": "98b61c5f8e10804c2c958410c0694c02ada2e6c615ddf33a0786a99745087a26",
+    "178": "059606b5ed3ae3aa50f51eac2ab2807cca1eb1283e2879c8b943d202b21a2ce1"
+  },
+  "selection": "178 if assigned, otherwise 138; working baseline only, not an accuracy ranking",
+  "actor": "Trợ lý theo ủy quyền 178; chưa có review độc lập của 144",
+  "images": {
+    "img_001.jpg": {
+      "source": "138",
+      "delete": [],
+      "update": {},
+      "add": [],
+      "note": "Truck bị người/cảnh quán che; cần kiểm lại extent bên trái và thuộc tính person.",
+      "resolved_first_pass": false
+    },
+    "img_002.jpg": {
+      "source": "178",
+      "delete": [],
+      "update": {},
+      "add": [],
+      "note": "Carrier một truck; các xe chở trên carrier là car riêng. Không lấy các box lưới đều của bản 144.",
+      "resolved_first_pass": true
+    },
+    "img_003.jpg": {
+      "source": "178",
+      "delete": [
+        14,
+        22
+      ],
+      "update": {
+        "13": {
+          "bbox": [
+            744,
+            43,
+            79,
+            130
+          ]
+        }
+      },
+      "add": [],
+      "note": "Loại box bicycle và person chỉ ôm đầu trùng person cùng vị trí; rebox motorcycle đỏ cạnh người áo trắng. Các box xe nền chồng nhau còn cần phân biệt chi tiết/trùng, giữ review thay vì xóa suy đoán.",
+      "resolved_first_pass": false
+    },
+    "img_004.jpg": {
+      "source": "178",
+      "delete": [],
+      "update": {},
+      "add": [],
+      "note": "Hai tuk_tuk và hai người lái riêng, box phương tiện không gộp người.",
+      "resolved_first_pass": true
+    },
+    "img_005.jpg": {
+      "source": "138",
+      "delete": [],
+      "update": {},
+      "add": [
+        {
+          "class": "van",
+          "bbox": [
+            65,
+            27,
+            895,
+            326
+          ],
+          "occluded_level": "1",
+          "truncated": "yes"
+        },
+        {
+          "class": "person",
+          "bbox": [
+            397,
+            28,
+            488,
+            564
+          ],
+          "occluded_level": "2",
+          "truncated": "no"
+        },
+        {
+          "class": "person",
+          "bbox": [
+            316,
+            118,
+            255,
+            408
+          ],
+          "occluded_level": "2",
+          "truncated": "no"
+        },
+        {
+          "class": "person",
+          "bbox": [
+            617,
+            40,
+            272,
+            387
+          ],
+          "occluded_level": "2",
+          "truncated": "no"
+        },
+        {
+          "class": "person",
+          "bbox": [
+            0,
+            333,
+            39,
+            271
+          ],
+          "occluded_level": "3",
+          "truncated": "yes"
+        }
+      ],
+      "note": "Bổ sung van và các rider bị bỏ sót. Vùng motorcycle chỉ lộ mảnh chồng nhau còn cần tách và review.",
+      "resolved_first_pass": false
+    },
+    "img_006.jpg": {
+      "source": "178",
+      "delete": [],
+      "update": {},
+      "add": [],
+      "note": "Người và phương tiện phải tách, đôi rider chồng nhau không phải trùng mặc định; còn cần kiểm extent motorcycle nền và thuộc tính.",
+      "resolved_first_pass": false
+    },
+    "img_007.jpg": {
+      "source": "178",
+      "delete": [
+        2
+      ],
+      "update": {},
+      "add": [],
+      "note": "Pickup gắn thùng cao và truck phải riêng; xóa box cabin pickup bị lặp trong box toàn xe.",
+      "resolved_first_pass": true
+    },
+    "img_008.jpg": {
+      "source": "138",
+      "delete": [],
+      "update": {},
+      "add": [],
+      "note": "Giữ nhãn đêm từ 138 làm nền; nhiều gương/đầu xe có khả năng là mảnh của xe đã có box, cần kiểm tách instance.",
+      "resolved_first_pass": false
+    },
+    "img_009.jpg": {
+      "source": "178",
+      "delete": [],
+      "update": {},
+      "add": [],
+      "note": "Minibus giữ bus. Còn người trong cửa sổ và rider nhỏ cần rà mức che và giới hạn ≥20 px.",
+      "resolved_first_pass": false
+    },
+    "img_010.jpg": {
+      "source": "138",
+      "delete": [],
+      "update": {
+        "1": {
+          "bbox": [
+            119,
+            118,
+            233,
+            304
+          ]
+        },
+        "2": {
+          "bbox": [
+            308,
+            114,
+            126,
+            390
+          ]
+        }
+      },
+      "add": [
+        {
+          "class": "person",
+          "bbox": [
+            134,
+            88,
+            244,
+            421
+          ],
+          "occluded_level": "2",
+          "truncated": "no"
+        }
+      ],
+      "note": "Tách người đội mũ trắng/áo nâu khỏi passenger mũ đỏ; không gộp người trên cùng xe. Kiểm lại motorcycle che khuất và chân chồng nhau.",
+      "resolved_first_pass": false
+    },
+    "img_011.jpg": {
+      "source": "178",
+      "delete": [
+        1,
+        19
+      ],
+      "update": {},
+      "add": [
+        {
+          "class": "person",
+          "bbox": [
+            534,
+            17,
+            426,
+            623
+          ],
+          "occluded_level": "0",
+          "truncated": "yes"
+        }
+      ],
+      "note": "Attribution xác định người mặc costume; thêm person phần thấy. Xóa box chi tiết/box gộp nhiều motorcycle rõ, các xe độ phía sau vẫn cần kiểm instance.",
+      "resolved_first_pass": false
+    },
+    "img_012.jpg": {
+      "source": "178",
+      "delete": [
+        1
+      ],
+      "update": {},
+      "add": [],
+      "note": "Hai box cùng pickup trước: giữ box có cả thùng và cabin; SUV trái là car, truck giữa là truck.",
+      "resolved_first_pass": true
+    },
+    "img_013.jpg": {
+      "source": "138",
+      "delete": [],
+      "update": {},
+      "add": [],
+      "note": "Ảnh đêm còn rider gần quán và người rất nhỏ, cần rà thiếu/ignore theo kích thước gốc.",
+      "resolved_first_pass": false
+    },
+    "img_014.jpg": {
+      "source": "178",
+      "delete": [],
+      "update": {},
+      "add": [],
+      "note": "Hai pedestrian trước rõ; rider và motorcycle nhòe nền chưa được bao phủ, cần giải quyết không mặc định ảnh sạch.",
+      "resolved_first_pass": false
+    },
+    "img_015.jpg": {
+      "source": "178",
+      "delete": [],
+      "update": {},
+      "add": [],
+      "note": "Sáu car thật, không gán phản chiếu mặt đường; mép ảnh và nhòe được xét riêng.",
+      "resolved_first_pass": true
+    },
+    "img_016.jpg": {
+      "source": "178",
+      "delete": [
+        9
+      ],
+      "update": {},
+      "add": [],
+      "note": "Không giữ hai box chồng đầu cùng người tiền cảnh. Van thân kín, pickup nền và hai tuk_tuk giữ lớp kết cấu; cần kiểm rider sau khung kính.",
+      "resolved_first_pass": false
+    },
+    "img_017.jpg": {
+      "source": "178",
+      "delete": [],
+      "update": {},
+      "add": [],
+      "note": "Tượng người/ngựa ngoài phạm vi; ảnh âm tính.",
+      "resolved_first_pass": true
+    },
+    "img_018.jpg": {
+      "source": "138",
+      "delete": [],
+      "update": {},
+      "add": [],
+      "note": "Không gán người in billboard; xe thật sau hàng rào cần rà mức che, box không ôm bảng/cột.",
+      "resolved_first_pass": false
+    },
+    "img_019.jpg": {
+      "source": "178",
+      "delete": [],
+      "update": {},
+      "add": [],
+      "note": "Chọn car cho xe biểu diễn theo bánh/thân ô tô và attribution; loại nhân vật giả. Đám đông vẫn cần rà từng người và che khuất.",
+      "resolved_first_pass": false
+    },
+    "img_020.jpg": {
+      "source": "178",
+      "delete": [],
+      "update": {},
+      "add": [],
+      "note": "Chỉ thấy xe qua gương và ego; ảnh âm tính theo R-13.",
+      "resolved_first_pass": true
+    },
+    "img_021.jpg": {
+      "source": "138",
+      "delete": [],
+      "update": {},
+      "add": [],
+      "note": "Cảnh đông rider: nhiều motorcycle chưa có box và người nhỏ chưa tách; cần kiểm cả lô ảnh, không dùng ignore lớn để che người rõ.",
+      "resolved_first_pass": false
+    },
+    "img_022.jpg": {
+      "source": "178",
+      "delete": [],
+      "update": {},
+      "add": [],
+      "note": "Một motorcycle bao cả sidecar gắn liền, không tách thành xe thứ hai.",
+      "resolved_first_pass": true
+    },
+    "img_023.jpg": {
+      "source": "138",
+      "delete": [],
+      "update": {},
+      "add": [],
+      "note": "Người trên xe đạp/xích lô vẫn person; không gán phương tiện đạp chân. Còn người và xe nền cần kiểm.",
+      "resolved_first_pass": false
+    },
+    "img_024.jpg": {
+      "source": "178",
+      "delete": [],
+      "update": {},
+      "add": [],
+      "note": "Giữ rooftop car cần review theo R-14 vì vỏ trưng bày chưa đủ bằng chứng xe hoàn chỉnh; car cam ở mép là xe khác, không xóa nhầm.",
+      "resolved_first_pass": false
+    },
+    "img_025.jpg": {
+      "source": "138",
+      "delete": [],
+      "update": {},
+      "add": [],
+      "note": "Người/xe bãi biển cần kiểm vật nhỏ và người nằm/được ghế che; không loại cả ảnh vì có tượng.",
+      "resolved_first_pass": false
+    },
+    "img_026.jpg": {
+      "source": "178",
+      "delete": [],
+      "update": {},
+      "add": [],
+      "note": "Hai người và một motorcycle; không gộp rider/passenger.",
+      "resolved_first_pass": true
+    },
+    "img_027.jpg": {
+      "source": "178",
+      "delete": [],
+      "update": {},
+      "add": [],
+      "note": "Pickup monument là mô hình tưởng niệm; ảnh âm tính.",
+      "resolved_first_pass": true
+    },
+    "img_028.jpg": {
+      "source": "138",
+      "delete": [],
+      "update": {
+        "1": {
+          "class": "truck",
+          "bbox": [
+            28,
+            297,
+            912,
+            423
+          ]
+        }
+      },
+      "add": [],
+      "note": "Pickup thật đổi car→truck; ngựa trên thùng là mô hình không gán; car đỏ riêng.",
+      "resolved_first_pass": true
+    },
+    "img_029.jpg": {
+      "source": "178",
+      "delete": [],
+      "update": {},
+      "add": [],
+      "note": "Người đi bicycle vẫn person; chỉ phương tiện có động cơ là motorcycle. Còn cụm người xa cần rà.",
+      "resolved_first_pass": false
+    },
+    "img_030.jpg": {
+      "source": "178",
+      "delete": [],
+      "update": {},
+      "add": [],
+      "note": "Xe đỗ dày đặc có box chi tiết trùng/bao nhiều xe; chưa chốt gộp hay tách khi chưa kiểm từng instance.",
+      "resolved_first_pass": false
+    },
+    "img_031.jpg": {
+      "source": "178",
+      "delete": [],
+      "update": {},
+      "add": [],
+      "note": "Xe tuyến 62 là bus. C600 person và motorcycle có thể hai instance hợp lệ; không ép cùng class từ phép ghép IoU.",
+      "resolved_first_pass": false
+    },
+    "img_032.jpg": {
+      "source": "178",
+      "delete": [],
+      "update": {},
+      "add": [],
+      "note": "Hàng người đông: cần kiểm từng đầu/thân và số instance; billboard/hình in không phải person.",
+      "resolved_first_pass": false
+    },
+    "img_033.jpg": {
+      "source": "138",
+      "delete": [],
+      "update": {},
+      "add": [],
+      "note": "Mannequin và phản chiếu ngoài phạm vi; ảnh âm tính.",
+      "resolved_first_pass": true
+    },
+    "img_034.jpg": {
+      "source": "178",
+      "delete": [
+        3,
+        4,
+        22,
+        27
+      ],
+      "update": {},
+      "add": [],
+      "note": "Loại bicycle bị gán motorcycle, car chồng vùng cyclist và người trùng ở bicycle trái; rider/cyclist thật vẫn person. Cụm xa còn cần rà.",
+      "resolved_first_pass": false
+    },
+    "img_035.jpg": {
+      "source": "178",
+      "delete": [],
+      "update": {},
+      "add": [],
+      "note": "Hai tuk_tuk chở bao không lấy bao làm extent; người lái/person riêng. Cần rà vật nhỏ nền và occlusion.",
+      "resolved_first_pass": false
+    },
+    "img_036.jpg": {
+      "source": "138",
+      "delete": [],
+      "update": {},
+      "add": [],
+      "note": "Truck cabin/thùng riêng; các motorcycle mép ảnh có thể box chi tiết trùng, cần kiểm extent và truncate.",
+      "resolved_first_pass": false
+    },
+    "img_037.jpg": {
+      "source": "138",
+      "delete": [],
+      "update": {},
+      "add": [],
+      "note": "Pickup gắn cap giữ truck, bus và person riêng; cấu trúc cap không đổi thành van.",
+      "resolved_first_pass": true
+    },
+    "img_038.jpg": {
+      "source": "178",
+      "delete": [],
+      "update": {},
+      "add": [],
+      "note": "Xe đồ chơi và ảnh/phản chiếu cửa kính ngoài phạm vi; ảnh âm tính.",
+      "resolved_first_pass": true
+    },
+    "img_039.jpg": {
+      "source": "178",
+      "delete": [
+        14
+      ],
+      "update": {},
+      "add": [],
+      "note": "Xóa person chỉ ôm đầu trùng person có thân. Xe xa và vài rider còn cần kiểm class/occlusion.",
+      "resolved_first_pass": false
+    },
+    "img_040.jpg": {
+      "source": "178",
+      "delete": [
+        2
+      ],
+      "update": {
+        "4": {
+          "bbox": [
+            17,
+            145,
+            943,
+            495
+          ]
+        }
+      },
+      "add": [],
+      "note": "Xóa ego motorcycle chỉ gồm gương; taxi xanh rebox theo thân xe, giữ bus/tuk_tuk và người riêng. Mức che/extent tuk_tuk sau taxi cần review.",
+      "resolved_first_pass": false
+    }
+  },
+  "rules": "R-01,R-02,R-03,R-04,R-06,R-07,R-08,R-09,R-10,R-12,R-13,R-14,R-16"
+}
