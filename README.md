@@ -3,7 +3,7 @@
 ## Setup nhóm sau khi cập nhật đề
 
 - Repo: `K5-L23-DAY07-DucTungBao-GuidelineQC`; lớp **L2**, 3 thành viên, mỗi ảnh **K = 2 người gán độc lập**.
-- Đã có assignment và guideline chung v1.0 được chốt. Đang gán/rà nhãn; chưa có kết quả IAA, calibration hoặc QC bàn giao.
+- Đã có đủ nhãn 138/144/178 và tính IAA: 80/80 lượt, IoU 0,882, cùng lớp 96,6%. Đang calibration 34 ảnh; chưa có nhãn cuối hoặc kết quả QC bàn giao.
 - Bản đề mới chỉ dùng mã trong tên file, Task và nhật ký. Không đưa họ tên, MSHV đầy đủ hay email vào artifact nộp; bảng đối chiếu gửi riêng qua kênh lớp.
 - Fork này vẫn public. Gửi guideline/nhãn cá nhân riêng cho đến khi cả nhóm hoàn thành pha độc lập; không push sớm lên repo chung. Nộp cuối qua repo private có quyền coach hoặc ZIP qua LMS theo [SUBMISSION.md](SUBMISSION.md).
 - Lịch sử fork có thông tin thành viên từ setup trước; việc sửa nội dung hiện tại không xóa lịch sử đó. Không dùng link fork public thay cho kênh nộp riêng tư mới.
@@ -13,6 +13,14 @@
 Áp dụng [guideline v1.0](submission/guidelines/guideline_v1.0_agreed.md) cho cả nhóm. [Taxonomy v1.0](submission/taxonomy.json) và [cấu hình CVAT](cvat/labels_generated.json) có 7 lớp đối tượng (`car`, `truck`, `van`, `bus`, `tuk_tuk`, `motorcycle`, `person`) cùng `ignore_region`. Ngưỡng QC giữ nguyên theo đề.
 
 [Bản áp dụng của 178](submission/guidelines/individual/guideline_178.md) theo đủ 5 phần của mẫu. Các nguồn cá nhân 138/144 giữ nguyên để đối chiếu. Ghi chú sử dụng công cụ và tiến độ của 178 nằm trong [ghi chú cá nhân](submission/individual_notes/178.md).
+
+## Tiến độ sau IAA — 17/11/2026
+
+- [Báo cáo IAA](submission/qc/iaa_summary.md): đạt ngưỡng tổng trên 268 cặp box ghép; hai cặp thành viên chưa đạt riêng. Không coi IAA đạt là Release.
+- [Bảng calibration](submission/qc/calibration_decisions.csv): 837 dòng chờ xử lý; có 337 cờ can_review từ bản 178. 178 chốt calibration, 144 review QC.
+- [Báo cáo tiến độ QC](submission/qc/QC_REPORT.md): Hold, chưa mở vòng review nhãn cuối.
+- Sinh ảnh chồng để họp: `.venv/Scripts/python.exe scripts/viz_disagreement.py --images flagged`; mở `work/viz/`. Nhãn cá nhân đã khóa đầu vào IAA; không sửa để tăng số đo đồng thuận.
+- Sau khi nhóm ghi quyết định và guideline v1.1, chạy `prepare_calibration.py`, sửa đúng scope, export đúng revision rồi `build_final.py`; tiếp theo `qc_sample.py --round 1`, review thật, `qc_report.py --round 1`, `check_submission.py --round 1`.
 
 ## Cài và tái lập phân công
 

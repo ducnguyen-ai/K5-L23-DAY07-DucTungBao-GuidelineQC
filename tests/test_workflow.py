@@ -103,6 +103,17 @@ class WorkflowTest(unittest.TestCase):
             self.coco(self.sub / "labels" / f"{member}.json")
         self.run_script("qc_compare")
 
+    def test_iaa_markdown_pair_names_stay_in_one_table_cell(self):
+        self.compare()
+        report = (self.qc / "iaa_summary.md").read_text(encoding="utf-8")
+        header = next(line for line in report.splitlines() if line.startswith("| Cặp |"))
+        pair = next(line for line in report.splitlines() if line.startswith("| 101 / 102 |"))
+        self.assertEqual(len(pair.split("|")), len(header.split("|")))
+        summary = json.loads((self.qc / "iaa_summary.json").read_text(encoding="utf-8"))
+        self.assertIn("101|102", summary["per_pair"])
+        self.assertEqual(summary["overall"]["n_matched_pairs"], 2)
+        self.assertEqual(summary["overall"]["mean_iou"], 1.0)
+
     def clean_lot(self):
         self.compare()
         self.run_script("build_final")

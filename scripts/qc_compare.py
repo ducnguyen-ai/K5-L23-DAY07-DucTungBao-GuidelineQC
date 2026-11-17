@@ -252,7 +252,8 @@ def main() -> None:
           "|---|---|---|---|---|" + "---|" * len(check_attrs) + "---|---|---|"]
     for k, v in [("**TỔNG**", ov)] + list(summary["per_pair"].items()):
         mi_s = "n/a" if v["mean_iou"] is None else "%.3f" % v["mean_iou"]
-        md.append(f"| {k} | {v['n_images']} | {v['n_matched_pairs']} | "
+        display_pair = k.replace("|", " / ")  # Keep pair IDs inside one Markdown cell.
+        md.append(f"| {display_pair} | {v['n_images']} | {v['n_matched_pairs']} | "
                   f"{mi_s} | {pct(v['class_agreement'])} | " +
                   " | ".join(pct(v['attr_agreement'][a]) for a in check_attrs) +
                   f" | {v['n_unmatched_a']}/{v['n_unmatched_b']} | {v['n_skipped_in_ignore']} | "
